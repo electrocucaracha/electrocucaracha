@@ -19,3 +19,5 @@ Engineer.
 shop. We cleaned them up before fixing and usually we discovered many
 interesting things along the disassembly process. That's where this
 nickname came from.
+
+[![Victor Morales' GitHub stats](https://github-readme-stats.vercel.app/api?username=electrocucaracha)](https://github.com/anuraghazra/github-readme-stats)
