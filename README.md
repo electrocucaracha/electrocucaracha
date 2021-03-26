@@ -23,3 +23,8 @@ nickname came from.
 
 [![Victor's GitHub statistics](https://github-readme-stats.vercel.app/api?username=electrocucaracha)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 [![Victor's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=electrocucaracha)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
