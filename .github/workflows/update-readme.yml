@@ -12,7 +12,7 @@ name: Update README
 # yamllint disable-line rule:truthy
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 0 * * 5'
   workflow_dispatch:
 
 jobs:
