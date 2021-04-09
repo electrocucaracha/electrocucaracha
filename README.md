@@ -27,9 +27,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27288](https://github.com/kubernetes/website/issues/27288) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#120](https://github.com/cncf/cnf-wg/issues/120) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-3. 💪 Opened PR [#121](https://github.com/cncf/cnf-wg/pull/121) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-4. 💪 Opened PR [#120](https://github.com/cncf/cnf-wg/pull/120) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-5. 🎉 Merged PR [#5](https://github.com/electrocucaracha/autionboard/pull/5) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
+1. 🗣 Commented on [#27426](https://github.com/kubernetes/website/issues/27426) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#27241](https://github.com/kubernetes/website/issues/27241) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#27288](https://github.com/kubernetes/website/issues/27288) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#120](https://github.com/cncf/cnf-wg/issues/120) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+5. 💪 Opened PR [#121](https://github.com/cncf/cnf-wg/pull/121) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
 <!--END_SECTION:activity-->
