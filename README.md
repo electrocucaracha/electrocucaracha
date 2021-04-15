@@ -21,8 +21,17 @@ shop. We cleaned them up before fixing and usually we discovered many
 interesting things along the disassembly process. That's where this
 nickname came from.
 
+---
+
 [![Victor's GitHub statistics](https://github-readme-stats.vercel.app/api?username=electrocucaracha)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 [![Victor's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=electrocucaracha)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
+---
+
+## 📘 Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
 

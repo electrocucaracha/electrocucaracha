@@ -23,4 +23,6 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_LINES: 10
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: https://electrocucaracha.com/feed/
