@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27426](https://github.com/kubernetes/website/issues/27426) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#27241](https://github.com/kubernetes/website/issues/27241) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#27288](https://github.com/kubernetes/website/issues/27288) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#120](https://github.com/cncf/cnf-wg/issues/120) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-5. 💪 Opened PR [#121](https://github.com/cncf/cnf-wg/pull/121) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+1. 🗣 Commented on [#6248](https://github.com/magma/magma/issues/6248) in [magma/magma](https://github.com/magma/magma)
+2. 🗣 Commented on [#139](https://github.com/cncf/cnf-wg/issues/139) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+3. 💪 Opened PR [#137](https://github.com/cncf/cnf-wg/pull/137) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 🎉 Merged PR [#10](https://github.com/electrocucaracha/krd/pull/10) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🗣 Commented on [#27426](https://github.com/kubernetes/website/issues/27426) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
