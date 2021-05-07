@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6388](https://github.com/project-chip/connectedhomeip/issues/6388) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. 🗣 Commented on [#6373](https://github.com/project-chip/connectedhomeip/issues/6373) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-3. 💪 Opened PR [#6373](https://github.com/project-chip/connectedhomeip/pull/6373) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-4. 🗣 Commented on [#161](https://github.com/cncf/cnf-wg/issues/161) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-5. 🗣 Commented on [#6248](https://github.com/magma/magma/issues/6248) in [magma/magma](https://github.com/magma/magma)
+1. 🗣 Commented on [#161](https://github.com/cncf/cnf-wg/issues/161) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+2. 🗣 Commented on [#27871](https://github.com/kubernetes/website/issues/27871) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#6388](https://github.com/project-chip/connectedhomeip/issues/6388) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+4. 🗣 Commented on [#6388](https://github.com/project-chip/connectedhomeip/issues/6388) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+5. 🗣 Commented on [#6388](https://github.com/project-chip/connectedhomeip/issues/6388) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
 <!--END_SECTION:activity-->
