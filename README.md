@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/cncf/cnf-wg/issues/161) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. 🗣 Commented on [#27871](https://github.com/kubernetes/website/issues/27871) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#6388](https://github.com/project-chip/connectedhomeip/issues/6388) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-4. 🗣 Commented on [#6388](https://github.com/project-chip/connectedhomeip/issues/6388) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 🗣 Commented on [#6388](https://github.com/project-chip/connectedhomeip/issues/6388) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+1. 💪 Opened PR [#172](https://github.com/cncf/cnf-wg/pull/172) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+2. 🗣 Commented on [#170](https://github.com/cncf/cnf-wg/issues/170) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+3. 🎉 Merged PR [#7](https://github.com/electrocucaracha/autionboard/pull/7) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
+4. 🎉 Merged PR [#8](https://github.com/electrocucaracha/autionboard/pull/8) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
+5. 🗣 Commented on [#161](https://github.com/cncf/cnf-wg/issues/161) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
 <!--END_SECTION:activity-->
