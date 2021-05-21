@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#172](https://github.com/cncf/cnf-wg/pull/172) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. 🗣 Commented on [#170](https://github.com/cncf/cnf-wg/issues/170) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-3. 🎉 Merged PR [#7](https://github.com/electrocucaracha/autionboard/pull/7) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
-4. 🎉 Merged PR [#8](https://github.com/electrocucaracha/autionboard/pull/8) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
-5. 🗣 Commented on [#161](https://github.com/cncf/cnf-wg/issues/161) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+1. 🎉 Merged PR [#2](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/2) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🎉 Merged PR [#1](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/1) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 💪 Opened PR [#172](https://github.com/cncf/cnf-wg/pull/172) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 🗣 Commented on [#170](https://github.com/cncf/cnf-wg/issues/170) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+5. 🎉 Merged PR [#7](https://github.com/electrocucaracha/autionboard/pull/7) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
 <!--END_SECTION:activity-->
