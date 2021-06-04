@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28135](https://github.com/kubernetes/website/issues/28135) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#27784](https://github.com/kubernetes/website/issues/27784) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 💪 Opened PR [#7196](https://github.com/project-chip/connectedhomeip/pull/7196) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-4. 🗣 Commented on [#6862](https://github.com/project-chip/connectedhomeip/issues/6862) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 💪 Opened PR [#7105](https://github.com/project-chip/connectedhomeip/pull/7105) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+1. ❌ Closed PR [#12](https://github.com/electrocucaracha/krd/pull/12) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#7](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/7) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🎉 Merged PR [#6](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/6) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#5](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/5) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🎉 Merged PR [#4](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/4) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
