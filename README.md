@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/8) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. ❌ Closed PR [#14](https://github.com/electrocucaracha/krd/pull/14) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
-4. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
-5. 🗣 Commented on [#28327](https://github.com/kubernetes/website/issues/28327) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#7105](https://github.com/magma/magma/issues/7105) in [magma/magma](https://github.com/magma/magma)
+2. 🎉 Merged PR [#17](https://github.com/electrocucaracha/krd/pull/17) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🗣 Commented on [#1](https://github.com/cloudnativos/comunidad/issues/1) in [cloudnativos/comunidad](https://github.com/cloudnativos/comunidad)
+4. 🗣 Commented on [#7030](https://github.com/kubernetes-sigs/kubespray/issues/7030) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. ❗️ Opened issue [#1395](https://github.com/tektoncd/cli/issues/1395) in [tektoncd/cli](https://github.com/tektoncd/cli)
 <!--END_SECTION:activity-->
