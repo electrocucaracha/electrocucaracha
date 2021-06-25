@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7105](https://github.com/magma/magma/issues/7105) in [magma/magma](https://github.com/magma/magma)
-2. 🎉 Merged PR [#17](https://github.com/electrocucaracha/krd/pull/17) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🗣 Commented on [#1](https://github.com/cloudnativos/comunidad/issues/1) in [cloudnativos/comunidad](https://github.com/cloudnativos/comunidad)
-4. 🗣 Commented on [#7030](https://github.com/kubernetes-sigs/kubespray/issues/7030) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-5. ❗️ Opened issue [#1395](https://github.com/tektoncd/cli/issues/1395) in [tektoncd/cli](https://github.com/tektoncd/cli)
+1. 🎉 Merged PR [#9](https://github.com/electrocucaracha/autionboard/pull/9) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
+2. 🎉 Merged PR [#6](https://github.com/electrocucaracha/autionboard/pull/6) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
+3. 🎉 Merged PR [#20](https://github.com/electrocucaracha/krd/pull/20) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🗣 Commented on [#7715](https://github.com/project-chip/connectedhomeip/issues/7715) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+5. 🎉 Merged PR [#19](https://github.com/electrocucaracha/krd/pull/19) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
