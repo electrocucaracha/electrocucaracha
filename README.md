@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/electrocucaracha/autionboard/pull/9) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
-2. 🎉 Merged PR [#6](https://github.com/electrocucaracha/autionboard/pull/6) in [electrocucaracha/autionboard](https://github.com/electrocucaracha/autionboard)
-3. 🎉 Merged PR [#20](https://github.com/electrocucaracha/krd/pull/20) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🗣 Commented on [#7715](https://github.com/project-chip/connectedhomeip/issues/7715) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 🎉 Merged PR [#19](https://github.com/electrocucaracha/krd/pull/19) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#24](https://github.com/electrocucaracha/krd/pull/24) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#23](https://github.com/electrocucaracha/krd/pull/23) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🎉 Merged PR [#12](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/12) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#4](https://github.com/electrocucaracha/releng/pull/4) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+5. 🎉 Merged PR [#22](https://github.com/electrocucaracha/krd/pull/22) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
