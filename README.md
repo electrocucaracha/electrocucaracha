@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/electrocucaracha/krd/pull/24) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🎉 Merged PR [#23](https://github.com/electrocucaracha/krd/pull/23) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🎉 Merged PR [#12](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/12) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🎉 Merged PR [#4](https://github.com/electrocucaracha/releng/pull/4) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-5. 🎉 Merged PR [#22](https://github.com/electrocucaracha/krd/pull/22) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#14](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/14) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🎉 Merged PR [#27](https://github.com/electrocucaracha/krd/pull/27) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🎉 Merged PR [#26](https://github.com/electrocucaracha/krd/pull/26) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🗣 Commented on [#7105](https://github.com/magma/magma/issues/7105) in [magma/magma](https://github.com/magma/magma)
+5. 🎉 Merged PR [#25](https://github.com/electrocucaracha/krd/pull/25) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
