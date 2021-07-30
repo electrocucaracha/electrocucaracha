@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/electrocucaracha/krd/pull/31) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🗣 Commented on [#29043](https://github.com/kubernetes/website/issues/29043) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#30](https://github.com/electrocucaracha/krd/pull/30) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🎉 Merged PR [#7](https://github.com/electrocucaracha/releng/pull/7) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-5. 🎉 Merged PR [#16](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/16) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. ❌ Closed PR [#3](https://github.com/electrocucaracha/bootstrap-vagrant/pull/3) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+2. 🗣 Commented on [#3](https://github.com/electrocucaracha/bootstrap-vagrant/issues/3) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+3. 🎉 Merged PR [#10](https://github.com/electrocucaracha/releng/pull/10) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+4. 🎉 Merged PR [#18](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/18) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🎉 Merged PR [#17](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/17) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
