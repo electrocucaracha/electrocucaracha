@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/electrocucaracha/bootstrap-vagrant/pull/3) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-2. 🗣 Commented on [#3](https://github.com/electrocucaracha/bootstrap-vagrant/issues/3) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-3. 🎉 Merged PR [#10](https://github.com/electrocucaracha/releng/pull/10) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-4. 🎉 Merged PR [#18](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/18) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🎉 Merged PR [#17](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/17) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🎉 Merged PR [#20](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/20) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 💪 Opened PR [#7854](https://github.com/kubernetes-sigs/kubespray/pull/7854) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+3. 🗣 Commented on [#20](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/20) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🗣 Commented on [#20](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/20) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. ❌ Closed PR [#1](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/1) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
 <!--END_SECTION:activity-->
