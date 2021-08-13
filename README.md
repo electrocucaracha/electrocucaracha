@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/20) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 💪 Opened PR [#7854](https://github.com/kubernetes-sigs/kubespray/pull/7854) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-3. 🗣 Commented on [#20](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/20) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🗣 Commented on [#20](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/20) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. ❌ Closed PR [#1](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/1) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+1. 🎉 Merged PR [#21](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/21) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🎉 Merged PR [#35](https://github.com/electrocucaracha/krd/pull/35) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🗣 Commented on [#29202](https://github.com/kubernetes/website/issues/29202) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#29310](https://github.com/kubernetes/website/issues/29310) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#29202](https://github.com/kubernetes/website/issues/29202) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
