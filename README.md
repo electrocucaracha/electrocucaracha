@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/electrocucaracha/releng/pull/15) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-2. 🗣 Commented on [#15](https://github.com/electrocucaracha/releng/issues/15) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-3. 🗣 Commented on [#15](https://github.com/electrocucaracha/releng/issues/15) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-4. 🗣 Commented on [#9284](https://github.com/project-chip/connectedhomeip/issues/9284) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 🎉 Merged PR [#43](https://github.com/electrocucaracha/krd/pull/43) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
+2. 🎉 Merged PR [#27](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/27) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. ❌ Closed PR [#17](https://github.com/electrocucaracha/releng/pull/17) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+4. 🗣 Commented on [#17](https://github.com/electrocucaracha/releng/issues/17) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+5. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
 <!--END_SECTION:activity-->
