@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
-2. 🎉 Merged PR [#27](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/27) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. ❌ Closed PR [#17](https://github.com/electrocucaracha/releng/pull/17) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-4. 🗣 Commented on [#17](https://github.com/electrocucaracha/releng/issues/17) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-5. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
+1. 🗣 Commented on [#29624](https://github.com/kubernetes/website/issues/29624) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🎉 Merged PR [#2](https://github.com/electrocucaracha/test/pull/2) in [electrocucaracha/test](https://github.com/electrocucaracha/test)
+3. 🗣 Commented on [#2](https://github.com/electrocucaracha/test/issues/2) in [electrocucaracha/test](https://github.com/electrocucaracha/test)
+4. 🗣 Commented on [#2](https://github.com/electrocucaracha/test/issues/2) in [electrocucaracha/test](https://github.com/electrocucaracha/test)
+5. 💪 Opened PR [#2](https://github.com/electrocucaracha/test/pull/2) in [electrocucaracha/test](https://github.com/electrocucaracha/test)
 <!--END_SECTION:activity-->
