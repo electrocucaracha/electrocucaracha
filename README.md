@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9761](https://github.com/project-chip/connectedhomeip/pull/9761) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. 🗣 Commented on [#29177](https://github.com/kubernetes/website/issues/29177) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#20](https://github.com/electrocucaracha/releng/pull/20) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-4. ❌ Closed PR [#30](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/30) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🎉 Merged PR [#49](https://github.com/electrocucaracha/krd/pull/49) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#50](https://github.com/electrocucaracha/krd/pull/50) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 💪 Opened PR [#9775](https://github.com/project-chip/connectedhomeip/pull/9775) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+3. 💪 Opened PR [#9761](https://github.com/project-chip/connectedhomeip/pull/9761) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+4. 🗣 Commented on [#29177](https://github.com/kubernetes/website/issues/29177) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🎉 Merged PR [#20](https://github.com/electrocucaracha/releng/pull/20) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
 <!--END_SECTION:activity-->
