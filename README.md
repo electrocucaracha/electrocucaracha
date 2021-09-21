@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/electrocucaracha/krd/issues/51) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🎉 Merged PR [#50](https://github.com/electrocucaracha/krd/pull/50) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 💪 Opened PR [#9775](https://github.com/project-chip/connectedhomeip/pull/9775) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-4. 💪 Opened PR [#9761](https://github.com/project-chip/connectedhomeip/pull/9761) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 🗣 Commented on [#29177](https://github.com/kubernetes/website/issues/29177) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 💪 Opened PR [#192](https://github.com/cncf/cnf-wg/pull/192) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+2. 🎉 Merged PR [#21](https://github.com/electrocucaracha/releng/pull/21) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+3. 🗣 Commented on [#29750](https://github.com/kubernetes/website/issues/29750) in [kubernetes/website](https://github.com/kubernetes/website)
+4. ❌ Closed PR [#51](https://github.com/electrocucaracha/krd/pull/51) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🗣 Commented on [#51](https://github.com/electrocucaracha/krd/issues/51) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
