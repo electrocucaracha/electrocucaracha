@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/electrocucaracha/releng/pull/23) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-2. 🎉 Merged PR [#32](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/32) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. ❌ Closed PR [#55](https://github.com/electrocucaracha/krd/pull/55) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🗣 Commented on [#29779](https://github.com/kubernetes/website/issues/29779) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🎉 Merged PR [#22](https://github.com/electrocucaracha/releng/pull/22) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+1. ❌ Closed PR [#56](https://github.com/electrocucaracha/krd/pull/56) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 💪 Opened PR [#8020](https://github.com/kubernetes-sigs/kubespray/pull/8020) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+3. 💪 Opened PR [#8019](https://github.com/kubernetes-sigs/kubespray/pull/8019) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+4. 🎉 Merged PR [#23](https://github.com/electrocucaracha/releng/pull/23) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+5. 🎉 Merged PR [#32](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/32) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
