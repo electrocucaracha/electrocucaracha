@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/33) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🎉 Merged PR [#57](https://github.com/electrocucaracha/krd/pull/57) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 💪 Opened PR [#9974](https://github.com/project-chip/connectedhomeip/pull/9974) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-4. ❌ Closed PR [#56](https://github.com/electrocucaracha/krd/pull/56) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 💪 Opened PR [#8020](https://github.com/kubernetes-sigs/kubespray/pull/8020) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+1. 💪 Opened PR [#9999](https://github.com/project-chip/connectedhomeip/pull/9999) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+2. 🎉 Merged PR [#24](https://github.com/electrocucaracha/releng/pull/24) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+3. 🎉 Merged PR [#33](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/33) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#57](https://github.com/electrocucaracha/krd/pull/57) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 💪 Opened PR [#9974](https://github.com/project-chip/connectedhomeip/pull/9974) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
 <!--END_SECTION:activity-->
