@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9999](https://github.com/project-chip/connectedhomeip/issues/9999) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. 🎉 Merged PR [#58](https://github.com/electrocucaracha/krd/pull/58) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 💪 Opened PR [#10041](https://github.com/project-chip/connectedhomeip/pull/10041) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-4. 🗣 Commented on [#9999](https://github.com/project-chip/connectedhomeip/issues/9999) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 💪 Opened PR [#10033](https://github.com/project-chip/connectedhomeip/pull/10033) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+1. 🎉 Merged PR [#36](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/36) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🗣 Commented on [#10033](https://github.com/project-chip/connectedhomeip/issues/10033) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+3. 🗣 Commented on [#9999](https://github.com/project-chip/connectedhomeip/issues/9999) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+4. 🎉 Merged PR [#58](https://github.com/electrocucaracha/krd/pull/58) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 💪 Opened PR [#10041](https://github.com/project-chip/connectedhomeip/pull/10041) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
 <!--END_SECTION:activity-->
