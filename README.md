@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5322](https://github.com/espressif/esp-idf/issues/5322) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
-2. 💪 Opened PR [#10165](https://github.com/project-chip/connectedhomeip/pull/10165) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-3. 🎉 Merged PR [#60](https://github.com/electrocucaracha/krd/pull/60) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🎉 Merged PR [#8](https://github.com/electrocucaracha/bootstrap-vagrant/pull/8) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-5. 💪 Opened PR [#7632](https://github.com/espressif/esp-idf/pull/7632) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
+1. 🗣 Commented on [#7631](https://github.com/espressif/esp-idf/issues/7631) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
+2. 🗣 Commented on [#5322](https://github.com/espressif/esp-idf/issues/5322) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
+3. 💪 Opened PR [#10165](https://github.com/project-chip/connectedhomeip/pull/10165) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+4. 🎉 Merged PR [#60](https://github.com/electrocucaracha/krd/pull/60) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🎉 Merged PR [#8](https://github.com/electrocucaracha/bootstrap-vagrant/pull/8) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
 <!--END_SECTION:activity-->
