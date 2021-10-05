@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7631](https://github.com/espressif/esp-idf/issues/7631) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
-2. 🗣 Commented on [#5322](https://github.com/espressif/esp-idf/issues/5322) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
-3. 💪 Opened PR [#10165](https://github.com/project-chip/connectedhomeip/pull/10165) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-4. 🎉 Merged PR [#60](https://github.com/electrocucaracha/krd/pull/60) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🎉 Merged PR [#8](https://github.com/electrocucaracha/bootstrap-vagrant/pull/8) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+1. 🗣 Commented on [#195](https://github.com/cncf/cnf-wg/issues/195) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+2. 💪 Opened PR [#195](https://github.com/cncf/cnf-wg/pull/195) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+3. 🗣 Commented on [#7631](https://github.com/espressif/esp-idf/issues/7631) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
+4. 🗣 Commented on [#5322](https://github.com/espressif/esp-idf/issues/5322) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
+5. 💪 Opened PR [#10165](https://github.com/project-chip/connectedhomeip/pull/10165) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
 <!--END_SECTION:activity-->
