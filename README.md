@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/cncf/cnf-wg/issues/195) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. 💪 Opened PR [#195](https://github.com/cncf/cnf-wg/pull/195) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-3. 🗣 Commented on [#7631](https://github.com/espressif/esp-idf/issues/7631) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
-4. 🗣 Commented on [#5322](https://github.com/espressif/esp-idf/issues/5322) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
-5. 💪 Opened PR [#10165](https://github.com/project-chip/connectedhomeip/pull/10165) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+1. ❌ Closed PR [#25](https://github.com/electrocucaracha/releng/pull/25) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+2. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
+3. 🗣 Commented on [#195](https://github.com/cncf/cnf-wg/issues/195) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 💪 Opened PR [#195](https://github.com/cncf/cnf-wg/pull/195) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+5. 🗣 Commented on [#7631](https://github.com/espressif/esp-idf/issues/7631) in [espressif/esp-idf](https://github.com/espressif/esp-idf)
 <!--END_SECTION:activity-->
