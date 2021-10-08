@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10297](https://github.com/project-chip/connectedhomeip/pull/10297) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. ❗️ Closed issue [#24](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/24) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. ❗️ Opened issue [#12](https://github.com/flannel-io/cni-plugin/issues/12) in [flannel-io/cni-plugin](https://github.com/flannel-io/cni-plugin)
-4. 🗣 Commented on [#655](https://github.com/containernetworking/plugins/issues/655) in [containernetworking/plugins](https://github.com/containernetworking/plugins)
-5. ❌ Closed PR [#37](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/37) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#10041](https://github.com/project-chip/connectedhomeip/issues/10041) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+2. 🎉 Merged PR [#62](https://github.com/electrocucaracha/krd/pull/62) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 💪 Opened PR [#10297](https://github.com/project-chip/connectedhomeip/pull/10297) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+4. ❗️ Closed issue [#24](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/24) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. ❗️ Opened issue [#12](https://github.com/flannel-io/cni-plugin/issues/12) in [flannel-io/cni-plugin](https://github.com/flannel-io/cni-plugin)
 <!--END_SECTION:activity-->
