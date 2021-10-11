@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13948](https://github.com/kubernetes/website/issues/13948) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#29989](https://github.com/kubernetes/website/issues/29989) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#30007](https://github.com/kubernetes/website/issues/30007) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#13948](https://github.com/kubernetes/website/issues/13948) in [kubernetes/website](https://github.com/kubernetes/website)
 3. 🗣 Commented on [#29989](https://github.com/kubernetes/website/issues/29989) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🎉 Merged PR [#27](https://github.com/electrocucaracha/releng/pull/27) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-5. 🗣 Commented on [#10041](https://github.com/project-chip/connectedhomeip/issues/10041) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+4. 🗣 Commented on [#29989](https://github.com/kubernetes/website/issues/29989) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🎉 Merged PR [#27](https://github.com/electrocucaracha/releng/pull/27) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
 <!--END_SECTION:activity-->
