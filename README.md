@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#197](https://github.com/cncf/cnf-wg/pull/197) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. 💪 Opened PR [#10455](https://github.com/project-chip/connectedhomeip/pull/10455) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-3. 🎉 Merged PR [#38](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/38) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🎉 Merged PR [#1](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/1) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-5. 🎉 Merged PR [#30](https://github.com/electrocucaracha/releng/pull/30) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+1. 🗣 Commented on [#41](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/41) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 💪 Opened PR [#197](https://github.com/cncf/cnf-wg/pull/197) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+3. 💪 Opened PR [#10455](https://github.com/project-chip/connectedhomeip/pull/10455) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+4. 🎉 Merged PR [#38](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/38) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🎉 Merged PR [#1](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/1) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
 <!--END_SECTION:activity-->
