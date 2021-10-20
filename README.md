@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30065](https://github.com/kubernetes/website/issues/30065) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#160](https://github.com/crystal-lang/distribution-scripts/issues/160) in [crystal-lang/distribution-scripts](https://github.com/crystal-lang/distribution-scripts)
-3. 💪 Opened PR [#160](https://github.com/crystal-lang/distribution-scripts/pull/160) in [crystal-lang/distribution-scripts](https://github.com/crystal-lang/distribution-scripts)
-4. 🎉 Merged PR [#67](https://github.com/electrocucaracha/krd/pull/67) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🗣 Commented on [#67](https://github.com/electrocucaracha/krd/issues/67) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🗣 Commented on [#30137](https://github.com/kubernetes/website/issues/30137) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#30065](https://github.com/kubernetes/website/issues/30065) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#160](https://github.com/crystal-lang/distribution-scripts/issues/160) in [crystal-lang/distribution-scripts](https://github.com/crystal-lang/distribution-scripts)
+4. 💪 Opened PR [#160](https://github.com/crystal-lang/distribution-scripts/pull/160) in [crystal-lang/distribution-scripts](https://github.com/crystal-lang/distribution-scripts)
+5. 🎉 Merged PR [#67](https://github.com/electrocucaracha/krd/pull/67) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
