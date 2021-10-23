@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10041](https://github.com/project-chip/connectedhomeip/issues/10041) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. 🎉 Merged PR [#31](https://github.com/electrocucaracha/releng/pull/31) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-3. 🎉 Merged PR [#68](https://github.com/electrocucaracha/krd/pull/68) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🗣 Commented on [#2](https://github.com/electrocucaracha/k8s-Ingress-demo/issues/2) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-5. 🗣 Commented on [#41](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/41) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. ❌ Closed PR [#3](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/3) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 💪 Opened PR [#10856](https://github.com/project-chip/connectedhomeip/pull/10856) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+3. 🎉 Merged PR [#2](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/2) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+4. 🗣 Commented on [#10041](https://github.com/project-chip/connectedhomeip/issues/10041) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+5. 🎉 Merged PR [#31](https://github.com/electrocucaracha/releng/pull/31) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
 <!--END_SECTION:activity-->
