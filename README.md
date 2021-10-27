@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10937](https://github.com/project-chip/connectedhomeip/pull/10937) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. 🗣 Commented on [#30209](https://github.com/kubernetes/website/issues/30209) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#32](https://github.com/electrocucaracha/releng/pull/32) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-4. ❌ Closed PR [#3](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/3) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-5. 💪 Opened PR [#10856](https://github.com/project-chip/connectedhomeip/pull/10856) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+1. 🎉 Merged PR [#69](https://github.com/electrocucaracha/krd/pull/69) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🗣 Commented on [#30257](https://github.com/kubernetes/website/issues/30257) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#12](https://github.com/flannel-io/cni-plugin/issues/12) in [flannel-io/cni-plugin](https://github.com/flannel-io/cni-plugin)
+4. 🗣 Commented on [#10940](https://github.com/project-chip/connectedhomeip/issues/10940) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+5. 🗣 Commented on [#29898](https://github.com/kubernetes/website/issues/29898) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
