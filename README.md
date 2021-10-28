@@ -41,7 +41,7 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/electrocucaracha/krd/pull/69) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#41](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/41) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 2. 🗣 Commented on [#30257](https://github.com/kubernetes/website/issues/30257) in [kubernetes/website](https://github.com/kubernetes/website)
 3. 🗣 Commented on [#12](https://github.com/flannel-io/cni-plugin/issues/12) in [flannel-io/cni-plugin](https://github.com/flannel-io/cni-plugin)
 4. 🗣 Commented on [#10940](https://github.com/project-chip/connectedhomeip/issues/10940) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
