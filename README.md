@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/41) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🗣 Commented on [#30257](https://github.com/kubernetes/website/issues/30257) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#12](https://github.com/flannel-io/cni-plugin/issues/12) in [flannel-io/cni-plugin](https://github.com/flannel-io/cni-plugin)
-4. 🗣 Commented on [#10940](https://github.com/project-chip/connectedhomeip/issues/10940) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 🗣 Commented on [#29898](https://github.com/kubernetes/website/issues/29898) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#30137](https://github.com/kubernetes/website/issues/30137) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#30294](https://github.com/kubernetes/website/issues/30294) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#30294](https://github.com/kubernetes/website/issues/30294) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#30103](https://github.com/kubernetes/website/issues/30103) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🎉 Merged PR [#2](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/2) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
 <!--END_SECTION:activity-->
