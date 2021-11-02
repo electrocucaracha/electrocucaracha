@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30137](https://github.com/kubernetes/website/issues/30137) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#30294](https://github.com/kubernetes/website/issues/30294) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#30294](https://github.com/kubernetes/website/issues/30294) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#30103](https://github.com/kubernetes/website/issues/30103) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🎉 Merged PR [#2](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/2) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+1. 🎉 Merged PR [#10](https://github.com/electrocucaracha/bootstrap-vagrant/pull/10) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+2. 💪 Opened PR [#11287](https://github.com/project-chip/connectedhomeip/pull/11287) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+3. 🎉 Merged PR [#70](https://github.com/electrocucaracha/krd/pull/70) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🗣 Commented on [#30305](https://github.com/kubernetes/website/issues/30305) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#30137](https://github.com/kubernetes/website/issues/30137) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
