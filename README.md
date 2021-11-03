@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/electrocucaracha/bootstrap-vagrant/pull/10) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-2. 💪 Opened PR [#11287](https://github.com/project-chip/connectedhomeip/pull/11287) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-3. 🎉 Merged PR [#70](https://github.com/electrocucaracha/krd/pull/70) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🗣 Commented on [#30305](https://github.com/kubernetes/website/issues/30305) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#30137](https://github.com/kubernetes/website/issues/30137) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#11256](https://github.com/project-chip/connectedhomeip/issues/11256) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+2. 💪 Opened PR [#88656](https://github.com/Homebrew/homebrew-core/pull/88656) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🎉 Merged PR [#43](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/43) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#8](https://github.com/electrocucaracha/openstack-multinode/pull/8) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🎉 Merged PR [#10](https://github.com/electrocucaracha/bootstrap-vagrant/pull/10) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
 <!--END_SECTION:activity-->
