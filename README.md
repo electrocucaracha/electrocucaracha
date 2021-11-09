@@ -31,7 +31,7 @@ nickname came from.
 ## 📘 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Container Networks – CNI (Kubernetes)](https://electrocucaracha.com/2021/07/05/container-networks-cni/)
+- [Container Networks – CNI &lpar;Kubernetes&rpar;](https://electrocucaracha.com/2021/07/05/container-networks-cni/)
 - [Container Networks – CNM](https://electrocucaracha.com/2020/08/28/container-network-model/)
 - [El driver MAC-VLAN](https://electrocucaracha.com/2020/07/01/el-driver-mac-vlan/)
 - [Tipos de red en Docker](https://electrocucaracha.com/2020/06/13/tipos-de-red-en-docker/)
