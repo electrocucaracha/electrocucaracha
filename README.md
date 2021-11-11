@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/3) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-2. 🗣 Commented on [#11256](https://github.com/project-chip/connectedhomeip/issues/11256) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-3. 💪 Opened PR [#88656](https://github.com/Homebrew/homebrew-core/pull/88656) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 🎉 Merged PR [#43](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/43) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🎉 Merged PR [#8](https://github.com/electrocucaracha/openstack-multinode/pull/8) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🗣 Commented on [#44](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/44) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🎉 Merged PR [#3](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/3) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+3. 🗣 Commented on [#11256](https://github.com/project-chip/connectedhomeip/issues/11256) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+4. 💪 Opened PR [#88656](https://github.com/Homebrew/homebrew-core/pull/88656) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 🎉 Merged PR [#43](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/43) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
