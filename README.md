@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30257](https://github.com/kubernetes/website/issues/30257) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#44](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/44) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. 🎉 Merged PR [#3](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/3) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-4. 🗣 Commented on [#11256](https://github.com/project-chip/connectedhomeip/issues/11256) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 💪 Opened PR [#88656](https://github.com/Homebrew/homebrew-core/pull/88656) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🎉 Merged PR [#33](https://github.com/electrocucaracha/releng/pull/33) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+2. 🎉 Merged PR [#12](https://github.com/electrocucaracha/bootstrap-vagrant/pull/12) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+3. 🗣 Commented on [#33](https://github.com/electrocucaracha/releng/issues/33) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+4. 🗣 Commented on [#33](https://github.com/electrocucaracha/releng/issues/33) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+5. 🗣 Commented on [#33](https://github.com/electrocucaracha/releng/issues/33) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
 <!--END_SECTION:activity-->
