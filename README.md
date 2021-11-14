@@ -41,8 +41,8 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/electrocucaracha/releng/pull/33) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-2. 🎉 Merged PR [#12](https://github.com/electrocucaracha/bootstrap-vagrant/pull/12) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+1. 🎉 Merged PR [#6](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/6) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🗣 Commented on [#6](https://github.com/electrocucaracha/k8s-Ingress-demo/issues/6) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
 3. 🗣 Commented on [#33](https://github.com/electrocucaracha/releng/issues/33) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
 4. 🗣 Commented on [#33](https://github.com/electrocucaracha/releng/issues/33) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
 5. 🗣 Commented on [#33](https://github.com/electrocucaracha/releng/issues/33) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
