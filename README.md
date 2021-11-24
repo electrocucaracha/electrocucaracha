@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/8) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-2. 🗣 Commented on [#30294](https://github.com/kubernetes/website/issues/30294) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#10](https://github.com/electrocucaracha/openstack-multinode/pull/10) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. 🎉 Merged PR [#5](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/5) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-5. 🎉 Merged PR [#35](https://github.com/electrocucaracha/releng/pull/35) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+1. 💪 Opened PR [#12186](https://github.com/project-chip/connectedhomeip/pull/12186) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+2. 🗣 Commented on [#73](https://github.com/electrocucaracha/krd/issues/73) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🎉 Merged PR [#36](https://github.com/electrocucaracha/releng/pull/36) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+4. 🎉 Merged PR [#8](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/8) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+5. 🗣 Commented on [#30294](https://github.com/kubernetes/website/issues/30294) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
