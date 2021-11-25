@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12186](https://github.com/project-chip/connectedhomeip/pull/12186) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. 🗣 Commented on [#73](https://github.com/electrocucaracha/krd/issues/73) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🎉 Merged PR [#36](https://github.com/electrocucaracha/releng/pull/36) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-4. 🎉 Merged PR [#8](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/8) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-5. 🗣 Commented on [#30294](https://github.com/kubernetes/website/issues/30294) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#30103](https://github.com/kubernetes/website/issues/30103) in [kubernetes/website](https://github.com/kubernetes/website)
+2. ❗️ Closed issue [#34](https://github.com/electrocucaracha/releng/issues/34) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+3. ❗️ Closed issue [#45](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/45) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. ❗️ Closed issue [#11](https://github.com/electrocucaracha/bootstrap-vagrant/issues/11) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+5. ❗️ Closed issue [#72](https://github.com/electrocucaracha/krd/issues/72) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
