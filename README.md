@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30103](https://github.com/kubernetes/website/issues/30103) in [kubernetes/website](https://github.com/kubernetes/website)
-2. ❗️ Closed issue [#34](https://github.com/electrocucaracha/releng/issues/34) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-3. ❗️ Closed issue [#45](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/45) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. ❗️ Closed issue [#11](https://github.com/electrocucaracha/bootstrap-vagrant/issues/11) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-5. ❗️ Closed issue [#72](https://github.com/electrocucaracha/krd/issues/72) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#74](https://github.com/electrocucaracha/krd/pull/74) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 💪 Opened PR [#12337](https://github.com/project-chip/connectedhomeip/pull/12337) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+3. 🎉 Merged PR [#37](https://github.com/electrocucaracha/releng/pull/37) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+4. 💪 Opened PR [#204](https://github.com/cncf/cnf-wg/pull/204) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+5. 🗣 Commented on [#30103](https://github.com/kubernetes/website/issues/30103) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
