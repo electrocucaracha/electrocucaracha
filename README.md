@@ -42,8 +42,8 @@ nickname came from.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12367](https://github.com/project-chip/connectedhomeip/issues/12367) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. 🗣 Commented on [#11](https://github.com/electrocucaracha/openstack-multinode/issues/11) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🎉 Merged PR [#13](https://github.com/electrocucaracha/bootstrap-vagrant/pull/13) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-4. 🗣 Commented on [#29898](https://github.com/kubernetes/website/issues/29898) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#29898](https://github.com/kubernetes/website/issues/29898) in [kubernetes/website](https://github.com/kubernetes/website)
+2. ❌ Closed PR [#11](https://github.com/electrocucaracha/openstack-multinode/pull/11) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🗣 Commented on [#11](https://github.com/electrocucaracha/openstack-multinode/issues/11) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🗣 Commented on [#12367](https://github.com/project-chip/connectedhomeip/issues/12367) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+5. 🗣 Commented on [#11](https://github.com/electrocucaracha/openstack-multinode/issues/11) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
