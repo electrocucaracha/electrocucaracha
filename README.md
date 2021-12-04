@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12367](https://github.com/project-chip/connectedhomeip/issues/12367) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. ❌ Closed PR [#11](https://github.com/electrocucaracha/openstack-multinode/pull/11) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🗣 Commented on [#11](https://github.com/electrocucaracha/openstack-multinode/issues/11) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. 🗣 Commented on [#12367](https://github.com/project-chip/connectedhomeip/issues/12367) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 🗣 Commented on [#11](https://github.com/electrocucaracha/openstack-multinode/issues/11) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🎉 Merged PR [#75](https://github.com/electrocucaracha/krd/pull/75) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 💪 Opened PR [#12561](https://github.com/project-chip/connectedhomeip/pull/12561) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+3. 🗣 Commented on [#3121](https://github.com/kubernetes/org/issues/3121) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 🗣 Commented on [#3116](https://github.com/kubernetes/org/issues/3116) in [kubernetes/org](https://github.com/kubernetes/org)
+5. 🗣 Commented on [#12367](https://github.com/project-chip/connectedhomeip/issues/12367) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
 <!--END_SECTION:activity-->
