@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3116](https://github.com/kubernetes/org/issues/3116) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 💪 Opened PR [#3139](https://github.com/kubernetes/org/pull/3139) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 🗣 Commented on [#205](https://github.com/cncf/cnf-wg/issues/205) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-4. 🗣 Commented on [#76](https://github.com/electrocucaracha/krd/issues/76) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🎉 Merged PR [#9](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/9) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+1. 💪 Opened PR [#12828](https://github.com/project-chip/connectedhomeip/pull/12828) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+2. 💪 Opened PR [#12822](https://github.com/project-chip/connectedhomeip/pull/12822) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+3. ❌ Closed PR [#76](https://github.com/electrocucaracha/krd/pull/76) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🗣 Commented on [#3116](https://github.com/kubernetes/org/issues/3116) in [kubernetes/org](https://github.com/kubernetes/org)
+5. 💪 Opened PR [#3139](https://github.com/kubernetes/org/pull/3139) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
