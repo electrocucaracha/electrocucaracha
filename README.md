@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/electrocucaracha/krd/pull/78) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. ❌ Closed PR [#77](https://github.com/electrocucaracha/krd/pull/77) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🗣 Commented on [#77](https://github.com/electrocucaracha/krd/issues/77) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. ❌ Closed PR [#44](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/44) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🗣 Commented on [#12](https://github.com/electrocucaracha/openstack-multinode/issues/12) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🎉 Merged PR [#13](https://github.com/electrocucaracha/openstack-multinode/pull/13) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. ❌ Closed PR [#12](https://github.com/electrocucaracha/openstack-multinode/pull/12) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🎉 Merged PR [#78](https://github.com/electrocucaracha/krd/pull/78) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. ❌ Closed PR [#77](https://github.com/electrocucaracha/krd/pull/77) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🗣 Commented on [#77](https://github.com/electrocucaracha/krd/issues/77) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
