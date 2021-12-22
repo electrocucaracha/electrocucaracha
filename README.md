@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31017](https://github.com/kubernetes/website/issues/31017) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#12561](https://github.com/project-chip/connectedhomeip/issues/12561) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-3. 🎉 Merged PR [#79](https://github.com/electrocucaracha/krd/pull/79) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🎉 Merged PR [#47](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/47) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. ❌ Closed PR [#46](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/46) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🎉 Merged PR [#15](https://github.com/electrocucaracha/openstack-multinode/pull/15) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. 🎉 Merged PR [#6](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/6) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+3. 🗣 Commented on [#31017](https://github.com/kubernetes/website/issues/31017) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#12561](https://github.com/project-chip/connectedhomeip/issues/12561) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+5. 🎉 Merged PR [#79](https://github.com/electrocucaracha/krd/pull/79) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
