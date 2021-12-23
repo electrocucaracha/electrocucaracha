@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/electrocucaracha/openstack-multinode/pull/15) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🎉 Merged PR [#6](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/6) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-3. 🗣 Commented on [#31017](https://github.com/kubernetes/website/issues/31017) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#12561](https://github.com/project-chip/connectedhomeip/issues/12561) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 🎉 Merged PR [#79](https://github.com/electrocucaracha/krd/pull/79) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#38](https://github.com/electrocucaracha/releng/pull/38) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+2. ❌ Closed PR [#16](https://github.com/electrocucaracha/openstack-multinode/pull/16) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🎉 Merged PR [#15](https://github.com/electrocucaracha/openstack-multinode/pull/15) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🎉 Merged PR [#6](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/6) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+5. 🗣 Commented on [#31017](https://github.com/kubernetes/website/issues/31017) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
