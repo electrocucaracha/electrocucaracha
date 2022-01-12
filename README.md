@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2192](https://github.com/bridgecrewio/checkov/pull/2192) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-2. 💪 Opened PR [#8402](https://github.com/kubernetes-sigs/kubespray/pull/8402) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-3. 🗣 Commented on [#13302](https://github.com/project-chip/connectedhomeip/issues/13302) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-4. 💪 Opened PR [#13390](https://github.com/project-chip/connectedhomeip/pull/13390) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-5. 🗣 Commented on [#8377](https://github.com/kubernetes-sigs/kubespray/issues/8377) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+1. 💪 Opened PR [#13478](https://github.com/project-chip/connectedhomeip/pull/13478) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+2. 💪 Opened PR [#13474](https://github.com/project-chip/connectedhomeip/pull/13474) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+3. 🗣 Commented on [#584](https://github.com/containers/youki/issues/584) in [containers/youki](https://github.com/containers/youki)
+4. 💪 Opened PR [#8411](https://github.com/kubernetes-sigs/kubespray/pull/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. ❗️ Opened issue [#608](https://github.com/containers/youki/issues/608) in [containers/youki](https://github.com/containers/youki)
 <!--END_SECTION:activity-->
