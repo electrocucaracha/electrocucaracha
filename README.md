@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13478](https://github.com/project-chip/connectedhomeip/pull/13478) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-2. 💪 Opened PR [#13474](https://github.com/project-chip/connectedhomeip/pull/13474) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
-3. 🗣 Commented on [#584](https://github.com/containers/youki/issues/584) in [containers/youki](https://github.com/containers/youki)
-4. 💪 Opened PR [#8411](https://github.com/kubernetes-sigs/kubespray/pull/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-5. ❗️ Opened issue [#608](https://github.com/containers/youki/issues/608) in [containers/youki](https://github.com/containers/youki)
+1. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+2. 🗣 Commented on [#584](https://github.com/containers/youki/issues/584) in [containers/youki](https://github.com/containers/youki)
+3. 🗣 Commented on [#203](https://github.com/cncf/cnf-wg/issues/203) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 💪 Opened PR [#13478](https://github.com/project-chip/connectedhomeip/pull/13478) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+5. 💪 Opened PR [#13474](https://github.com/project-chip/connectedhomeip/pull/13474) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
 <!--END_SECTION:activity-->
