@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#608](https://github.com/containers/youki/issues/608) in [containers/youki](https://github.com/containers/youki)
+1. ❌ Closed PR [#82](https://github.com/electrocucaracha/krd/pull/82) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 2. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 3. 🗣 Commented on [#608](https://github.com/containers/youki/issues/608) in [containers/youki](https://github.com/containers/youki)
-4. 🗣 Commented on [#82](https://github.com/electrocucaracha/krd/issues/82) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. ❌ Closed PR [#81](https://github.com/electrocucaracha/krd/pull/81) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. 🗣 Commented on [#608](https://github.com/containers/youki/issues/608) in [containers/youki](https://github.com/containers/youki)
 <!--END_SECTION:activity-->
