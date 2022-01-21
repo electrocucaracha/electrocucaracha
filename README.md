@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/electrocucaracha/bootstrap-vagrant/pull/14) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-2. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-3. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-4. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-5. 🎉 Merged PR [#72](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/72) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+2. ❌ Closed PR [#1](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/1) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+3. ❗️ Closed issue [#2](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/issues/2) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+4. 🎉 Merged PR [#14](https://github.com/electrocucaracha/bootstrap-vagrant/pull/14) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+5. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 <!--END_SECTION:activity-->
