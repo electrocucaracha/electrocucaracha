@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-2. ❌ Closed PR [#1](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/1) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-3. ❗️ Closed issue [#2](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/issues/2) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-4. 🎉 Merged PR [#14](https://github.com/electrocucaracha/bootstrap-vagrant/pull/14) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-5. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+1. 🎉 Merged PR [#7](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/7) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+2. 🗣 Commented on [#8411](https://github.com/kubernetes-sigs/kubespray/issues/8411) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+3. ❌ Closed PR [#1](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/1) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+4. ❗️ Closed issue [#2](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/issues/2) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+5. 🎉 Merged PR [#14](https://github.com/electrocucaracha/bootstrap-vagrant/pull/14) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
 <!--END_SECTION:activity-->
