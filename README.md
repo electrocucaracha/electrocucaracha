@@ -42,8 +42,8 @@ nickname came from.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#360](https://github.com/cncf/glossary/issues/360) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#81](https://github.com/rojopolis/spellcheck-github-actions/pull/81) in [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions)
-3. ❌ Closed PR [#24](https://github.com/electrocucaracha/openstack-multinode/pull/24) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. 🎉 Merged PR [#13](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/13) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-5. 🎉 Merged PR [#23](https://github.com/electrocucaracha/openstack-multinode/pull/23) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. 💪 Opened PR [#388](https://github.com/cncf/glossary/pull/388) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Opened issue [#387](https://github.com/cncf/glossary/issues/387) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 💪 Opened PR [#216](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/216) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+5. 🗣 Commented on [#360](https://github.com/cncf/glossary/issues/360) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
