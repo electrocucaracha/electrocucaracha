@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/cncf/glossary/issues/360) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#388](https://github.com/cncf/glossary/pull/388) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Opened issue [#387](https://github.com/cncf/glossary/issues/387) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 💪 Opened PR [#216](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/216) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-5. 🗣 Commented on [#360](https://github.com/cncf/glossary/issues/360) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#31641](https://github.com/kubernetes/website/issues/31641) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 💪 Opened PR [#405](https://github.com/cncf/glossary/pull/405) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#388](https://github.com/cncf/glossary/issues/388) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❌ Closed PR [#216](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/216) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+5. 🗣 Commented on [#216](https://github.com/zigbee-alliance/distributed-compliance-ledger/issues/216) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
 <!--END_SECTION:activity-->
