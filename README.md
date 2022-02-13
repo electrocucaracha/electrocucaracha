@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#74](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/74) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🗣 Commented on [#74](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/74) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. 🗣 Commented on [#202](https://github.com/zigbee-alliance/distributed-compliance-ledger/issues/202) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-4. 🗣 Commented on [#31715](https://github.com/kubernetes/website/issues/31715) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 💪 Opened PR [#946](https://github.com/cncf/gitdm/pull/946) in [cncf/gitdm](https://github.com/cncf/gitdm)
+1. 🗣 Commented on [#432](https://github.com/cncf/glossary/issues/432) in [cncf/glossary](https://github.com/cncf/glossary)
+2. ❌ Closed PR [#74](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/74) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🗣 Commented on [#74](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/74) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🗣 Commented on [#202](https://github.com/zigbee-alliance/distributed-compliance-ledger/issues/202) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+5. 🗣 Commented on [#31715](https://github.com/kubernetes/website/issues/31715) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
