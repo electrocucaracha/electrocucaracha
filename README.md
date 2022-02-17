@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/electrocucaracha/releng/pull/39) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-2. 🎉 Merged PR [#77](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/77) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. 🗣 Commented on [#202](https://github.com/zigbee-alliance/distributed-compliance-ledger/issues/202) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-4. 🎉 Merged PR [#14](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/14) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-5. 🎉 Merged PR [#23](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/23) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+1. 💪 Opened PR [#244](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/244) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+2. 🎉 Merged PR [#25](https://github.com/electrocucaracha/openstack-multinode/pull/25) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
+4. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
+5. 🎉 Merged PR [#26](https://github.com/electrocucaracha/openstack-multinode/pull/26) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
