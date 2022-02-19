@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#244](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/244) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-2. 🎉 Merged PR [#25](https://github.com/electrocucaracha/openstack-multinode/pull/25) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
-4. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
-5. 🎉 Merged PR [#26](https://github.com/electrocucaracha/openstack-multinode/pull/26) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🗣 Commented on [#211](https://github.com/cncf/cnf-wg/issues/211) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+2. 💪 Opened PR [#254](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/254) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+3. 💪 Opened PR [#244](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/244) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+4. 🎉 Merged PR [#25](https://github.com/electrocucaracha/openstack-multinode/pull/25) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🗣 Commented on [#5670](https://github.com/magma/magma/issues/5670) in [magma/magma](https://github.com/magma/magma)
 <!--END_SECTION:activity-->
