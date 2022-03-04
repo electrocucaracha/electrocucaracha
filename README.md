@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/94) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🎉 Merged PR [#84](https://github.com/electrocucaracha/krd/pull/84) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🎉 Merged PR [#85](https://github.com/electrocucaracha/krd/pull/85) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🎉 Merged PR [#86](https://github.com/electrocucaracha/krd/pull/86) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🎉 Merged PR [#8](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/8) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+1. 💪 Opened PR [#271](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/271) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+2. 🎉 Merged PR [#94](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/94) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🎉 Merged PR [#84](https://github.com/electrocucaracha/krd/pull/84) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🎉 Merged PR [#85](https://github.com/electrocucaracha/krd/pull/85) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🎉 Merged PR [#86](https://github.com/electrocucaracha/krd/pull/86) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
