@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#583](https://github.com/cncf/glossary/issues/583) in [cncf/glossary](https://github.com/cncf/glossary)
-2. ❗️ Opened issue [#582](https://github.com/cncf/glossary/issues/582) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Opened issue [#581](https://github.com/cncf/glossary/issues/581) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Opened issue [#580](https://github.com/cncf/glossary/issues/580) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Opened issue [#579](https://github.com/cncf/glossary/issues/579) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 💪 Opened PR [#593](https://github.com/cncf/glossary/pull/593) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 💪 Opened PR [#215](https://github.com/cncf/cnf-wg/pull/215) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+3. 💪 Opened PR [#284](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/284) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+4. ❗️ Opened issue [#583](https://github.com/cncf/glossary/issues/583) in [cncf/glossary](https://github.com/cncf/glossary)
+5. ❗️ Opened issue [#582](https://github.com/cncf/glossary/issues/582) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
