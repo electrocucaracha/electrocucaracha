@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#598](https://github.com/cncf/glossary/issues/598) in [cncf/glossary](https://github.com/cncf/glossary)
-2. ❗️ Opened issue [#611](https://github.com/cncf/glossary/issues/611) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Opened issue [#610](https://github.com/cncf/glossary/issues/610) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Opened issue [#609](https://github.com/cncf/glossary/issues/609) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Opened issue [#608](https://github.com/cncf/glossary/issues/608) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 💪 Opened PR [#629](https://github.com/cncf/glossary/pull/629) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#598](https://github.com/cncf/glossary/issues/598) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Opened issue [#611](https://github.com/cncf/glossary/issues/611) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗️ Opened issue [#610](https://github.com/cncf/glossary/issues/610) in [cncf/glossary](https://github.com/cncf/glossary)
+5. ❗️ Opened issue [#609](https://github.com/cncf/glossary/issues/609) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
