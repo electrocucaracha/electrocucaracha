@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#633](https://github.com/cncf/glossary/pull/633) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#293](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/293) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-3. 🎉 Merged PR [#18](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/18) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-4. ❌ Closed PR [#30](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/30) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-5. ❌ Closed PR [#92](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/92) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🎉 Merged PR [#19](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/19) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🎉 Merged PR [#43](https://github.com/electrocucaracha/releng/pull/43) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+3. 🗣 Commented on [#212](https://github.com/cncf/cnf-wg/issues/212) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 🗣 Commented on [#641](https://github.com/cncf/glossary/issues/641) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🎉 Merged PR [#32](https://github.com/electrocucaracha/openstack-multinode/pull/32) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
