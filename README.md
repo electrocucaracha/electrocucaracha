@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#561](https://github.com/cncf/glossary/issues/561) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🎉 Merged PR [#17](https://github.com/electrocucaracha/bootstrap-vagrant/pull/17) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-3. 🎉 Merged PR [#2](https://github.com/electrocucaracha/bmaas/pull/2) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-4. 🎉 Merged PR [#87](https://github.com/electrocucaracha/krd/pull/87) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🎉 Merged PR [#9](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/9) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+1. 💪 Opened PR [#653](https://github.com/cncf/glossary/pull/653) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 💪 Opened PR [#652](https://github.com/cncf/glossary/pull/652) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Closed issue [#561](https://github.com/cncf/glossary/issues/561) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#17](https://github.com/electrocucaracha/bootstrap-vagrant/pull/17) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+5. 🎉 Merged PR [#2](https://github.com/electrocucaracha/bmaas/pull/2) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
 <!--END_SECTION:activity-->
