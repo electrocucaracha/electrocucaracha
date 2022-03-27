@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/electrocucaracha/openstack-multinode/pull/31) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🗣 Commented on [#271](https://github.com/zigbee-alliance/distributed-compliance-ledger/issues/271) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-3. 💪 Opened PR [#653](https://github.com/cncf/glossary/pull/653) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 💪 Opened PR [#652](https://github.com/cncf/glossary/pull/652) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Closed issue [#561](https://github.com/cncf/glossary/issues/561) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#32383](https://github.com/kubernetes/website/issues/32383) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#641](https://github.com/cncf/glossary/issues/641) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🎉 Merged PR [#31](https://github.com/electrocucaracha/openstack-multinode/pull/31) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🗣 Commented on [#271](https://github.com/zigbee-alliance/distributed-compliance-ledger/issues/271) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+5. 💪 Opened PR [#653](https://github.com/cncf/glossary/pull/653) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
