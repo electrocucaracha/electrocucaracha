@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#83](https://github.com/electrocucaracha/krd/pull/83) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🗣 Commented on [#33](https://github.com/electrocucaracha/openstack-multinode/issues/33) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🗣 Commented on [#309](https://github.com/zigbee-alliance/distributed-compliance-ledger/issues/309) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-4. 🗣 Commented on [#32383](https://github.com/kubernetes/website/issues/32383) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🎉 Merged PR [#107](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/107) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 💪 Opened PR [#316](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/316) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+2. ❌ Closed PR [#83](https://github.com/electrocucaracha/krd/pull/83) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🗣 Commented on [#33](https://github.com/electrocucaracha/openstack-multinode/issues/33) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🗣 Commented on [#309](https://github.com/zigbee-alliance/distributed-compliance-ledger/issues/309) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+5. 🗣 Commented on [#32383](https://github.com/kubernetes/website/issues/32383) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
