@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/31) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-2. 🎉 Merged PR [#10](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/10) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-3. 💪 Opened PR [#316](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/316) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-4. ❌ Closed PR [#83](https://github.com/electrocucaracha/krd/pull/83) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🗣 Commented on [#33](https://github.com/electrocucaracha/openstack-multinode/issues/33) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 💪 Opened PR [#692](https://github.com/cncf/glossary/pull/692) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🎉 Merged PR [#15](https://github.com/electrocucaracha/bootstrap-vagrant/pull/15) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+3. 💪 Opened PR [#689](https://github.com/cncf/glossary/pull/689) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#35](https://github.com/electrocucaracha/openstack-multinode/pull/35) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. ❌ Closed PR [#34](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/34) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
 <!--END_SECTION:activity-->
