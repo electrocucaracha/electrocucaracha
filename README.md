@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#692](https://github.com/cncf/glossary/pull/692) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🎉 Merged PR [#15](https://github.com/electrocucaracha/bootstrap-vagrant/pull/15) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-3. 💪 Opened PR [#689](https://github.com/cncf/glossary/pull/689) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#35](https://github.com/electrocucaracha/openstack-multinode/pull/35) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. ❌ Closed PR [#34](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/34) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+1. ❌ Closed PR [#89](https://github.com/electrocucaracha/krd/pull/89) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 💪 Opened PR [#320](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/320) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+3. 💪 Opened PR [#692](https://github.com/cncf/glossary/pull/692) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#15](https://github.com/electrocucaracha/bootstrap-vagrant/pull/15) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+5. 💪 Opened PR [#689](https://github.com/cncf/glossary/pull/689) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
