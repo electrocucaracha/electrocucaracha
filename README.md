@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#705](https://github.com/cncf/glossary/issues/705) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#692](https://github.com/cncf/glossary/issues/692) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🎉 Merged PR [#90](https://github.com/electrocucaracha/krd/pull/90) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. ❌ Closed PR [#89](https://github.com/electrocucaracha/krd/pull/89) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 💪 Opened PR [#320](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/320) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+1. 🎉 Merged PR [#42](https://github.com/electrocucaracha/releng/pull/42) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+2. 🗣 Commented on [#705](https://github.com/cncf/glossary/issues/705) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#692](https://github.com/cncf/glossary/issues/692) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#90](https://github.com/electrocucaracha/krd/pull/90) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. ❌ Closed PR [#89](https://github.com/electrocucaracha/krd/pull/89) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
