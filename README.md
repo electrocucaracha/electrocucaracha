@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/electrocucaracha/releng/pull/42) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-2. 🗣 Commented on [#705](https://github.com/cncf/glossary/issues/705) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#692](https://github.com/cncf/glossary/issues/692) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#90](https://github.com/electrocucaracha/krd/pull/90) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. ❌ Closed PR [#89](https://github.com/electrocucaracha/krd/pull/89) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 💪 Opened PR [#327](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/327) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+2. 🎉 Merged PR [#13](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/13) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+3. ❌ Closed PR [#14](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/14) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+4. 🎉 Merged PR [#12](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/12) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+5. 🎉 Merged PR [#11](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/11) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
 <!--END_SECTION:activity-->
