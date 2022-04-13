@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#327](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/327) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-2. 🎉 Merged PR [#13](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/13) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-3. ❌ Closed PR [#14](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/14) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-4. 🎉 Merged PR [#12](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/12) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-5. 🎉 Merged PR [#11](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/11) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+1. ❗️ Closed issue [#609](https://github.com/cncf/glossary/issues/609) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🎉 Merged PR [#694](https://github.com/cncf/glossary/pull/694) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#698](https://github.com/cncf/glossary/issues/698) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#45](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/45) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+5. 💪 Opened PR [#328](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/328) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
 <!--END_SECTION:activity-->
