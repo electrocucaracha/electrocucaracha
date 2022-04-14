@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#609](https://github.com/cncf/glossary/issues/609) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🎉 Merged PR [#694](https://github.com/cncf/glossary/pull/694) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#698](https://github.com/cncf/glossary/issues/698) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#45](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/45) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-5. 💪 Opened PR [#328](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/328) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+1. ❗️ Opened issue [#845](https://github.com/containers/youki/issues/845) in [containers/youki](https://github.com/containers/youki)
+2. ❗️ Opened issue [#1180](https://github.com/mikefarah/yq/issues/1180) in [mikefarah/yq](https://github.com/mikefarah/yq)
+3. 🗣 Commented on [#689](https://github.com/cncf/glossary/issues/689) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗️ Closed issue [#609](https://github.com/cncf/glossary/issues/609) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🎉 Merged PR [#694](https://github.com/cncf/glossary/pull/694) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
