@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#845](https://github.com/containers/youki/issues/845) in [containers/youki](https://github.com/containers/youki)
-2. ❗️ Opened issue [#1180](https://github.com/mikefarah/yq/issues/1180) in [mikefarah/yq](https://github.com/mikefarah/yq)
-3. 🗣 Commented on [#689](https://github.com/cncf/glossary/issues/689) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Closed issue [#609](https://github.com/cncf/glossary/issues/609) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🎉 Merged PR [#694](https://github.com/cncf/glossary/pull/694) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#32956](https://github.com/kubernetes/website/issues/32956) in [kubernetes/website](https://github.com/kubernetes/website)
+2. ❗️ Opened issue [#845](https://github.com/containers/youki/issues/845) in [containers/youki](https://github.com/containers/youki)
+3. ❗️ Opened issue [#1180](https://github.com/mikefarah/yq/issues/1180) in [mikefarah/yq](https://github.com/mikefarah/yq)
+4. 🗣 Commented on [#689](https://github.com/cncf/glossary/issues/689) in [cncf/glossary](https://github.com/cncf/glossary)
+5. ❗️ Closed issue [#609](https://github.com/cncf/glossary/issues/609) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
