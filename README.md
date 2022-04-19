@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3377](https://github.com/kubernetes/org/issues/3377) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 🎉 Merged PR [#21](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/21) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-3. 🗣 Commented on [#32956](https://github.com/kubernetes/website/issues/32956) in [kubernetes/website](https://github.com/kubernetes/website)
-4. ❗️ Opened issue [#845](https://github.com/containers/youki/issues/845) in [containers/youki](https://github.com/containers/youki)
-5. ❗️ Opened issue [#1180](https://github.com/mikefarah/yq/issues/1180) in [mikefarah/yq](https://github.com/mikefarah/yq)
+1. 🎉 Merged PR [#45](https://github.com/electrocucaracha/releng/pull/45) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+2. ❗️ Closed issue [#563](https://github.com/cncf/glossary/issues/563) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🎉 Merged PR [#698](https://github.com/cncf/glossary/pull/698) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#110](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/110) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🎉 Merged PR [#37](https://github.com/electrocucaracha/openstack-multinode/pull/37) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
