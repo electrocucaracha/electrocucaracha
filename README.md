@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#608](https://github.com/cncf/glossary/issues/608) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🎉 Merged PR [#724](https://github.com/cncf/glossary/pull/724) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Closed issue [#566](https://github.com/cncf/glossary/issues/566) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#45](https://github.com/electrocucaracha/releng/pull/45) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-5. ❗️ Closed issue [#563](https://github.com/cncf/glossary/issues/563) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#109](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/109) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🗣 Commented on [#33199](https://github.com/kubernetes/website/issues/33199) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🎉 Merged PR [#22](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/22) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+4. 🗣 Commented on [#91](https://github.com/electrocucaracha/krd/issues/91) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. ❗️ Closed issue [#567](https://github.com/cncf/glossary/issues/567) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
