@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#340](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/340) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-2. 🗣 Commented on [#569](https://github.com/cncf/glossary/issues/569) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🎉 Merged PR [#91](https://github.com/electrocucaracha/krd/pull/91) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🎉 Merged PR [#109](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/109) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🗣 Commented on [#33199](https://github.com/kubernetes/website/issues/33199) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 💪 Opened PR [#795](https://github.com/cncf/glossary/pull/795) in [cncf/glossary](https://github.com/cncf/glossary)
+2. ❗️ Closed issue [#607](https://github.com/cncf/glossary/issues/607) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#340](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/340) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+4. 🗣 Commented on [#569](https://github.com/cncf/glossary/issues/569) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🎉 Merged PR [#91](https://github.com/electrocucaracha/krd/pull/91) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
