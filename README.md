@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#806](https://github.com/cncf/glossary/issues/806) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#807](https://github.com/cncf/glossary/pull/807) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 💪 Opened PR [#806](https://github.com/cncf/glossary/pull/806) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 💪 Opened PR [#802](https://github.com/cncf/glossary/pull/802) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🎉 Merged PR [#47](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/47) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+1. 🎉 Merged PR [#15](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/15) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+2. 🗣 Commented on [#806](https://github.com/cncf/glossary/issues/806) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#807](https://github.com/cncf/glossary/pull/807) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 💪 Opened PR [#806](https://github.com/cncf/glossary/pull/806) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#802](https://github.com/cncf/glossary/pull/802) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
