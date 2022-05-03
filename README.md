@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/15) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-2. 🗣 Commented on [#806](https://github.com/cncf/glossary/issues/806) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 💪 Opened PR [#807](https://github.com/cncf/glossary/pull/807) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 💪 Opened PR [#806](https://github.com/cncf/glossary/pull/806) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#802](https://github.com/cncf/glossary/pull/802) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#3377](https://github.com/kubernetes/org/issues/3377) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 💪 Opened PR [#830](https://github.com/cncf/glossary/pull/830) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#806](https://github.com/cncf/glossary/issues/806) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#111](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/111) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🎉 Merged PR [#19](https://github.com/electrocucaracha/bootstrap-vagrant/pull/19) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
 <!--END_SECTION:activity-->
