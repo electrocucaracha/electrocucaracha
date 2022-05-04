@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3377](https://github.com/kubernetes/org/issues/3377) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 💪 Opened PR [#830](https://github.com/cncf/glossary/pull/830) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#806](https://github.com/cncf/glossary/issues/806) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#111](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/111) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🎉 Merged PR [#19](https://github.com/electrocucaracha/bootstrap-vagrant/pull/19) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+1. 💪 Opened PR [#348](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/348) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+2. 🎉 Merged PR [#93](https://github.com/electrocucaracha/krd/pull/93) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🗣 Commented on [#3377](https://github.com/kubernetes/org/issues/3377) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 💪 Opened PR [#830](https://github.com/cncf/glossary/pull/830) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#806](https://github.com/cncf/glossary/issues/806) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
