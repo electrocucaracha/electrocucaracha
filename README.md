@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/23) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-2. 🗣 Commented on [#8785](https://github.com/kubernetes-sigs/kubespray/issues/8785) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-3. 💪 Opened PR [#8785](https://github.com/kubernetes-sigs/kubespray/pull/8785) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-4. 💪 Opened PR [#348](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/348) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-5. 🎉 Merged PR [#93](https://github.com/electrocucaracha/krd/pull/93) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🗣 Commented on [#8797](https://github.com/kubernetes-sigs/kubespray/issues/8797) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+2. 💪 Opened PR [#8797](https://github.com/kubernetes-sigs/kubespray/pull/8797) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+3. 🎉 Merged PR [#23](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/23) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+4. 🗣 Commented on [#8785](https://github.com/kubernetes-sigs/kubespray/issues/8785) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. 💪 Opened PR [#8785](https://github.com/kubernetes-sigs/kubespray/pull/8785) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 <!--END_SECTION:activity-->
