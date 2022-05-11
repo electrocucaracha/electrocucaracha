@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#873](https://github.com/cncf/glossary/issues/873) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🎉 Merged PR [#1](https://github.com/gw-tester/pgw/pull/1) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
-3. 🎉 Merged PR [#2](https://github.com/gw-tester/pgw/pull/2) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
-4. 🗣 Commented on [#8797](https://github.com/kubernetes-sigs/kubespray/issues/8797) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-5. 💪 Opened PR [#8797](https://github.com/kubernetes-sigs/kubespray/pull/8797) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+1. ❌ Closed PR [#3](https://github.com/gw-tester/pgw/pull/3) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
+2. ❌ Closed PR [#4](https://github.com/gw-tester/pgw/pull/4) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
+3. 🗣 Commented on [#873](https://github.com/cncf/glossary/issues/873) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#1](https://github.com/gw-tester/pgw/pull/1) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
+5. 🎉 Merged PR [#2](https://github.com/gw-tester/pgw/pull/2) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
 <!--END_SECTION:activity-->
