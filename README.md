@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#357](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/357) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-2. 🎉 Merged PR [#95](https://github.com/electrocucaracha/krd/pull/95) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🗣 Commented on [#33629](https://github.com/kubernetes/website/issues/33629) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🎉 Merged PR [#36](https://github.com/electrocucaracha/openstack-multinode/pull/36) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🎉 Merged PR [#112](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/112) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#33715](https://github.com/kubernetes/website/issues/33715) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 💪 Opened PR [#357](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/357) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+3. 🎉 Merged PR [#95](https://github.com/electrocucaracha/krd/pull/95) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🗣 Commented on [#33629](https://github.com/kubernetes/website/issues/33629) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🎉 Merged PR [#36](https://github.com/electrocucaracha/openstack-multinode/pull/36) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
