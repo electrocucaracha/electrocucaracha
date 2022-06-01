@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/electrocucaracha/openstack-multinode/pull/43) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🎉 Merged PR [#65](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/65) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-3. 💪 Opened PR [#370](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/370) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-4. 🎉 Merged PR [#114](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/114) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🗣 Commented on [#33949](https://github.com/kubernetes/website/issues/33949) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🎉 Merged PR [#17](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/17) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+2. 🎉 Merged PR [#44](https://github.com/electrocucaracha/releng/pull/44) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+3. 🎉 Merged PR [#46](https://github.com/electrocucaracha/releng/pull/46) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+4. 🗣 Commented on [#873](https://github.com/cncf/glossary/issues/873) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🎉 Merged PR [#43](https://github.com/electrocucaracha/openstack-multinode/pull/43) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
