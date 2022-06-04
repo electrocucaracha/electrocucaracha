@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8913](https://github.com/kubernetes-sigs/kubespray/pull/8913) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-2. 🗣 Commented on [#581](https://github.com/cncf/glossary/issues/581) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 💪 Opened PR [#371](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/371) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
-4. 🎉 Merged PR [#42](https://github.com/electrocucaracha/openstack-multinode/pull/42) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🎉 Merged PR [#21](https://github.com/electrocucaracha/bootstrap-vagrant/pull/21) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+1. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#8913](https://github.com/kubernetes-sigs/kubespray/pull/8913) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+4. 🗣 Commented on [#581](https://github.com/cncf/glossary/issues/581) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#371](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/371) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
 <!--END_SECTION:activity-->
