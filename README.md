@@ -43,7 +43,7 @@ nickname came from.
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
 2. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 💪 Opened PR [#8913](https://github.com/kubernetes-sigs/kubespray/pull/8913) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-4. 🗣 Commented on [#581](https://github.com/cncf/glossary/issues/581) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#371](https://github.com/zigbee-alliance/distributed-compliance-ledger/pull/371) in [zigbee-alliance/distributed-compliance-ledger](https://github.com/zigbee-alliance/distributed-compliance-ledger)
+3. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 💪 Opened PR [#8913](https://github.com/kubernetes-sigs/kubespray/pull/8913) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. 🗣 Commented on [#581](https://github.com/cncf/glossary/issues/581) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
