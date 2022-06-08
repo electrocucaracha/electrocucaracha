@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 💪 Opened PR [#8913](https://github.com/kubernetes-sigs/kubespray/pull/8913) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-5. 🗣 Commented on [#581](https://github.com/cncf/glossary/issues/581) in [cncf/glossary](https://github.com/cncf/glossary)
+1. ❌ Closed PR [#8913](https://github.com/kubernetes-sigs/kubespray/pull/8913) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+2. 🎉 Merged PR [#924](https://github.com/cncf/glossary/pull/924) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🎉 Merged PR [#68](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/68) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+4. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
