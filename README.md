@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/117) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. ❌ Closed PR [#8913](https://github.com/kubernetes-sigs/kubespray/pull/8913) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-3. 🎉 Merged PR [#924](https://github.com/cncf/glossary/pull/924) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#68](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/68) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-5. 🗣 Commented on [#924](https://github.com/cncf/glossary/issues/924) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#34214](https://github.com/kubernetes/website/issues/34214) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#34214](https://github.com/kubernetes/website/issues/34214) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🎉 Merged PR [#96](https://github.com/electrocucaracha/krd/pull/96) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🎉 Merged PR [#98](https://github.com/electrocucaracha/krd/pull/98) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🎉 Merged PR [#97](https://github.com/electrocucaracha/krd/pull/97) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
