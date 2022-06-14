@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34214](https://github.com/kubernetes/website/issues/34214) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#34252](https://github.com/kubernetes/website/issues/34252) in [kubernetes/website](https://github.com/kubernetes/website)
 2. 🗣 Commented on [#34214](https://github.com/kubernetes/website/issues/34214) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#96](https://github.com/electrocucaracha/krd/pull/96) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🎉 Merged PR [#98](https://github.com/electrocucaracha/krd/pull/98) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🎉 Merged PR [#97](https://github.com/electrocucaracha/krd/pull/97) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🗣 Commented on [#34214](https://github.com/kubernetes/website/issues/34214) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🎉 Merged PR [#96](https://github.com/electrocucaracha/krd/pull/96) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🎉 Merged PR [#98](https://github.com/electrocucaracha/krd/pull/98) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
