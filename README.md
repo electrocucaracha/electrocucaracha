@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/16) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-2. ❌ Closed PR [#18](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/18) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-3. 🎉 Merged PR [#19](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/19) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-4. 🎉 Merged PR [#73](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/73) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-5. 🎉 Merged PR [#72](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/72) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+1. ❌ Closed PR [#78](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/78) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+2. ❌ Closed PR [#16](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/16) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+3. ❌ Closed PR [#18](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/18) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+4. 🎉 Merged PR [#19](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/19) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+5. 🎉 Merged PR [#73](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/73) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
 <!--END_SECTION:activity-->
