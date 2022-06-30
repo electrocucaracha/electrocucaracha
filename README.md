@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#78](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/78) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-2. ❌ Closed PR [#16](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/16) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-3. ❌ Closed PR [#18](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/18) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-4. 🎉 Merged PR [#19](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/19) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-5. 🎉 Merged PR [#73](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/73) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+1. 🗣 Commented on [#983](https://github.com/cncf/glossary/issues/983) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#34683](https://github.com/kubernetes/website/issues/34683) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❌ Closed PR [#78](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/78) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+4. ❌ Closed PR [#16](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/16) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+5. ❌ Closed PR [#18](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/18) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
 <!--END_SECTION:activity-->
