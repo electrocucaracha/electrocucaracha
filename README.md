@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#983](https://github.com/cncf/glossary/issues/983) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#34683](https://github.com/kubernetes/website/issues/34683) in [kubernetes/website](https://github.com/kubernetes/website)
-3. ❌ Closed PR [#78](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/78) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-4. ❌ Closed PR [#16](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/16) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-5. ❌ Closed PR [#18](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/18) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+1. 🗣 Commented on [#99](https://github.com/electrocucaracha/krd/issues/99) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#120](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/120) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🗣 Commented on [#983](https://github.com/cncf/glossary/issues/983) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#34683](https://github.com/kubernetes/website/issues/34683) in [kubernetes/website](https://github.com/kubernetes/website)
+5. ❌ Closed PR [#78](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/78) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
 <!--END_SECTION:activity-->
