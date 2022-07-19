@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34943](https://github.com/kubernetes/website/issues/34943) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#35098](https://github.com/kubernetes/website/issues/35098) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#1051](https://github.com/cncf/glossary/pull/1051) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#35018](https://github.com/kubernetes/website/issues/35018) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#34956](https://github.com/kubernetes/website/issues/34956) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🎉 Merged PR [#88](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/88) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+2. 🗣 Commented on [#35134](https://github.com/kubernetes/website/issues/35134) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🎉 Merged PR [#46](https://github.com/electrocucaracha/openstack-multinode/pull/46) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🗣 Commented on [#34943](https://github.com/kubernetes/website/issues/34943) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#35098](https://github.com/kubernetes/website/issues/35098) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
