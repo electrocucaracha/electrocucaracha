@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/121) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🗣 Commented on [#34905](https://github.com/kubernetes/website/issues/34905) in [kubernetes/website](https://github.com/kubernetes/website)
-3. ❌ Closed PR [#24](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/24) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-4. 🗣 Commented on [#121](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/121) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. ❌ Closed PR [#99](https://github.com/electrocucaracha/krd/pull/99) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#22](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/22) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+2. ❌ Closed PR [#23](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/23) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+3. ❌ Closed PR [#20](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/20) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+4. ❌ Closed PR [#21](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/21) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+5. 🎉 Merged PR [#121](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/121) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
