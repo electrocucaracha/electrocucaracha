@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/22) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-2. ❌ Closed PR [#23](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/23) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-3. ❌ Closed PR [#20](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/20) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-4. ❌ Closed PR [#21](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/21) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-5. 🎉 Merged PR [#121](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/121) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#34793](https://github.com/kubernetes/website/issues/34793) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#35257](https://github.com/kubernetes/website/issues/35257) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#35257](https://github.com/kubernetes/website/issues/35257) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🎉 Merged PR [#93](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/93) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+5. ❌ Closed PR [#48](https://github.com/electrocucaracha/openstack-multinode/pull/48) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
