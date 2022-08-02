@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/electrocucaracha/krd/pull/100) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. ❌ Closed PR [#50](https://github.com/electrocucaracha/openstack-multinode/pull/50) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🗣 Commented on [#34793](https://github.com/kubernetes/website/issues/34793) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#35257](https://github.com/kubernetes/website/issues/35257) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#35257](https://github.com/kubernetes/website/issues/35257) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 💪 Opened PR [#222](https://github.com/cncf/cnf-wg/pull/222) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+2. ❗️ Closed issue [#218](https://github.com/cncf/cnf-wg/issues/218) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+3. 🗣 Commented on [#208](https://github.com/cncf/cnf-wg/issues/208) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 🎉 Merged PR [#100](https://github.com/electrocucaracha/krd/pull/100) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. ❌ Closed PR [#50](https://github.com/electrocucaracha/openstack-multinode/pull/50) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
