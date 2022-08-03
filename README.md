@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#222](https://github.com/cncf/cnf-wg/pull/222) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. ❗️ Closed issue [#218](https://github.com/cncf/cnf-wg/issues/218) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-3. 🗣 Commented on [#208](https://github.com/cncf/cnf-wg/issues/208) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-4. 🎉 Merged PR [#100](https://github.com/electrocucaracha/krd/pull/100) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. ❌ Closed PR [#50](https://github.com/electrocucaracha/openstack-multinode/pull/50) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. ❌ Closed PR [#51](https://github.com/electrocucaracha/openstack-multinode/pull/51) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. ❗️ Closed issue [#564](https://github.com/cncf/glossary/issues/564) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Closed issue [#573](https://github.com/cncf/glossary/issues/573) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#704](https://github.com/cncf/glossary/pull/704) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#31189](https://github.com/kubernetes/website/issues/31189) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
