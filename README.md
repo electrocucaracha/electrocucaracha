@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#52](https://github.com/electrocucaracha/openstack-multinode/pull/52) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🎉 Merged PR [#95](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/95) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-3. ❌ Closed PR [#51](https://github.com/electrocucaracha/openstack-multinode/pull/51) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. ❗️ Closed issue [#564](https://github.com/cncf/glossary/issues/564) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Closed issue [#573](https://github.com/cncf/glossary/issues/573) in [cncf/glossary](https://github.com/cncf/glossary)
+1. ❌ Closed PR [#101](https://github.com/electrocucaracha/krd/pull/101) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. ❌ Closed PR [#52](https://github.com/electrocucaracha/openstack-multinode/pull/52) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🎉 Merged PR [#95](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/95) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+4. ❌ Closed PR [#51](https://github.com/electrocucaracha/openstack-multinode/pull/51) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. ❗️ Closed issue [#564](https://github.com/cncf/glossary/issues/564) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
