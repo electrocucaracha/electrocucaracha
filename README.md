@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#101](https://github.com/electrocucaracha/krd/pull/101) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. ❌ Closed PR [#52](https://github.com/electrocucaracha/openstack-multinode/pull/52) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🎉 Merged PR [#95](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/95) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-4. ❌ Closed PR [#51](https://github.com/electrocucaracha/openstack-multinode/pull/51) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. ❗️ Closed issue [#564](https://github.com/cncf/glossary/issues/564) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 💪 Opened PR [#1192](https://github.com/cncf/glossary/pull/1192) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 💪 Opened PR [#1191](https://github.com/cncf/glossary/pull/1191) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🎉 Merged PR [#2](https://github.com/electrocucaracha/lint-devstack/pull/2) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+4. 🎉 Merged PR [#1](https://github.com/electrocucaracha/lint-devstack/pull/1) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+5. 🎉 Merged PR [#1](https://github.com/electrocucaracha/electrocucaracha.github.io/pull/1) in [electrocucaracha/electrocucaracha.github.io](https://github.com/electrocucaracha/electrocucaracha.github.io)
 <!--END_SECTION:activity-->
