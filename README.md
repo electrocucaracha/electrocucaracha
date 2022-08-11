@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1192](https://github.com/cncf/glossary/pull/1192) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#1191](https://github.com/cncf/glossary/pull/1191) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🎉 Merged PR [#2](https://github.com/electrocucaracha/lint-devstack/pull/2) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
-4. 🎉 Merged PR [#1](https://github.com/electrocucaracha/lint-devstack/pull/1) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
-5. 🎉 Merged PR [#1](https://github.com/electrocucaracha/electrocucaracha.github.io/pull/1) in [electrocucaracha/electrocucaracha.github.io](https://github.com/electrocucaracha/electrocucaracha.github.io)
+1. 🗣 Commented on [#1191](https://github.com/cncf/glossary/issues/1191) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 💪 Opened PR [#1192](https://github.com/cncf/glossary/pull/1192) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#1191](https://github.com/cncf/glossary/pull/1191) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#2](https://github.com/electrocucaracha/lint-devstack/pull/2) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+5. 🎉 Merged PR [#1](https://github.com/electrocucaracha/lint-devstack/pull/1) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
 <!--END_SECTION:activity-->
