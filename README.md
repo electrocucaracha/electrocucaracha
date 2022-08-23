@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35861](https://github.com/kubernetes/website/issues/35861) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#36029](https://github.com/kubernetes/website/issues/36029) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#36029](https://github.com/kubernetes/website/issues/36029) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#36029](https://github.com/kubernetes/website/issues/36029) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#36054](https://github.com/kubernetes/website/issues/36054) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🎉 Merged PR [#26](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/26) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🗣 Commented on [#26](https://github.com/electrocucaracha/k8s-Ingress-demo/issues/26) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+3. 💪 Opened PR [#226](https://github.com/cncf/cnf-wg/pull/226) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 🎉 Merged PR [#208](https://github.com/cncf/cnf-wg/pull/208) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+5. 🗣 Commented on [#35861](https://github.com/kubernetes/website/issues/35861) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
