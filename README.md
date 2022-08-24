@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/26) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-2. 🗣 Commented on [#26](https://github.com/electrocucaracha/k8s-Ingress-demo/issues/26) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-3. 💪 Opened PR [#226](https://github.com/cncf/cnf-wg/pull/226) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-4. 🎉 Merged PR [#208](https://github.com/cncf/cnf-wg/pull/208) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-5. 🗣 Commented on [#35861](https://github.com/kubernetes/website/issues/35861) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#1](https://github.com/electrocucaracha/cFW-demo/issues/1) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
+2. ❗️ Closed issue [#565](https://github.com/cncf/glossary/issues/565) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Closed issue [#695](https://github.com/cncf/glossary/issues/695) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗️ Closed issue [#574](https://github.com/cncf/glossary/issues/574) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🎉 Merged PR [#1193](https://github.com/cncf/glossary/pull/1193) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
