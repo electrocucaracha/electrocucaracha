@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1563](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1563) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
-2. ❗️ Opened issue [#1561](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1561) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
-3. 🗣 Commented on [#1](https://github.com/electrocucaracha/cFW-demo/issues/1) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
-4. ❗️ Closed issue [#565](https://github.com/cncf/glossary/issues/565) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Closed issue [#695](https://github.com/cncf/glossary/issues/695) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#2](https://github.com/electrocucaracha/cFW-demo/issues/2) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
+3. 💪 Opened PR [#1](https://github.com/jthan24/glossary/pull/1) in [jthan24/glossary](https://github.com/jthan24/glossary)
+4. 💪 Opened PR [#1278](https://github.com/cncf/glossary/pull/1278) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#1277](https://github.com/cncf/glossary/pull/1277) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
