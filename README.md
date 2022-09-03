@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/electrocucaracha/cFW-demo/issues/2) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
-2. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#2](https://github.com/electrocucaracha/cFW-demo/issues/2) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
-5. 💪 Opened PR [#1](https://github.com/jthan24/glossary/pull/1) in [jthan24/glossary](https://github.com/jthan24/glossary)
+1. 🎉 Merged PR [#54](https://github.com/electrocucaracha/openstack-multinode/pull/54) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. 🎉 Merged PR [#122](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/122) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🗣 Commented on [#2](https://github.com/electrocucaracha/cFW-demo/issues/2) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
+4. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
