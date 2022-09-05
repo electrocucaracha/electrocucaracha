@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/electrocucaracha/openstack-multinode/pull/54) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🎉 Merged PR [#122](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/122) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. 🗣 Commented on [#2](https://github.com/electrocucaracha/cFW-demo/issues/2) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
-4. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#2](https://github.com/electrocucaracha/cFW-demo/issues/2) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
+2. 🗣 Commented on [#2](https://github.com/electrocucaracha/cFW-demo/issues/2) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
+3. 🎉 Merged PR [#54](https://github.com/electrocucaracha/openstack-multinode/pull/54) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🎉 Merged PR [#122](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/122) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🗣 Commented on [#2](https://github.com/electrocucaracha/cFW-demo/issues/2) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
 <!--END_SECTION:activity-->
