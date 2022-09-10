@@ -44,6 +44,6 @@ nickname came from.
 1. 🗣 Commented on [#112289](https://github.com/kubernetes/kubernetes/issues/112289) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 2. 🗣 Commented on [#112289](https://github.com/kubernetes/kubernetes/issues/112289) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 3. 🗣 Commented on [#112289](https://github.com/kubernetes/kubernetes/issues/112289) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 💪 Opened PR [#3160](https://github.com/cntt-n/CNTT/pull/3160) in [cntt-n/CNTT](https://github.com/cntt-n/CNTT)
-5. 🗣 Commented on [#112291](https://github.com/kubernetes/kubernetes/issues/112291) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#112289](https://github.com/kubernetes/kubernetes/issues/112289) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 💪 Opened PR [#3160](https://github.com/cntt-n/CNTT/pull/3160) in [cntt-n/CNTT](https://github.com/cntt-n/CNTT)
 <!--END_SECTION:activity-->
