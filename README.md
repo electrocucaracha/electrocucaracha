@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112289](https://github.com/kubernetes/kubernetes/issues/112289) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#112289](https://github.com/kubernetes/kubernetes/issues/112289) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. ❌ Closed PR [#112410](https://github.com/kubernetes/kubernetes/pull/112410) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#112410](https://github.com/kubernetes/kubernetes/issues/112410) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#1314](https://github.com/cncf/glossary/issues/1314) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#103](https://github.com/electrocucaracha/krd/pull/103) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#112289](https://github.com/kubernetes/kubernetes/issues/112289) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#112289](https://github.com/kubernetes/kubernetes/issues/112289) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. ❌ Closed PR [#112410](https://github.com/kubernetes/kubernetes/pull/112410) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
