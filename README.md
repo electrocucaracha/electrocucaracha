@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112288](https://github.com/kubernetes/kubernetes/issues/112288) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#36958](https://github.com/kubernetes/website/issues/36958) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#9161](https://github.com/kubernetes-sigs/kubespray/issues/9161) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+2. 💪 Opened PR [#9321](https://github.com/kubernetes-sigs/kubespray/pull/9321) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 3. 🗣 Commented on [#112288](https://github.com/kubernetes/kubernetes/issues/112288) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#112289](https://github.com/kubernetes/kubernetes/issues/112289) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. ❗️ Closed issue [#580](https://github.com/cncf/glossary/issues/580) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#36958](https://github.com/kubernetes/website/issues/36958) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#112288](https://github.com/kubernetes/kubernetes/issues/112288) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
