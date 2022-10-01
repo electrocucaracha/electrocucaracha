@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/electrocucaracha/openstack-multinode/issues/55) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🗣 Commented on [#9161](https://github.com/kubernetes-sigs/kubespray/issues/9161) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-3. 💪 Opened PR [#9321](https://github.com/kubernetes-sigs/kubespray/pull/9321) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-4. 🗣 Commented on [#112288](https://github.com/kubernetes/kubernetes/issues/112288) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#36958](https://github.com/kubernetes/website/issues/36958) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🎉 Merged PR [#55](https://github.com/electrocucaracha/openstack-multinode/pull/55) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. 🗣 Commented on [#27](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/issues/27) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+3. 🎉 Merged PR [#24](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/24) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+4. 🎉 Merged PR [#25](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/25) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+5. 🗣 Commented on [#55](https://github.com/electrocucaracha/openstack-multinode/issues/55) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
