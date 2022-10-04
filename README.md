@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/electrocucaracha/openstack-multinode/pull/55) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🗣 Commented on [#27](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/issues/27) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-3. 🎉 Merged PR [#24](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/24) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-4. 🎉 Merged PR [#25](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/25) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-5. 🗣 Commented on [#55](https://github.com/electrocucaracha/openstack-multinode/issues/55) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. ❌ Closed PR [#1277](https://github.com/cncf/glossary/pull/1277) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#211](https://github.com/cncf/cnf-wg/issues/211) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 🎉 Merged PR [#55](https://github.com/electrocucaracha/openstack-multinode/pull/55) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🗣 Commented on [#27](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/issues/27) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
 <!--END_SECTION:activity-->
