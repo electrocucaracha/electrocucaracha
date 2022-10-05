@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1277](https://github.com/cncf/glossary/pull/1277) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#1277](https://github.com/cncf/glossary/issues/1277) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#211](https://github.com/cncf/cnf-wg/issues/211) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-4. 🎉 Merged PR [#55](https://github.com/electrocucaracha/openstack-multinode/pull/55) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🗣 Commented on [#27](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/issues/27) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+1. ❌ Closed PR [#104](https://github.com/electrocucaracha/krd/pull/104) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. ❌ Closed PR [#92](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/92) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+3. ❌ Closed PR [#360](https://github.com/cncf/glossary/pull/360) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#1313](https://github.com/cncf/glossary/issues/1313) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#1288](https://github.com/cncf/glossary/issues/1288) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
