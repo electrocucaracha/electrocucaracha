@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#104](https://github.com/electrocucaracha/krd/pull/104) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. ❌ Closed PR [#92](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/92) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-3. ❌ Closed PR [#360](https://github.com/cncf/glossary/pull/360) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#1313](https://github.com/cncf/glossary/issues/1313) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#1288](https://github.com/cncf/glossary/issues/1288) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#106](https://github.com/electrocucaracha/krd/pull/106) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#1](https://github.com/electrocucaracha/vFW-demo/pull/1) in [electrocucaracha/vFW-demo](https://github.com/electrocucaracha/vFW-demo)
+3. 🎉 Merged PR [#57](https://github.com/electrocucaracha/openstack-multinode/pull/57) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🎉 Merged PR [#3](https://github.com/electrocucaracha/electrocucaracha.github.io/pull/3) in [electrocucaracha/electrocucaracha.github.io](https://github.com/electrocucaracha/electrocucaracha.github.io)
+5. 🎉 Merged PR [#96](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/96) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
 <!--END_SECTION:activity-->
