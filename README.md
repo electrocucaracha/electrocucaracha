@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#106](https://github.com/electrocucaracha/krd/pull/106) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🎉 Merged PR [#1](https://github.com/electrocucaracha/vFW-demo/pull/1) in [electrocucaracha/vFW-demo](https://github.com/electrocucaracha/vFW-demo)
-3. 🎉 Merged PR [#57](https://github.com/electrocucaracha/openstack-multinode/pull/57) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. 🎉 Merged PR [#3](https://github.com/electrocucaracha/electrocucaracha.github.io/pull/3) in [electrocucaracha/electrocucaracha.github.io](https://github.com/electrocucaracha/electrocucaracha.github.io)
-5. 🎉 Merged PR [#96](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/96) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+1. 💪 Opened PR [#1352](https://github.com/cncf/glossary/pull/1352) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 💪 Opened PR [#1351](https://github.com/cncf/glossary/pull/1351) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#1350](https://github.com/cncf/glossary/pull/1350) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 💪 Opened PR [#1349](https://github.com/cncf/glossary/pull/1349) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#1348](https://github.com/cncf/glossary/pull/1348) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
