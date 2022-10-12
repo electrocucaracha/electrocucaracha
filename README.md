@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#58](https://github.com/electrocucaracha/openstack-multinode/pull/58) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 💪 Opened PR [#1352](https://github.com/cncf/glossary/pull/1352) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 💪 Opened PR [#1351](https://github.com/cncf/glossary/pull/1351) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 💪 Opened PR [#1350](https://github.com/cncf/glossary/pull/1350) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#1349](https://github.com/cncf/glossary/pull/1349) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#59](https://github.com/electrocucaracha/openstack-multinode/pull/59) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. 🗣 Commented on [#124](https://github.com/electrocucaracha/pkg-mgr_scripts/issues/124) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🎉 Merged PR [#1](https://github.com/electrocucaracha/vagrant-boxes-list/pull/1) in [electrocucaracha/vagrant-boxes-list](https://github.com/electrocucaracha/vagrant-boxes-list)
+4. 💪 Opened PR [#1362](https://github.com/cncf/glossary/pull/1362) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#1361](https://github.com/cncf/glossary/pull/1361) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
