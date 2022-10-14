@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/electrocucaracha/krd/issues/105) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. ❗️ Opened issue [#1377](https://github.com/cncf/glossary/issues/1377) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Opened issue [#1376](https://github.com/cncf/glossary/issues/1376) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Opened issue [#1375](https://github.com/cncf/glossary/issues/1375) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Opened issue [#1374](https://github.com/cncf/glossary/issues/1374) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#126](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/126) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🎉 Merged PR [#3](https://github.com/electrocucaracha/vagrant-boxes-list/pull/3) in [electrocucaracha/vagrant-boxes-list](https://github.com/electrocucaracha/vagrant-boxes-list)
+3. 🎉 Merged PR [#4](https://github.com/electrocucaracha/vagrant-boxes-list/pull/4) in [electrocucaracha/vagrant-boxes-list](https://github.com/electrocucaracha/vagrant-boxes-list)
+4. 🎉 Merged PR [#109](https://github.com/electrocucaracha/krd/pull/109) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🎉 Merged PR [#25](https://github.com/electrocucaracha/bootstrap-vagrant/pull/25) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
 <!--END_SECTION:activity-->
