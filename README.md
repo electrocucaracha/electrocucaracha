@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/electrocucaracha/openstack-multinode/pull/62) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🎉 Merged PR [#127](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/127) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. 🎉 Merged PR [#110](https://github.com/electrocucaracha/krd/pull/110) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🎉 Merged PR [#126](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/126) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🎉 Merged PR [#3](https://github.com/electrocucaracha/vagrant-boxes-list/pull/3) in [electrocucaracha/vagrant-boxes-list](https://github.com/electrocucaracha/vagrant-boxes-list)
+1. 🗣 Commented on [#1381](https://github.com/cncf/glossary/issues/1381) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🎉 Merged PR [#62](https://github.com/electrocucaracha/openstack-multinode/pull/62) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🎉 Merged PR [#127](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/127) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#110](https://github.com/electrocucaracha/krd/pull/110) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🎉 Merged PR [#126](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/126) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
