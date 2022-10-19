@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1382](https://github.com/cncf/glossary/issues/1382) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#1](https://github.com/tinniaru3005/cncf-glossary/pull/1) in [tinniaru3005/cncf-glossary](https://github.com/tinniaru3005/cncf-glossary)
-3. 🗣 Commented on [#1381](https://github.com/cncf/glossary/issues/1381) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#62](https://github.com/electrocucaracha/openstack-multinode/pull/62) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🎉 Merged PR [#127](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/127) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. ❗️ Opened issue [#1402](https://github.com/cncf/glossary/issues/1402) in [cncf/glossary](https://github.com/cncf/glossary)
+2. ❗️ Opened issue [#1401](https://github.com/cncf/glossary/issues/1401) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Opened issue [#1400](https://github.com/cncf/glossary/issues/1400) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗️ Opened issue [#1399](https://github.com/cncf/glossary/issues/1399) in [cncf/glossary](https://github.com/cncf/glossary)
+5. ❗️ Opened issue [#1398](https://github.com/cncf/glossary/issues/1398) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
