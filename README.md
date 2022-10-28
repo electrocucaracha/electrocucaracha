@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#105](https://github.com/electrocucaracha/krd/pull/105) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🗣 Commented on [#1415](https://github.com/cncf/glossary/issues/1415) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❌ Closed PR [#1415](https://github.com/cncf/glossary/pull/1415) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Closed issue [#1393](https://github.com/cncf/glossary/issues/1393) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#1393](https://github.com/cncf/glossary/issues/1393) in [cncf/glossary](https://github.com/cncf/glossary)
+1. ❗️ Opened issue [#418](https://github.com/wagoodman/dive/issues/418) in [wagoodman/dive](https://github.com/wagoodman/dive)
+2. 🗣 Commented on [#1399](https://github.com/cncf/glossary/issues/1399) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#1399](https://github.com/cncf/glossary/issues/1399) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❌ Closed PR [#105](https://github.com/electrocucaracha/krd/pull/105) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🗣 Commented on [#1415](https://github.com/cncf/glossary/issues/1415) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
