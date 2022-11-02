@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1424](https://github.com/cncf/glossary/issues/1424) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#1424](https://github.com/cncf/glossary/issues/1424) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#1404](https://github.com/cncf/glossary/issues/1404) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#1404](https://github.com/cncf/glossary/issues/1404) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Closed issue [#1377](https://github.com/cncf/glossary/issues/1377) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#1](https://github.com/electrocucaracha/nephio-lab/pull/1) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+2. 🎉 Merged PR [#3](https://github.com/electrocucaracha/nephio-lab/pull/3) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+3. 🗣 Commented on [#1424](https://github.com/cncf/glossary/issues/1424) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗️ Closed issue [#611](https://github.com/cncf/glossary/issues/611) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🎉 Merged PR [#1386](https://github.com/cncf/glossary/pull/1386) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
