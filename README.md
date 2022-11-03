@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/electrocucaracha/nephio-lab/pull/1) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-2. 🎉 Merged PR [#3](https://github.com/electrocucaracha/nephio-lab/pull/3) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-3. 🗣 Commented on [#1424](https://github.com/cncf/glossary/issues/1424) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Closed issue [#611](https://github.com/cncf/glossary/issues/611) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🎉 Merged PR [#1386](https://github.com/cncf/glossary/pull/1386) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#112](https://github.com/electrocucaracha/krd/pull/112) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 💪 Opened PR [#1](https://github.com/mdf-ido/glossary/pull/1) in [mdf-ido/glossary](https://github.com/mdf-ido/glossary)
+3. 🎉 Merged PR [#4](https://github.com/electrocucaracha/nephio-lab/pull/4) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+4. 🗣 Commented on [#1424](https://github.com/cncf/glossary/issues/1424) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#112](https://github.com/electrocucaracha/krd/issues/112) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
