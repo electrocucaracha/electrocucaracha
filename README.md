@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/electrocucaracha/krd/pull/112) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 💪 Opened PR [#1](https://github.com/mdf-ido/glossary/pull/1) in [mdf-ido/glossary](https://github.com/mdf-ido/glossary)
-3. 🎉 Merged PR [#4](https://github.com/electrocucaracha/nephio-lab/pull/4) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-4. 🗣 Commented on [#1424](https://github.com/cncf/glossary/issues/1424) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#112](https://github.com/electrocucaracha/krd/issues/112) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🗣 Commented on [#23453](https://github.com/project-chip/connectedhomeip/issues/23453) in [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip)
+2. 🎉 Merged PR [#124](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/124) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🎉 Merged PR [#112](https://github.com/electrocucaracha/krd/pull/112) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 💪 Opened PR [#1](https://github.com/mdf-ido/glossary/pull/1) in [mdf-ido/glossary](https://github.com/mdf-ido/glossary)
+5. 🎉 Merged PR [#4](https://github.com/electrocucaracha/nephio-lab/pull/4) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
 <!--END_SECTION:activity-->
