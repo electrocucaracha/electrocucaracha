@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/nephio-project/one-summit-22-workshop/pull/41) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-2. 💪 Opened PR [#4](https://github.com/nephio-project/one-summit-22-workshop/pull/4) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-3. 💪 Opened PR [#1442](https://github.com/cncf/glossary/pull/1442) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 💪 Opened PR [#1441](https://github.com/cncf/glossary/pull/1441) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#234](https://github.com/cncf/cnf-wg/pull/234) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+1. 🗣 Commented on [#50](https://github.com/nephio-project/one-summit-22-workshop/issues/50) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+2. 💪 Opened PR [#53](https://github.com/nephio-project/one-summit-22-workshop/pull/53) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+3. 🗣 Commented on [#3](https://github.com/nephio-project/one-summit-22-workshop/issues/3) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+4. 🗣 Commented on [#37735](https://github.com/kubernetes/website/issues/37735) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#1440](https://github.com/cncf/glossary/issues/1440) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
