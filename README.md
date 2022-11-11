@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/nephio-project/one-summit-22-workshop/pull/71) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-2. 💪 Opened PR [#69](https://github.com/nephio-project/one-summit-22-workshop/pull/69) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-3. 💪 Opened PR [#63](https://github.com/nephio-project/one-summit-22-workshop/pull/63) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-4. 🗣 Commented on [#37735](https://github.com/kubernetes/website/issues/37735) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#50](https://github.com/nephio-project/one-summit-22-workshop/issues/50) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+1. 🗣 Commented on [#5](https://github.com/nephio-project/one-summit-22-workshop/issues/5) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+2. 💪 Opened PR [#77](https://github.com/nephio-project/one-summit-22-workshop/pull/77) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+3. 🗣 Commented on [#5](https://github.com/nephio-project/one-summit-22-workshop/issues/5) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+4. 💪 Opened PR [#72](https://github.com/nephio-project/one-summit-22-workshop/pull/72) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+5. 🎉 Merged PR [#28](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/28) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
 <!--END_SECTION:activity-->
