@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1374](https://github.com/cncf/glossary/issues/1374) in [cncf/glossary](https://github.com/cncf/glossary)
-2. ❗️ Closed issue [#1373](https://github.com/cncf/glossary/issues/1373) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Closed issue [#1400](https://github.com/cncf/glossary/issues/1400) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Closed issue [#1399](https://github.com/cncf/glossary/issues/1399) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#79](https://github.com/nephio-project/one-summit-22-workshop/issues/79) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+1. 🗣 Commented on [#72](https://github.com/nephio-project/one-summit-22-workshop/issues/72) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+2. 🗣 Commented on [#72](https://github.com/nephio-project/one-summit-22-workshop/issues/72) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+3. ❗️ Closed issue [#1374](https://github.com/cncf/glossary/issues/1374) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗️ Closed issue [#1373](https://github.com/cncf/glossary/issues/1373) in [cncf/glossary](https://github.com/cncf/glossary)
+5. ❗️ Closed issue [#1400](https://github.com/cncf/glossary/issues/1400) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
