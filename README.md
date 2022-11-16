@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/nephio-project/one-summit-22-workshop/pull/93) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-2. 🗣 Commented on [#56](https://github.com/nephio-project/one-summit-22-workshop/issues/56) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-3. 🗣 Commented on [#72](https://github.com/nephio-project/one-summit-22-workshop/issues/72) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+1. 💪 Opened PR [#96](https://github.com/nephio-project/one-summit-22-workshop/pull/96) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+2. 💪 Opened PR [#93](https://github.com/nephio-project/one-summit-22-workshop/pull/93) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+3. 🗣 Commented on [#56](https://github.com/nephio-project/one-summit-22-workshop/issues/56) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
 4. 🗣 Commented on [#72](https://github.com/nephio-project/one-summit-22-workshop/issues/72) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-5. ❗️ Closed issue [#1374](https://github.com/cncf/glossary/issues/1374) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#72](https://github.com/nephio-project/one-summit-22-workshop/issues/72) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
 <!--END_SECTION:activity-->
