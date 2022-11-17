@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](https://github.com/nephio-project/one-summit-22-workshop/pull/96) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-2. 💪 Opened PR [#93](https://github.com/nephio-project/one-summit-22-workshop/pull/93) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-3. 🗣 Commented on [#56](https://github.com/nephio-project/one-summit-22-workshop/issues/56) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-4. 🗣 Commented on [#72](https://github.com/nephio-project/one-summit-22-workshop/issues/72) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+1. 🎉 Merged PR [#131](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/131) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 💪 Opened PR [#96](https://github.com/nephio-project/one-summit-22-workshop/pull/96) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+3. 💪 Opened PR [#93](https://github.com/nephio-project/one-summit-22-workshop/pull/93) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+4. 🗣 Commented on [#56](https://github.com/nephio-project/one-summit-22-workshop/issues/56) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
 5. 🗣 Commented on [#72](https://github.com/nephio-project/one-summit-22-workshop/issues/72) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
 <!--END_SECTION:activity-->
