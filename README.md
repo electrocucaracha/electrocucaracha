@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/132) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🎉 Merged PR [#131](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/131) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. 💪 Opened PR [#96](https://github.com/nephio-project/one-summit-22-workshop/pull/96) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-4. 💪 Opened PR [#93](https://github.com/nephio-project/one-summit-22-workshop/pull/93) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
-5. 🗣 Commented on [#56](https://github.com/nephio-project/one-summit-22-workshop/issues/56) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+1. 🎉 Merged PR [#133](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/133) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🎉 Merged PR [#134](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/134) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🎉 Merged PR [#132](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/132) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#131](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/131) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 💪 Opened PR [#96](https://github.com/nephio-project/one-summit-22-workshop/pull/96) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
 <!--END_SECTION:activity-->
