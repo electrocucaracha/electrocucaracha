@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#133](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/133) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🎉 Merged PR [#134](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/134) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. 🎉 Merged PR [#132](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/132) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🎉 Merged PR [#131](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/131) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 💪 Opened PR [#96](https://github.com/nephio-project/one-summit-22-workshop/pull/96) in [nephio-project/one-summit-22-workshop](https://github.com/nephio-project/one-summit-22-workshop)
+1. 🎉 Merged PR [#114](https://github.com/electrocucaracha/krd/pull/114) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#115](https://github.com/electrocucaracha/krd/pull/115) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🎉 Merged PR [#27](https://github.com/electrocucaracha/bootstrap-vagrant/pull/27) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+4. 🎉 Merged PR [#63](https://github.com/electrocucaracha/openstack-multinode/pull/63) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🗣 Commented on [#1485](https://github.com/cncf/glossary/issues/1485) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
