@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#130](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/130) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🎉 Merged PR [#28](https://github.com/electrocucaracha/bootstrap-vagrant/pull/28) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-3. 🗣 Commented on [#1458](https://github.com/cncf/glossary/issues/1458) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#117](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/117) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-5. 🗣 Commented on [#1499](https://github.com/cncf/glossary/issues/1499) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#239](https://github.com/cncf/cnf-wg/issues/239) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+2. ❌ Closed PR [#112290](https://github.com/kubernetes/kubernetes/pull/112290) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. ❌ Closed PR [#130](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/130) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#28](https://github.com/electrocucaracha/bootstrap-vagrant/pull/28) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+5. 🗣 Commented on [#1458](https://github.com/cncf/glossary/issues/1458) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
