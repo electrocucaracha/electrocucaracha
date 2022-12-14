@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/cncf/cnf-wg/issues/239) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. ❌ Closed PR [#112290](https://github.com/kubernetes/kubernetes/pull/112290) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. ❌ Closed PR [#130](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/130) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🎉 Merged PR [#28](https://github.com/electrocucaracha/bootstrap-vagrant/pull/28) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-5. 🗣 Commented on [#1458](https://github.com/cncf/glossary/issues/1458) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#30](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/30) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🗣 Commented on [#113](https://github.com/electrocucaracha/krd/issues/113) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🎉 Merged PR [#48](https://github.com/electrocucaracha/releng/pull/48) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+4. 💪 Opened PR [#1522](https://github.com/cncf/glossary/pull/1522) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#1521](https://github.com/cncf/glossary/pull/1521) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
