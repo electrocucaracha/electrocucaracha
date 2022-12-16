@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/electrocucaracha/nephio-lab/pull/6) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-2. 🎉 Merged PR [#71](https://github.com/electrocucaracha/openstack-multinode/pull/71) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🎉 Merged PR [#139](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/139) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 💪 Opened PR [#1524](https://github.com/cncf/glossary/pull/1524) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🎉 Merged PR [#120](https://github.com/electrocucaracha/krd/pull/120) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#10](https://github.com/electrocucaracha/nephio-lab/pull/10) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+2. ❌ Closed PR [#6](https://github.com/electrocucaracha/nephio-lab/pull/6) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+3. 🎉 Merged PR [#71](https://github.com/electrocucaracha/openstack-multinode/pull/71) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🎉 Merged PR [#139](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/139) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 💪 Opened PR [#1524](https://github.com/cncf/glossary/pull/1524) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
