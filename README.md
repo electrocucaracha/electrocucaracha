@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38534](https://github.com/kubernetes/website/issues/38534) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#3160](https://github.com/cntt-n/CNTT/issues/3160) in [cntt-n/CNTT](https://github.com/cntt-n/CNTT)
-3. 🎉 Merged PR [#10](https://github.com/electrocucaracha/nephio-lab/pull/10) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-4. ❌ Closed PR [#6](https://github.com/electrocucaracha/nephio-lab/pull/6) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-5. 🎉 Merged PR [#71](https://github.com/electrocucaracha/openstack-multinode/pull/71) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🗣 Commented on [#38602](https://github.com/kubernetes/website/issues/38602) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#38534](https://github.com/kubernetes/website/issues/38534) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#3160](https://github.com/cntt-n/CNTT/issues/3160) in [cntt-n/CNTT](https://github.com/cntt-n/CNTT)
+4. 🎉 Merged PR [#10](https://github.com/electrocucaracha/nephio-lab/pull/10) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+5. ❌ Closed PR [#6](https://github.com/electrocucaracha/nephio-lab/pull/6) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
 <!--END_SECTION:activity-->
