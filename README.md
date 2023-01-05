@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38602](https://github.com/kubernetes/website/issues/38602) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#38534](https://github.com/kubernetes/website/issues/38534) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#3160](https://github.com/cntt-n/CNTT/issues/3160) in [cntt-n/CNTT](https://github.com/cntt-n/CNTT)
-4. 🎉 Merged PR [#10](https://github.com/electrocucaracha/nephio-lab/pull/10) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-5. ❌ Closed PR [#6](https://github.com/electrocucaracha/nephio-lab/pull/6) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+1. ❌ Closed PR [#117](https://github.com/electrocucaracha/krd/pull/117) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#113](https://github.com/electrocucaracha/krd/pull/113) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🎉 Merged PR [#137](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/137) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#32](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/32) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+5. 🎉 Merged PR [#29](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/29) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
 <!--END_SECTION:activity-->
