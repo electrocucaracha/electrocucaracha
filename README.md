@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#117](https://github.com/electrocucaracha/krd/pull/117) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🎉 Merged PR [#113](https://github.com/electrocucaracha/krd/pull/113) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🎉 Merged PR [#137](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/137) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🎉 Merged PR [#32](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/32) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-5. 🎉 Merged PR [#29](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/29) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+1. 🗣 Commented on [#1524](https://github.com/cncf/glossary/issues/1524) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#1522](https://github.com/cncf/glossary/issues/1522) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#1521](https://github.com/cncf/glossary/issues/1521) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#1520](https://github.com/cncf/glossary/issues/1520) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#1505](https://github.com/cncf/glossary/issues/1505) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
