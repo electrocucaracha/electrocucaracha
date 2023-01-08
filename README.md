@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#242](https://github.com/cncf/cnf-wg/issues/242) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. 🎉 Merged PR [#10](https://github.com/electrocucaracha/bmaas/pull/10) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-3. 🎉 Merged PR [#11](https://github.com/electrocucaracha/bmaas/pull/11) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-4. 🎉 Merged PR [#77](https://github.com/electrocucaracha/openstack-multinode/pull/77) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🎉 Merged PR [#149](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/149) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#1505](https://github.com/cncf/glossary/issues/1505) in [cncf/glossary](https://github.com/cncf/glossary)
+2. ❗️ Closed issue [#1398](https://github.com/cncf/glossary/issues/1398) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🎉 Merged PR [#1505](https://github.com/cncf/glossary/pull/1505) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#242](https://github.com/cncf/cnf-wg/issues/242) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+5. 🎉 Merged PR [#10](https://github.com/electrocucaracha/bmaas/pull/10) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
 <!--END_SECTION:activity-->
