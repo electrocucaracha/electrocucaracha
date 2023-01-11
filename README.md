@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1606](https://github.com/cncf/glossary/pull/1606) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#1605](https://github.com/cncf/glossary/pull/1605) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🎉 Merged PR [#152](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/152) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🎉 Merged PR [#78](https://github.com/electrocucaracha/openstack-multinode/pull/78) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🎉 Merged PR [#16](https://github.com/electrocucaracha/nephio-lab/pull/16) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+1. 💪 Opened PR [#1613](https://github.com/cncf/glossary/pull/1613) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 💪 Opened PR [#1611](https://github.com/cncf/glossary/pull/1611) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#1610](https://github.com/cncf/glossary/pull/1610) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#128](https://github.com/electrocucaracha/krd/pull/128) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🎉 Merged PR [#38](https://github.com/electrocucaracha/bootstrap-vagrant/pull/38) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
 <!--END_SECTION:activity-->
