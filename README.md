@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/electrocucaracha/krd/pull/129) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🗣 Commented on [#1](https://github.com/nephio-project/docs/issues/1) in [nephio-project/docs](https://github.com/nephio-project/docs)
-3. 🎉 Merged PR [#153](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/153) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. ❌ Closed PR [#80](https://github.com/electrocucaracha/openstack-multinode/pull/80) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🎉 Merged PR [#76](https://github.com/electrocucaracha/openstack-multinode/pull/76) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 💪 Opened PR [#3963](https://github.com/kubernetes/org/pull/3963) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 🎉 Merged PR [#5](https://github.com/electrocucaracha/k8s-WASM-demo/pull/5) in [electrocucaracha/k8s-WASM-demo](https://github.com/electrocucaracha/k8s-WASM-demo)
+3. 🗣 Commented on [#38935](https://github.com/kubernetes/website/issues/38935) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🎉 Merged PR [#3](https://github.com/electrocucaracha/vFW-demo/pull/3) in [electrocucaracha/vFW-demo](https://github.com/electrocucaracha/vFW-demo)
+5. 🎉 Merged PR [#154](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/154) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
