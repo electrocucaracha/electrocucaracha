@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3981](https://github.com/kubernetes/org/issues/3981) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 🗣 Commented on [#1634](https://github.com/cncf/glossary/issues/1634) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#1612](https://github.com/cncf/glossary/issues/1612) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❌ Closed PR [#126](https://github.com/electrocucaracha/krd/pull/126) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. ❌ Closed PR [#81](https://github.com/electrocucaracha/openstack-multinode/pull/81) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🎉 Merged PR [#32](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/32) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. ❗️ Opened issue [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
+3. 🗣 Commented on [#3981](https://github.com/kubernetes/org/issues/3981) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 🗣 Commented on [#1634](https://github.com/cncf/glossary/issues/1634) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#1612](https://github.com/cncf/glossary/issues/1612) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
