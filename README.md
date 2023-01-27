@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/32) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-2. ❗️ Opened issue [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
-3. 🗣 Commented on [#3981](https://github.com/kubernetes/org/issues/3981) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#1634](https://github.com/cncf/glossary/issues/1634) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#1612](https://github.com/cncf/glossary/issues/1612) in [cncf/glossary](https://github.com/cncf/glossary)
+1. ❗️ Closed issue [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
+2. 🗣 Commented on [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
+3. 🎉 Merged PR [#155](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/155) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#32](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/32) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+5. ❗️ Opened issue [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
 <!--END_SECTION:activity-->
