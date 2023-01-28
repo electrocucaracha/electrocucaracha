@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
-2. 🗣 Commented on [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
-3. 🎉 Merged PR [#155](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/155) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🎉 Merged PR [#32](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/32) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-5. ❗️ Opened issue [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
+1. 🎉 Merged PR [#35](https://github.com/electrocucaracha/bootstrap-vagrant/pull/35) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+2. ❗️ Closed issue [#1395](https://github.com/cncf/glossary/issues/1395) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🎉 Merged PR [#1637](https://github.com/cncf/glossary/pull/1637) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗️ Closed issue [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
+5. 🗣 Commented on [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
 <!--END_SECTION:activity-->
