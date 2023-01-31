@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/electrocucaracha/bootstrap-vagrant/pull/35) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-2. ❗️ Closed issue [#1395](https://github.com/cncf/glossary/issues/1395) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🎉 Merged PR [#1637](https://github.com/cncf/glossary/pull/1637) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Closed issue [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
-5. 🗣 Commented on [#32](https://github.com/jpillora/installer/issues/32) in [jpillora/installer](https://github.com/jpillora/installer)
+1. 🎉 Merged PR [#33](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/33) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🎉 Merged PR [#34](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/34) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+3. 🎉 Merged PR [#35](https://github.com/electrocucaracha/bootstrap-vagrant/pull/35) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+4. ❗️ Closed issue [#1395](https://github.com/cncf/glossary/issues/1395) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🎉 Merged PR [#1637](https://github.com/cncf/glossary/pull/1637) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
