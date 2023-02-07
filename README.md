@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248](https://github.com/cncf/cnf-wg/pull/248) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. ❌ Closed PR [#1404](https://github.com/cncf/glossary/pull/1404) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🎉 Merged PR [#40](https://github.com/electrocucaracha/bootstrap-vagrant/pull/40) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-4. 🎉 Merged PR [#14](https://github.com/electrocucaracha/bmaas/pull/14) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-5. 🎉 Merged PR [#156](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/156) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. ❌ Closed PR [#35](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/35) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🎉 Merged PR [#37](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/37) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+3. 🎉 Merged PR [#36](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/36) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+4. ❗️ Closed issue [#240](https://github.com/cncf/cnf-wg/issues/240) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+5. 🎉 Merged PR [#248](https://github.com/cncf/cnf-wg/pull/248) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
 <!--END_SECTION:activity-->
