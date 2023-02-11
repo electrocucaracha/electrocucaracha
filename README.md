@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#249](https://github.com/cncf/cnf-wg/issues/249) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. 🗣 Commented on [#131](https://github.com/electrocucaracha/krd/issues/131) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🎉 Merged PR [#132](https://github.com/electrocucaracha/krd/pull/132) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 💪 Opened PR [#1704](https://github.com/cncf/glossary/pull/1704) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Closed issue [#1394](https://github.com/cncf/glossary/issues/1394) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#39](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/39) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🎉 Merged PR [#40](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/40) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+3. 💪 Opened PR [#9782](https://github.com/kubernetes-sigs/kubespray/pull/9782) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+4. 🎉 Merged PR [#157](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/157) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🎉 Merged PR [#20](https://github.com/electrocucaracha/nephio-lab/pull/20) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
 <!--END_SECTION:activity-->
