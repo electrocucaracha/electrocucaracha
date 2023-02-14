@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/39) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-2. 🎉 Merged PR [#40](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/40) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-3. 💪 Opened PR [#9782](https://github.com/kubernetes-sigs/kubespray/pull/9782) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-4. 🎉 Merged PR [#157](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/157) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🎉 Merged PR [#20](https://github.com/electrocucaracha/nephio-lab/pull/20) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+1. 🎉 Merged PR [#134](https://github.com/electrocucaracha/krd/pull/134) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#42](https://github.com/electrocucaracha/bootstrap-vagrant/pull/42) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+3. 🎉 Merged PR [#15](https://github.com/electrocucaracha/bmaas/pull/15) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+4. 🎉 Merged PR [#39](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/39) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+5. 🎉 Merged PR [#40](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/40) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
 <!--END_SECTION:activity-->
