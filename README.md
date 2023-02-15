@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/electrocucaracha/krd/pull/134) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🎉 Merged PR [#42](https://github.com/electrocucaracha/bootstrap-vagrant/pull/42) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-3. 🎉 Merged PR [#15](https://github.com/electrocucaracha/bmaas/pull/15) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-4. 🎉 Merged PR [#39](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/39) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-5. 🎉 Merged PR [#40](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/40) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+1. ❗️ Closed issue [#1402](https://github.com/cncf/glossary/issues/1402) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#38888](https://github.com/kubernetes/website/issues/38888) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❗️ Closed issue [#1396](https://github.com/cncf/glossary/issues/1396) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#9782](https://github.com/kubernetes-sigs/kubespray/issues/9782) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. 🗣 Commented on [#9782](https://github.com/kubernetes-sigs/kubespray/issues/9782) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 <!--END_SECTION:activity-->
