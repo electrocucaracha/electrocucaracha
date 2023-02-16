@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1402](https://github.com/cncf/glossary/issues/1402) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#38888](https://github.com/kubernetes/website/issues/38888) in [kubernetes/website](https://github.com/kubernetes/website)
-3. ❗️ Closed issue [#1396](https://github.com/cncf/glossary/issues/1396) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#9782](https://github.com/kubernetes-sigs/kubespray/issues/9782) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-5. 🗣 Commented on [#9782](https://github.com/kubernetes-sigs/kubespray/issues/9782) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+1. 🗣 Commented on [#9782](https://github.com/kubernetes-sigs/kubespray/issues/9782) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+2. 💪 Opened PR [#9798](https://github.com/kubernetes-sigs/kubespray/pull/9798) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+3. 🗣 Commented on [#1730](https://github.com/cncf/glossary/issues/1730) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗️ Closed issue [#1402](https://github.com/cncf/glossary/issues/1402) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#38888](https://github.com/kubernetes/website/issues/38888) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
