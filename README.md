@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9782](https://github.com/kubernetes-sigs/kubespray/issues/9782) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-2. 💪 Opened PR [#9798](https://github.com/kubernetes-sigs/kubespray/pull/9798) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-3. 🗣 Commented on [#1730](https://github.com/cncf/glossary/issues/1730) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Closed issue [#1402](https://github.com/cncf/glossary/issues/1402) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#38888](https://github.com/kubernetes/website/issues/38888) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🎉 Merged PR [#41](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/41) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 💪 Opened PR [#1742](https://github.com/cncf/glossary/pull/1742) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Opened issue [#1741](https://github.com/cncf/glossary/issues/1741) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#92](https://github.com/electrocucaracha/openstack-multinode/pull/92) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🎉 Merged PR [#158](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/158) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
