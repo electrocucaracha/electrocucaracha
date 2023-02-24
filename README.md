@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/electrocucaracha/bootstrap-vagrant/pull/43) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-2. 🎉 Merged PR [#16](https://github.com/electrocucaracha/bmaas/pull/16) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-3. 🎉 Merged PR [#41](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/41) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-4. 💪 Opened PR [#1742](https://github.com/cncf/glossary/pull/1742) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Opened issue [#1741](https://github.com/cncf/glossary/issues/1741) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#418](https://github.com/wagoodman/dive/issues/418) in [wagoodman/dive](https://github.com/wagoodman/dive)
+2. 🎉 Merged PR [#43](https://github.com/electrocucaracha/bootstrap-vagrant/pull/43) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+3. 🎉 Merged PR [#16](https://github.com/electrocucaracha/bmaas/pull/16) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+4. 🎉 Merged PR [#41](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/41) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+5. 💪 Opened PR [#1742](https://github.com/cncf/glossary/pull/1742) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
