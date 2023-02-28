@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1748](https://github.com/cncf/glossary/pull/1748) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🎉 Merged PR [#135](https://github.com/electrocucaracha/krd/pull/135) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. ❗️ Closed issue [#38](https://github.com/electrocucaracha/krd/issues/38) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🗣 Commented on [#418](https://github.com/wagoodman/dive/issues/418) in [wagoodman/dive](https://github.com/wagoodman/dive)
-5. 🎉 Merged PR [#43](https://github.com/electrocucaracha/bootstrap-vagrant/pull/43) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+1. 🎉 Merged PR [#43](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/43) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. ❌ Closed PR [#1](https://github.com/electrocucaracha/multi-cluster/pull/1) in [electrocucaracha/multi-cluster](https://github.com/electrocucaracha/multi-cluster)
+3. ❌ Closed PR [#2](https://github.com/electrocucaracha/multi-cluster/pull/2) in [electrocucaracha/multi-cluster](https://github.com/electrocucaracha/multi-cluster)
+4. 🎉 Merged PR [#6](https://github.com/electrocucaracha/k8s-WASM-demo/pull/6) in [electrocucaracha/k8s-WASM-demo](https://github.com/electrocucaracha/k8s-WASM-demo)
+5. 💪 Opened PR [#250](https://github.com/cncf/cnf-wg/pull/250) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
 <!--END_SECTION:activity-->
