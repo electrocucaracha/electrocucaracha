@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/electrocucaracha/multi-cluster/pull/3) in [electrocucaracha/multi-cluster](https://github.com/electrocucaracha/multi-cluster)
-2. 🎉 Merged PR [#4](https://github.com/electrocucaracha/multi-cluster/pull/4) in [electrocucaracha/multi-cluster](https://github.com/electrocucaracha/multi-cluster)
-3. 🎉 Merged PR [#7](https://github.com/electrocucaracha/k8s-WASM-demo/pull/7) in [electrocucaracha/k8s-WASM-demo](https://github.com/electrocucaracha/k8s-WASM-demo)
-4. 🎉 Merged PR [#8](https://github.com/electrocucaracha/k8s-WASM-demo/pull/8) in [electrocucaracha/k8s-WASM-demo](https://github.com/electrocucaracha/k8s-WASM-demo)
-5. 🎉 Merged PR [#137](https://github.com/electrocucaracha/krd/pull/137) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#138](https://github.com/electrocucaracha/krd/pull/138) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#46](https://github.com/electrocucaracha/bootstrap-vagrant/pull/46) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+3. 🎉 Merged PR [#19](https://github.com/electrocucaracha/bmaas/pull/19) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+4. 🗣 Commented on [#9845](https://github.com/kubernetes-sigs/kubespray/issues/9845) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. 💪 Opened PR [#9845](https://github.com/kubernetes-sigs/kubespray/pull/9845) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
 <!--END_SECTION:activity-->
