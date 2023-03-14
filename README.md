@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1762](https://github.com/cncf/glossary/issues/1762) in [cncf/glossary](https://github.com/cncf/glossary)
-2. ❗️ Closed issue [#1763](https://github.com/cncf/glossary/issues/1763) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🎉 Merged PR [#1805](https://github.com/cncf/glossary/pull/1805) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#20](https://github.com/electrocucaracha/bmaas/pull/20) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-5. 🎉 Merged PR [#162](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/162) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🎉 Merged PR [#50](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/50) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🎉 Merged PR [#6](https://github.com/electrocucaracha/multi-cluster/pull/6) in [electrocucaracha/multi-cluster](https://github.com/electrocucaracha/multi-cluster)
+3. 🎉 Merged PR [#163](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/163) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#98](https://github.com/electrocucaracha/openstack-multinode/pull/98) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🎉 Merged PR [#164](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/164) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
