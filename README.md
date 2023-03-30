@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40381](https://github.com/kubernetes/website/issues/40381) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 💪 Opened PR [#1853](https://github.com/cncf/glossary/pull/1853) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Closed issue [#578](https://github.com/cncf/glossary/issues/578) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Closed issue [#1761](https://github.com/cncf/glossary/issues/1761) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#1853](https://github.com/cncf/glossary/issues/1853) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🎉 Merged PR [#159](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/159) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+3. 🎉 Merged PR [#50](https://github.com/electrocucaracha/bootstrap-vagrant/pull/50) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+4. 🎉 Merged PR [#23](https://github.com/electrocucaracha/bmaas/pull/23) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
 5. 🗣 Commented on [#22](https://github.com/nephio-project/nephio/issues/22) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
 <!--END_SECTION:activity-->
