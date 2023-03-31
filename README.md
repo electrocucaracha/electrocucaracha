@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1853](https://github.com/cncf/glossary/issues/1853) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🎉 Merged PR [#159](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/159) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-3. 🎉 Merged PR [#50](https://github.com/electrocucaracha/bootstrap-vagrant/pull/50) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-4. 🎉 Merged PR [#23](https://github.com/electrocucaracha/bmaas/pull/23) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-5. 🗣 Commented on [#22](https://github.com/nephio-project/nephio/issues/22) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+1. 🗣 Commented on [#1855](https://github.com/cncf/glossary/issues/1855) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#1856](https://github.com/cncf/glossary/issues/1856) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#48](https://github.com/nephio-project/nephio/issues/48) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+4. 🗣 Commented on [#1853](https://github.com/cncf/glossary/issues/1853) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🎉 Merged PR [#159](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/159) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
 <!--END_SECTION:activity-->
