@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1889](https://github.com/cncf/glossary/issues/1889) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#1888](https://github.com/cncf/glossary/pull/1888) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#83](https://github.com/nephio-project/nephio/issues/83) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+2. 💪 Opened PR [#92](https://github.com/nephio-project/nephio/pull/92) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
 3. 🗣 Commented on [#83](https://github.com/nephio-project/nephio/issues/83) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-4. ❌ Closed PR [#1795](https://github.com/cncf/glossary/pull/1795) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#1884](https://github.com/cncf/glossary/pull/1884) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#48](https://github.com/nephio-project/nephio/issues/48) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+5. 🗣 Commented on [#1889](https://github.com/cncf/glossary/issues/1889) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
