@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1884](https://github.com/cncf/glossary/issues/1884) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#83](https://github.com/nephio-project/nephio/issues/83) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-3. 💪 Opened PR [#92](https://github.com/nephio-project/nephio/pull/92) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-4. 🗣 Commented on [#83](https://github.com/nephio-project/nephio/issues/83) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-5. 🗣 Commented on [#48](https://github.com/nephio-project/nephio/issues/48) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+1. 🎉 Merged PR [#2](https://github.com/electrocucaracha/nephioadm/pull/2) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
+2. 🎉 Merged PR [#4](https://github.com/electrocucaracha/vFW-demo/pull/4) in [electrocucaracha/vFW-demo](https://github.com/electrocucaracha/vFW-demo)
+3. 🎉 Merged PR [#167](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/167) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#101](https://github.com/electrocucaracha/openstack-multinode/pull/101) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🎉 Merged PR [#27](https://github.com/electrocucaracha/nephio-lab/pull/27) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
 <!--END_SECTION:activity-->
