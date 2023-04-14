@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1951](https://github.com/cncf/glossary/pull/1951) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#1950](https://github.com/cncf/glossary/pull/1950) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Closed issue [#1765](https://github.com/cncf/glossary/issues/1765) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Closed issue [#1766](https://github.com/cncf/glossary/issues/1766) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🎉 Merged PR [#1883](https://github.com/cncf/glossary/pull/1883) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#24](https://github.com/electrocucaracha/bmaas/pull/24) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+2. 🎉 Merged PR [#51](https://github.com/electrocucaracha/bootstrap-vagrant/pull/51) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+3. 🎉 Merged PR [#145](https://github.com/electrocucaracha/krd/pull/145) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🎉 Merged PR [#58](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/58) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+5. 🎉 Merged PR [#10](https://github.com/electrocucaracha/multicluster/pull/10) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
 <!--END_SECTION:activity-->
