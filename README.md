@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/electrocucaracha/krd/pull/147) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🎉 Merged PR [#38](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/38) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-3. 🎉 Merged PR [#53](https://github.com/electrocucaracha/bootstrap-vagrant/pull/53) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-4. 🎉 Merged PR [#26](https://github.com/electrocucaracha/bmaas/pull/26) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-5. 🎉 Merged PR [#103](https://github.com/electrocucaracha/openstack-multinode/pull/103) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🎉 Merged PR [#49](https://github.com/electrocucaracha/releng/pull/49) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+2. 🎉 Merged PR [#3](https://github.com/electrocucaracha/cFW-demo/pull/3) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
+3. 🎉 Merged PR [#2](https://github.com/electrocucaracha/devstack-labs/pull/2) in [electrocucaracha/devstack-labs](https://github.com/electrocucaracha/devstack-labs)
+4. 🎉 Merged PR [#8](https://github.com/gw-tester/pgw/pull/8) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
+5. ❗️ Closed issue [#604](https://github.com/cncf/glossary/issues/604) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
