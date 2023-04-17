@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/electrocucaracha/releng/pull/49) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-2. 🎉 Merged PR [#3](https://github.com/electrocucaracha/cFW-demo/pull/3) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
-3. 🎉 Merged PR [#2](https://github.com/electrocucaracha/devstack-labs/pull/2) in [electrocucaracha/devstack-labs](https://github.com/electrocucaracha/devstack-labs)
-4. 🎉 Merged PR [#8](https://github.com/gw-tester/pgw/pull/8) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
-5. ❗️ Closed issue [#604](https://github.com/cncf/glossary/issues/604) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#1786](https://github.com/cncf/glossary/issues/1786) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🎉 Merged PR [#49](https://github.com/electrocucaracha/releng/pull/49) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+3. 🎉 Merged PR [#3](https://github.com/electrocucaracha/cFW-demo/pull/3) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
+4. 🎉 Merged PR [#2](https://github.com/electrocucaracha/devstack-labs/pull/2) in [electrocucaracha/devstack-labs](https://github.com/electrocucaracha/devstack-labs)
+5. 🎉 Merged PR [#8](https://github.com/gw-tester/pgw/pull/8) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
 <!--END_SECTION:activity-->
