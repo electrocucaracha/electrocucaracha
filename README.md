@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1786](https://github.com/cncf/glossary/issues/1786) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🎉 Merged PR [#49](https://github.com/electrocucaracha/releng/pull/49) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-3. 🎉 Merged PR [#3](https://github.com/electrocucaracha/cFW-demo/pull/3) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
-4. 🎉 Merged PR [#2](https://github.com/electrocucaracha/devstack-labs/pull/2) in [electrocucaracha/devstack-labs](https://github.com/electrocucaracha/devstack-labs)
-5. 🎉 Merged PR [#8](https://github.com/gw-tester/pgw/pull/8) in [gw-tester/pgw](https://github.com/gw-tester/pgw)
+1. 🎉 Merged PR [#39](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/39) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+2. 🎉 Merged PR [#170](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/170) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🎉 Merged PR [#5](https://github.com/electrocucaracha/lint-devstack/pull/5) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+4. 🗣 Commented on [#1786](https://github.com/cncf/glossary/issues/1786) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#1786](https://github.com/cncf/glossary/issues/1786) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
