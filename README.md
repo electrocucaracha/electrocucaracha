@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/39) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-2. 🎉 Merged PR [#170](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/170) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. 🎉 Merged PR [#5](https://github.com/electrocucaracha/lint-devstack/pull/5) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
-4. 🗣 Commented on [#1786](https://github.com/cncf/glossary/issues/1786) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#1786](https://github.com/cncf/glossary/issues/1786) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#168](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/168) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+2. 🎉 Merged PR [#148](https://github.com/electrocucaracha/krd/pull/148) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🎉 Merged PR [#54](https://github.com/electrocucaracha/bootstrap-vagrant/pull/54) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+4. 🎉 Merged PR [#104](https://github.com/electrocucaracha/openstack-multinode/pull/104) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🎉 Merged PR [#171](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/171) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
 <!--END_SECTION:activity-->
