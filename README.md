@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/electrocucaracha/bmaas/pull/3) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-2. 🎉 Merged PR [#149](https://github.com/electrocucaracha/krd/pull/149) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🎉 Merged PR [#168](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/168) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-4. 🎉 Merged PR [#148](https://github.com/electrocucaracha/krd/pull/148) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🎉 Merged PR [#54](https://github.com/electrocucaracha/bootstrap-vagrant/pull/54) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+1. 🗣 Commented on [#48](https://github.com/nephio-project/nephio/issues/48) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+2. 🎉 Merged PR [#3](https://github.com/electrocucaracha/bmaas/pull/3) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+3. 🎉 Merged PR [#149](https://github.com/electrocucaracha/krd/pull/149) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🎉 Merged PR [#168](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/168) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+5. 🎉 Merged PR [#148](https://github.com/electrocucaracha/krd/pull/148) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
