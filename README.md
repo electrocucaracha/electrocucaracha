@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1775](https://github.com/cncf/glossary/issues/1775) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🎉 Merged PR [#1856](https://github.com/cncf/glossary/pull/1856) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Closed issue [#597](https://github.com/cncf/glossary/issues/597) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🎉 Merged PR [#1801](https://github.com/cncf/glossary/pull/1801) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#48](https://github.com/nephio-project/nephio/issues/48) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+1. 🎉 Merged PR [#151](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/151) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 💪 Opened PR [#11](https://github.com/nephio-project/free5gc/pull/11) in [nephio-project/free5gc](https://github.com/nephio-project/free5gc)
+3. ❗️ Closed issue [#1775](https://github.com/cncf/glossary/issues/1775) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🎉 Merged PR [#1856](https://github.com/cncf/glossary/pull/1856) in [cncf/glossary](https://github.com/cncf/glossary)
+5. ❗️ Closed issue [#597](https://github.com/cncf/glossary/issues/597) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
