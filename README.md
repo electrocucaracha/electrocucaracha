@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/nephio-project/nephio/issues/47) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-2. 🎉 Merged PR [#172](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/172) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-3. 🎉 Merged PR [#151](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/151) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 💪 Opened PR [#11](https://github.com/nephio-project/free5gc/pull/11) in [nephio-project/free5gc](https://github.com/nephio-project/free5gc)
-5. ❗️ Closed issue [#1775](https://github.com/cncf/glossary/issues/1775) in [cncf/glossary](https://github.com/cncf/glossary)
+1. ❗️ Closed issue [#1618](https://github.com/cncf/glossary/issues/1618) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#40538](https://github.com/kubernetes/website/issues/40538) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#47](https://github.com/nephio-project/nephio/issues/47) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+4. 🎉 Merged PR [#172](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/172) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+5. 🎉 Merged PR [#151](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/151) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
