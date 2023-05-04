@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1618](https://github.com/cncf/glossary/issues/1618) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#40538](https://github.com/kubernetes/website/issues/40538) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#47](https://github.com/nephio-project/nephio/issues/47) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-4. 🎉 Merged PR [#172](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/172) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-5. 🎉 Merged PR [#151](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/151) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#22](https://github.com/nephio-project/nephio/issues/22) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+2. 🗣 Commented on [#47](https://github.com/nephio-project/nephio/issues/47) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+3. ❗️ Closed issue [#1618](https://github.com/cncf/glossary/issues/1618) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#40538](https://github.com/kubernetes/website/issues/40538) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#47](https://github.com/nephio-project/nephio/issues/47) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
 <!--END_SECTION:activity-->
