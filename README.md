@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#174](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/174) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-2. 🎉 Merged PR [#30](https://github.com/electrocucaracha/nephio-lab/pull/30) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-3. 🎉 Merged PR [#28](https://github.com/electrocucaracha/bmaas/pull/28) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-4. 🎉 Merged PR [#105](https://github.com/electrocucaracha/openstack-multinode/pull/105) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🎉 Merged PR [#55](https://github.com/electrocucaracha/bootstrap-vagrant/pull/55) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+1. 💪 Opened PR [#35](https://github.com/nephio-project/test-infra/pull/35) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🎉 Merged PR [#13](https://github.com/electrocucaracha/multicluster/pull/13) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+3. 🎉 Merged PR [#65](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/65) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+4. 🎉 Merged PR [#5](https://github.com/electrocucaracha/nephioadm/pull/5) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
+5. ❌ Closed PR [#11](https://github.com/nephio-project/nephio-example-packages/pull/11) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
 <!--END_SECTION:activity-->
