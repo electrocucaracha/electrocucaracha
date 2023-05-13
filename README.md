@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/nephio-project/test-infra/pull/35) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🎉 Merged PR [#13](https://github.com/electrocucaracha/multicluster/pull/13) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
-3. 🎉 Merged PR [#65](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/65) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-4. 🎉 Merged PR [#5](https://github.com/electrocucaracha/nephioadm/pull/5) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
-5. ❌ Closed PR [#11](https://github.com/nephio-project/nephio-example-packages/pull/11) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+1. 🗣 Commented on [#16](https://github.com/nephio-project/nephio-example-packages/issues/16) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+2. 🗣 Commented on [#15](https://github.com/nephio-project/nephio-example-packages/issues/15) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+3. 🗣 Commented on [#14](https://github.com/nephio-project/nephio-example-packages/issues/14) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+4. 🗣 Commented on [#14](https://github.com/nephio-project/nephio-example-packages/issues/14) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+5. 🗣 Commented on [#16](https://github.com/nephio-project/nephio-example-packages/issues/16) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
 <!--END_SECTION:activity-->
