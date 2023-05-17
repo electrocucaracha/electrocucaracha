@@ -42,8 +42,8 @@ nickname came from.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#19](https://github.com/nephio-project/nephio-example-packages/issues/19) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
-2. 🗣 Commented on [#41113](https://github.com/kubernetes/website/issues/41113) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 💪 Opened PR [#18](https://github.com/nephio-project/nephio-example-packages/pull/18) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
-4. 🗣 Commented on [#16](https://github.com/nephio-project/nephio-example-packages/issues/16) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
-5. 🗣 Commented on [#15](https://github.com/nephio-project/nephio-example-packages/issues/15) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+2. 🗣 Commented on [#2051](https://github.com/cncf/glossary/issues/2051) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#2051](https://github.com/cncf/glossary/pull/2051) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#1397](https://github.com/cncf/glossary/issues/1397) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#1778](https://github.com/cncf/glossary/issues/1778) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
