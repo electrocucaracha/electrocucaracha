@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/nephio-project/test-infra/issues/38) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#37](https://github.com/nephio-project/test-infra/issues/37) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#19](https://github.com/nephio-project/nephio-example-packages/issues/19) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
-4. 🗣 Commented on [#2051](https://github.com/cncf/glossary/issues/2051) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#2051](https://github.com/cncf/glossary/pull/2051) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 💪 Opened PR [#41](https://github.com/nephio-project/test-infra/pull/41) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#201](https://github.com/nephio-project/nephio/issues/201) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+3. 🗣 Commented on [#23](https://github.com/nephio-project/sig-release/issues/23) in [nephio-project/sig-release](https://github.com/nephio-project/sig-release)
+4. 🗣 Commented on [#201](https://github.com/nephio-project/nephio/issues/201) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+5. 💪 Opened PR [#209](https://github.com/nephio-project/nephio/pull/209) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
 <!--END_SECTION:activity-->
