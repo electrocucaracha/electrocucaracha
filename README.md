@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/nephio-project/test-infra/pull/43) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#42](https://github.com/nephio-project/test-infra/issues/42) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 💪 Opened PR [#22](https://github.com/nephio-project/nephio-example-packages/pull/22) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
-4. 💪 Opened PR [#21](https://github.com/nephio-project/nephio-example-packages/pull/21) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
-5. 🗣 Commented on [#23](https://github.com/nephio-project/sig-release/issues/23) in [nephio-project/sig-release](https://github.com/nephio-project/sig-release)
+1. 🗣 Commented on [#43](https://github.com/nephio-project/test-infra/issues/43) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 💪 Opened PR [#10121](https://github.com/kubernetes-sigs/kubespray/pull/10121) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+3. 💪 Opened PR [#10120](https://github.com/kubernetes-sigs/kubespray/pull/10120) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+4. 🗣 Commented on [#9798](https://github.com/kubernetes-sigs/kubespray/issues/9798) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. 🗣 Commented on [#576](https://github.com/cncf/tag-security/issues/576) in [cncf/tag-security](https://github.com/cncf/tag-security)
 <!--END_SECTION:activity-->
