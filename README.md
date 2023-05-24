@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/nephio-project/test-infra/issues/43) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 💪 Opened PR [#10121](https://github.com/kubernetes-sigs/kubespray/pull/10121) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-3. 💪 Opened PR [#10120](https://github.com/kubernetes-sigs/kubespray/pull/10120) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-4. 🗣 Commented on [#9798](https://github.com/kubernetes-sigs/kubespray/issues/9798) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-5. 🗣 Commented on [#576](https://github.com/cncf/tag-security/issues/576) in [cncf/tag-security](https://github.com/cncf/tag-security)
+1. ❌ Closed PR [#18](https://github.com/nephio-project/nephio-example-packages/pull/18) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+2. 🗣 Commented on [#30](https://github.com/nephio-project/sig-release/issues/30) in [nephio-project/sig-release](https://github.com/nephio-project/sig-release)
+3. 🗣 Commented on [#161](https://github.com/nephio-project/nephio/issues/161) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+4. ❗️ Closed issue [#1782](https://github.com/cncf/glossary/issues/1782) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#43](https://github.com/nephio-project/test-infra/issues/43) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
