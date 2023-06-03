@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/nephio-project/nephio-example-packages/issues/40) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
-2. 🗣 Commented on [#56](https://github.com/nephio-project/test-infra/issues/56) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#56](https://github.com/nephio-project/test-infra/issues/56) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🎉 Merged PR [#2098](https://github.com/cncf/glossary/pull/2098) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#2098](https://github.com/cncf/glossary/issues/2098) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🗣 Commented on [#60](https://github.com/nephio-project/test-infra/issues/60) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 💪 Opened PR [#60](https://github.com/nephio-project/test-infra/pull/60) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 🗣 Commented on [#40](https://github.com/nephio-project/nephio-example-packages/issues/40) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+4. 🗣 Commented on [#56](https://github.com/nephio-project/test-infra/issues/56) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#56](https://github.com/nephio-project/test-infra/issues/56) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
