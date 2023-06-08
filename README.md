@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/nephio-project/test-infra/issues/63) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#63](https://github.com/nephio-project/test-infra/issues/63) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#62](https://github.com/nephio-project/test-infra/issues/62) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#263](https://github.com/cncf/cnf-wg/issues/263) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-5. 🗣 Commented on [#41461](https://github.com/kubernetes/website/issues/41461) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#65](https://github.com/nephio-project/test-infra/issues/65) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#65](https://github.com/nephio-project/test-infra/issues/65) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 🗣 Commented on [#265](https://github.com/nephio-project/nephio/issues/265) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+4. 💪 Opened PR [#65](https://github.com/nephio-project/test-infra/pull/65) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#64](https://github.com/nephio-project/test-infra/issues/64) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
