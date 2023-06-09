@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/nephio-project/test-infra/issues/65) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#65](https://github.com/nephio-project/test-infra/issues/65) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#265](https://github.com/nephio-project/nephio/issues/265) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-4. 💪 Opened PR [#65](https://github.com/nephio-project/test-infra/pull/65) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🗣 Commented on [#64](https://github.com/nephio-project/test-infra/issues/64) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🗣 Commented on [#70](https://github.com/nephio-project/test-infra/issues/70) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#70](https://github.com/nephio-project/test-infra/issues/70) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 🗣 Commented on [#41526](https://github.com/kubernetes/website/issues/41526) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🎉 Merged PR [#2103](https://github.com/cncf/glossary/pull/2103) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#69](https://github.com/nephio-project/test-infra/issues/69) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
