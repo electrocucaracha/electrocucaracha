@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/nephio-project/nephio/issues/265) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-2. 🎉 Merged PR [#2122](https://github.com/cncf/glossary/pull/2122) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 💪 Opened PR [#87](https://github.com/nephio-project/test-infra/pull/87) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 💪 Opened PR [#86](https://github.com/nephio-project/test-infra/pull/86) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 💪 Opened PR [#85](https://github.com/nephio-project/test-infra/pull/85) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🗣 Commented on [#93](https://github.com/nephio-project/test-infra/issues/93) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 💪 Opened PR [#93](https://github.com/nephio-project/test-infra/pull/93) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 💪 Opened PR [#92](https://github.com/nephio-project/test-infra/pull/92) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+4. 🗣 Commented on [#91](https://github.com/nephio-project/test-infra/issues/91) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 💪 Opened PR [#91](https://github.com/nephio-project/test-infra/pull/91) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
