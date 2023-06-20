@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#110](https://github.com/nephio-project/test-infra/pull/110) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#314](https://github.com/nephio-project/nephio/issues/314) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-3. 🗣 Commented on [#105](https://github.com/nephio-project/test-infra/issues/105) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 💪 Opened PR [#109](https://github.com/nephio-project/test-infra/pull/109) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🗣 Commented on [#100](https://github.com/nephio-project/test-infra/issues/100) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🎉 Merged PR [#16](https://github.com/electrocucaracha/multicluster/pull/16) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+2. 🎉 Merged PR [#73](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/73) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+3. 🗣 Commented on [#112](https://github.com/nephio-project/test-infra/issues/112) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+4. 💪 Opened PR [#110](https://github.com/nephio-project/test-infra/pull/110) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#314](https://github.com/nephio-project/nephio/issues/314) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
 <!--END_SECTION:activity-->
