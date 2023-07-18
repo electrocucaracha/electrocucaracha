@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#96](https://github.com/electrocucaracha/openstack-multinode/pull/96) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🎉 Merged PR [#115](https://github.com/electrocucaracha/openstack-multinode/pull/115) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🎉 Merged PR [#116](https://github.com/electrocucaracha/openstack-multinode/pull/116) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. 🎉 Merged PR [#117](https://github.com/electrocucaracha/openstack-multinode/pull/117) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 💪 Opened PR [#162](https://github.com/nephio-project/test-infra/pull/162) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. ❌ Closed PR [#84](https://github.com/electrocucaracha/openstack-multinode/pull/84) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. ❌ Closed PR [#85](https://github.com/electrocucaracha/openstack-multinode/pull/85) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. ❌ Closed PR [#86](https://github.com/electrocucaracha/openstack-multinode/pull/86) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. ❌ Closed PR [#106](https://github.com/electrocucaracha/openstack-multinode/pull/106) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. ❌ Closed PR [#107](https://github.com/electrocucaracha/openstack-multinode/pull/107) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
