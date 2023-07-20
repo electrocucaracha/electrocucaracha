@@ -3,7 +3,7 @@
 [![Twitter: electrocucarach](https://img.shields.io/twitter/follow/electrocucarach?style=social)](https://twitter.com/electrocucarach)
 [![Linkedin: Victor Morales](https://img.shields.io/badge/-VictorMorales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/electrocucaracha/)](https://www.linkedin.com/in/electrocucaracha/)
 [![GitHub electrocucaracha](https://img.shields.io/github/followers/electrocucaracha?label=follow&style=social)](https://github.com/electrocucaracha)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=electrocucaracha.electrocucaracha)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=electrocucaracha.electrocucaracha)
 
 I’m a passionate Software Engineer with an interest in automated
 software development. I enjoy building solutions that are easy to use,
