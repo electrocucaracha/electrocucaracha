@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#166](https://github.com/nephio-project/test-infra/pull/166) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#165](https://github.com/nephio-project/test-infra/pull/165#issuecomment-1659028456) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. ❌ Closed PR [#47](https://github.com/nephio-project/test-infra/pull/47) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. ❌ Closed PR [#31](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/31) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-5. ❌ Closed PR [#171](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/171) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#168](https://github.com/nephio-project/test-infra/pull/168#issuecomment-1664368938) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 💪 Opened PR [#166](https://github.com/nephio-project/test-infra/pull/166) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 🗣 Commented on [#165](https://github.com/nephio-project/test-infra/pull/165#issuecomment-1659028456) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+4. ❌ Closed PR [#47](https://github.com/nephio-project/test-infra/pull/47) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. ❌ Closed PR [#31](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/31) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
 <!--END_SECTION:activity-->
