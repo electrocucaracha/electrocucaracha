@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/nephio-project/test-infra/pull/174) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#155](https://github.com/ansible-community/molecule-plugins/pull/155#issuecomment-1679420801) in [ansible-community/molecule-plugins](https://github.com/ansible-community/molecule-plugins)
-3. 💪 Opened PR [#172](https://github.com/nephio-project/test-infra/pull/172) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#171](https://github.com/nephio-project/test-infra/pull/171#issuecomment-1673991433) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🗣 Commented on [#171](https://github.com/nephio-project/test-infra/pull/171#issuecomment-1673991277) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 💪 Opened PR [#10369](https://github.com/kubernetes-sigs/kubespray/pull/10369) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+2. ❌ Closed PR [#168](https://github.com/electrocucaracha/krd/pull/168) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 💪 Opened PR [#174](https://github.com/nephio-project/test-infra/pull/174) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+4. 🗣 Commented on [#155](https://github.com/ansible-community/molecule-plugins/pull/155#issuecomment-1679420801) in [ansible-community/molecule-plugins](https://github.com/ansible-community/molecule-plugins)
+5. 💪 Opened PR [#172](https://github.com/nephio-project/test-infra/pull/172) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
