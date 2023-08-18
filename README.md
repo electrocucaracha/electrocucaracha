@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10369](https://github.com/kubernetes-sigs/kubespray/pull/10369) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-2. ❌ Closed PR [#168](https://github.com/electrocucaracha/krd/pull/168) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 💪 Opened PR [#174](https://github.com/nephio-project/test-infra/pull/174) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#155](https://github.com/ansible-community/molecule-plugins/pull/155#issuecomment-1679420801) in [ansible-community/molecule-plugins](https://github.com/ansible-community/molecule-plugins)
-5. 💪 Opened PR [#172](https://github.com/nephio-project/test-infra/pull/172) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🎉 Merged PR [#79](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/79) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🗣 Commented on [#174](https://github.com/nephio-project/test-infra/pull/174#issuecomment-1682852665) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 💪 Opened PR [#10369](https://github.com/kubernetes-sigs/kubespray/pull/10369) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+4. ❌ Closed PR [#168](https://github.com/electrocucaracha/krd/pull/168) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 💪 Opened PR [#174](https://github.com/nephio-project/test-infra/pull/174) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
