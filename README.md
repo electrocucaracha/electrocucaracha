@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/79) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-2. 🗣 Commented on [#174](https://github.com/nephio-project/test-infra/pull/174#issuecomment-1682852665) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 💪 Opened PR [#10369](https://github.com/kubernetes-sigs/kubespray/pull/10369) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-4. ❌ Closed PR [#168](https://github.com/electrocucaracha/krd/pull/168) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 💪 Opened PR [#174](https://github.com/nephio-project/test-infra/pull/174) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🗣 Commented on [#42620](https://github.com/kubernetes/website/pull/42620#issuecomment-1684358074) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#42620](https://github.com/kubernetes/website/pull/42620#issuecomment-1684356026) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#175](https://github.com/nephio-project/test-infra/pull/175#issuecomment-1684292468) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+4. 💪 Opened PR [#175](https://github.com/nephio-project/test-infra/pull/175) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🎉 Merged PR [#79](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/79) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
 <!--END_SECTION:activity-->
