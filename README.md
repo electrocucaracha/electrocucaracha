@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/electrocucaracha/nephioadm/pull/12) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
-2. 🎉 Merged PR [#13](https://github.com/electrocucaracha/nephioadm/pull/13) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
-3. 🎉 Merged PR [#22](https://github.com/electrocucaracha/multicluster/pull/22) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
-4. 🎉 Merged PR [#83](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/83) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-5. 🎉 Merged PR [#84](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/84) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+1. 🎉 Merged PR [#23](https://github.com/electrocucaracha/multicluster/pull/23) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+2. 💪 Opened PR [#183](https://github.com/nephio-project/test-infra/pull/183) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 💪 Opened PR [#79](https://github.com/nephio-project/nephio-example-packages/pull/79) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+4. 💪 Opened PR [#78](https://github.com/nephio-project/nephio-example-packages/pull/78) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+5. 🎉 Merged PR [#183](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/183) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
