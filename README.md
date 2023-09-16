@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/nephio-project/docs/pull/62#issuecomment-1720321082) in [nephio-project/docs](https://github.com/nephio-project/docs)
-2. 🗣 Commented on [#43023](https://github.com/kubernetes/website/pull/43023#issuecomment-1720000286) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#186](https://github.com/nephio-project/test-infra/pull/186#issuecomment-1719975004) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#189](https://github.com/nephio-project/test-infra/pull/189#issuecomment-1718688794) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🗣 Commented on [#189](https://github.com/nephio-project/test-infra/pull/189#issuecomment-1718396217) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 💪 Opened PR [#190](https://github.com/nephio-project/test-infra/pull/190) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🎉 Merged PR [#85](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/85) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+3. 🗣 Commented on [#31](https://github.com/nephio-project/nephio-packages/pull/31#issuecomment-1721578682) in [nephio-project/nephio-packages](https://github.com/nephio-project/nephio-packages)
+4. 🗣 Commented on [#62](https://github.com/nephio-project/docs/pull/62#issuecomment-1720321082) in [nephio-project/docs](https://github.com/nephio-project/docs)
+5. 🗣 Commented on [#43023](https://github.com/kubernetes/website/pull/43023#issuecomment-1720000286) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
