@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/nephio-project/test-infra/pull/191#issuecomment-1738284379) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#32](https://github.com/nephio-project/nephio-packages/pull/32#issuecomment-1738283223) in [nephio-project/nephio-packages](https://github.com/nephio-project/nephio-packages)
-3. 🗣 Commented on [#82](https://github.com/nephio-project/nephio-example-packages/pull/82#issuecomment-1738216727) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
-4. 🗣 Commented on [#515](https://github.com/cncf/kubernetes-community-days/issues/515#issuecomment-1738168714) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
-5. 💪 Opened PR [#194](https://github.com/nephio-project/test-infra/pull/194) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🗣 Commented on [#43238](https://github.com/kubernetes/website/pull/43238#issuecomment-1739872115) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#32](https://github.com/nephio-project/nephio-packages/pull/32#issuecomment-1739846709) in [nephio-project/nephio-packages](https://github.com/nephio-project/nephio-packages)
+3. 🗣 Commented on [#32](https://github.com/nephio-project/nephio-packages/pull/32#issuecomment-1739821825) in [nephio-project/nephio-packages](https://github.com/nephio-project/nephio-packages)
+4. 🗣 Commented on [#192](https://github.com/nephio-project/test-infra/pull/192#issuecomment-1739757178) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#191](https://github.com/nephio-project/test-infra/pull/191#issuecomment-1738284379) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
