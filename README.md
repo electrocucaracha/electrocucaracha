@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/nephio-project/nephio-example-packages/pull/84) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
-2. 🗣 Commented on [#405](https://github.com/nephio-project/nephio/issues/405#issuecomment-1741393811) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-3. 🗣 Commented on [#73](https://github.com/nephio-project/governance/pull/73#issuecomment-1741389597) in [nephio-project/governance](https://github.com/nephio-project/governance)
-4. 💪 Opened PR [#74](https://github.com/nephio-project/governance/pull/74) in [nephio-project/governance](https://github.com/nephio-project/governance)
-5. 🗣 Commented on [#82](https://github.com/nephio-project/nephio-example-packages/pull/82#issuecomment-1741115500) in [nephio-project/nephio-example-packages](https://github.com/nephio-project/nephio-example-packages)
+1. 🗣 Commented on [#194](https://github.com/nephio-project/test-infra/pull/194#issuecomment-1743522017) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#74](https://github.com/nephio-project/governance/pull/74#issuecomment-1743388534) in [nephio-project/governance](https://github.com/nephio-project/governance)
+3. 🗣 Commented on [#353](https://github.com/nephio-project/nephio/issues/353#issuecomment-1743351898) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+4. 🎉 Merged PR [#7](https://github.com/electrocucaracha/electrocucaracha/pull/7) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+5. 🎉 Merged PR [#9](https://github.com/electrocucaracha/lint-devstack/pull/9) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
 <!--END_SECTION:activity-->
