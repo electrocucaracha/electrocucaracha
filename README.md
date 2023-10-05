@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#195](https://github.com/nephio-project/test-infra/pull/195) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#381](https://github.com/nephio-project/nephio/issues/381#issuecomment-1745498758) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-3. 🗣 Commented on [#186](https://github.com/nephio-project/test-infra/pull/186#issuecomment-1745434359) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🎉 Merged PR [#179](https://github.com/electrocucaracha/krd/pull/179) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🗣 Commented on [#43298](https://github.com/kubernetes/website/pull/43298#issuecomment-1745259624) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#195](https://github.com/nephio-project/test-infra/pull/195#issuecomment-1747618071) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#183](https://github.com/nephio-project/test-infra/pull/183#issuecomment-1747384722) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 🗣 Commented on [#186](https://github.com/nephio-project/test-infra/pull/186#issuecomment-1747251625) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+4. ❌ Closed PR [#86](https://github.com/nephio-project/test-infra/pull/86) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#86](https://github.com/nephio-project/test-infra/pull/86#issuecomment-1747251067) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
