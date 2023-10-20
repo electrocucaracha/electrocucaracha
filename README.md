@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/opensource-latinamerica/.github/issues/1#issuecomment-1769250068) in [opensource-latinamerica/.github](https://github.com/opensource-latinamerica/.github)
-2. 🎉 Merged PR [#64](https://github.com/electrocucaracha/bootstrap-vagrant/pull/64) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-3. 🎉 Merged PR [#40](https://github.com/electrocucaracha/bmaas/pull/40) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-4. 🎉 Merged PR [#8](https://github.com/electrocucaracha/electrocucaracha/pull/8) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-5. 🎉 Merged PR [#185](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/185) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#201](https://github.com/nephio-project/test-infra/pull/201#issuecomment-1771228878) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#1](https://github.com/opensource-latinamerica/.github/issues/1#issuecomment-1769250068) in [opensource-latinamerica/.github](https://github.com/opensource-latinamerica/.github)
+3. 🎉 Merged PR [#64](https://github.com/electrocucaracha/bootstrap-vagrant/pull/64) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+4. 🎉 Merged PR [#40](https://github.com/electrocucaracha/bmaas/pull/40) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+5. 🎉 Merged PR [#8](https://github.com/electrocucaracha/electrocucaracha/pull/8) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
 <!--END_SECTION:activity-->
