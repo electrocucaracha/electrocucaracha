@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#203](https://github.com/nephio-project/test-infra/pull/203) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#43640](https://github.com/kubernetes/website/pull/43640#issuecomment-1775967738) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#43640](https://github.com/kubernetes/website/pull/43640#issuecomment-1775535509) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#201](https://github.com/nephio-project/test-infra/pull/201#issuecomment-1771228878) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🗣 Commented on [#1](https://github.com/opensource-latinamerica/.github/issues/1#issuecomment-1769250068) in [opensource-latinamerica/.github](https://github.com/opensource-latinamerica/.github)
+1. 🎉 Merged PR [#90](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/90) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🗣 Commented on [#1888](https://github.com/cncf/glossary/pull/1888#issuecomment-1777544680) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🔒 Closed issue [#2267](https://github.com/cncf/glossary/issues/2267) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#2267](https://github.com/cncf/glossary/issues/2267#issuecomment-1777543005) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#203](https://github.com/nephio-project/test-infra/pull/203) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
