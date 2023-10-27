@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/electrocucaracha/multicluster/pull/26) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
-2. 🎉 Merged PR [#19](https://github.com/electrocucaracha/k8s-WASM-demo/pull/19) in [electrocucaracha/k8s-WASM-demo](https://github.com/electrocucaracha/k8s-WASM-demo)
-3. 💪 Opened PR [#205](https://github.com/nephio-project/test-infra/pull/205) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#202](https://github.com/nephio-project/test-infra/pull/202#issuecomment-1779668119) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🎉 Merged PR [#65](https://github.com/electrocucaracha/bootstrap-vagrant/pull/65) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+1. 💪 Opened PR [#206](https://github.com/nephio-project/test-infra/pull/206) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🎉 Merged PR [#26](https://github.com/electrocucaracha/multicluster/pull/26) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+3. 🎉 Merged PR [#19](https://github.com/electrocucaracha/k8s-WASM-demo/pull/19) in [electrocucaracha/k8s-WASM-demo](https://github.com/electrocucaracha/k8s-WASM-demo)
+4. 💪 Opened PR [#205](https://github.com/nephio-project/test-infra/pull/205) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#202](https://github.com/nephio-project/test-infra/pull/202#issuecomment-1779668119) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
