@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#282](https://github.com/cncf/cnf-wg/pull/282) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. 🗣 Commented on [#214](https://github.com/nephio-project/test-infra/pull/214#issuecomment-1806842287) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#281](https://github.com/cncf/cnf-wg/pull/281#issuecomment-1804651256) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-4. 🗣 Commented on [#212](https://github.com/nephio-project/test-infra/pull/212#issuecomment-1798832889) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🗣 Commented on [#212](https://github.com/nephio-project/test-infra/pull/212#issuecomment-1798636704) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 💪 Opened PR [#216](https://github.com/nephio-project/test-infra/pull/216) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#203](https://github.com/nephio-project/test-infra/pull/203#issuecomment-1808605478) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 💪 Opened PR [#282](https://github.com/cncf/cnf-wg/pull/282) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 🗣 Commented on [#214](https://github.com/nephio-project/test-infra/pull/214#issuecomment-1806842287) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#281](https://github.com/cncf/cnf-wg/pull/281#issuecomment-1804651256) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
 <!--END_SECTION:activity-->
