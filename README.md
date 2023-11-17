@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#439](https://github.com/nephio-project/nephio/issues/439#issuecomment-1813485425) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-2. 💪 Opened PR [#217](https://github.com/nephio-project/test-infra/pull/217) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#216](https://github.com/nephio-project/test-infra/pull/216#issuecomment-1812953022) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#216](https://github.com/nephio-project/test-infra/pull/216#issuecomment-1811605819) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 💪 Opened PR [#1](https://github.com/nokia/nephio-test-infra/pull/1) in [nokia/nephio-test-infra](https://github.com/nokia/nephio-test-infra)
+1. 💪 Opened PR [#218](https://github.com/nephio-project/test-infra/pull/218) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#217](https://github.com/nephio-project/test-infra/pull/217#issuecomment-1814871387) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 🗣 Commented on [#212](https://github.com/nephio-project/test-infra/pull/212#issuecomment-1814858552) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+4. 🗣 Commented on [#217](https://github.com/nephio-project/test-infra/pull/217#issuecomment-1813712144) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#439](https://github.com/nephio-project/nephio/issues/439#issuecomment-1813485425) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
 <!--END_SECTION:activity-->
