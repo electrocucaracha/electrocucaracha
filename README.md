@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43820](https://github.com/kubernetes/website/pull/43820#issuecomment-1818045230) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#26](https://github.com/opensource-latinamerica/openinframx/pull/26#issuecomment-1817569354) in [opensource-latinamerica/openinframx](https://github.com/opensource-latinamerica/openinframx)
-3. 💪 Opened PR [#26](https://github.com/opensource-latinamerica/openinframx/pull/26) in [opensource-latinamerica/openinframx](https://github.com/opensource-latinamerica/openinframx)
-4. 💪 Opened PR [#218](https://github.com/nephio-project/test-infra/pull/218) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🗣 Commented on [#217](https://github.com/nephio-project/test-infra/pull/217#issuecomment-1814871387) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🗣 Commented on [#441](https://github.com/nephio-project/nephio/pull/441#issuecomment-1821770906) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+2. 🗣 Commented on [#43820](https://github.com/kubernetes/website/pull/43820#issuecomment-1818045230) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#26](https://github.com/opensource-latinamerica/openinframx/pull/26#issuecomment-1817569354) in [opensource-latinamerica/openinframx](https://github.com/opensource-latinamerica/openinframx)
+4. 💪 Opened PR [#26](https://github.com/opensource-latinamerica/openinframx/pull/26) in [opensource-latinamerica/openinframx](https://github.com/opensource-latinamerica/openinframx)
+5. 💪 Opened PR [#218](https://github.com/nephio-project/test-infra/pull/218) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
