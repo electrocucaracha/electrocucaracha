@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/nephio-project/docs/pull/75) in [nephio-project/docs](https://github.com/nephio-project/docs)
-2. 💪 Opened PR [#74](https://github.com/nephio-project/docs/pull/74) in [nephio-project/docs](https://github.com/nephio-project/docs)
-3. 🗣 Commented on [#212](https://github.com/nephio-project/test-infra/pull/212#issuecomment-1828338223) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#441](https://github.com/nephio-project/nephio/pull/441#issuecomment-1821770906) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-5. 🗣 Commented on [#43820](https://github.com/kubernetes/website/pull/43820#issuecomment-1818045230) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#75](https://github.com/nephio-project/docs/pull/75#issuecomment-1830385872) in [nephio-project/docs](https://github.com/nephio-project/docs)
+2. 🗣 Commented on [#44041](https://github.com/kubernetes/website/pull/44041#issuecomment-1830270612) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 💪 Opened PR [#75](https://github.com/nephio-project/docs/pull/75) in [nephio-project/docs](https://github.com/nephio-project/docs)
+4. 💪 Opened PR [#74](https://github.com/nephio-project/docs/pull/74) in [nephio-project/docs](https://github.com/nephio-project/docs)
+5. 🗣 Commented on [#212](https://github.com/nephio-project/test-infra/pull/212#issuecomment-1828338223) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
