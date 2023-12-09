@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#221](https://github.com/nephio-project/test-infra/pull/221) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#219](https://github.com/nephio-project/test-infra/pull/219#issuecomment-1845833483) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🎉 Merged PR [#42](https://github.com/electrocucaracha/nephio-lab/pull/42) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-4. 🎉 Merged PR [#208](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/208) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-5. 🎉 Merged PR [#46](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/46) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+1. 🎉 Merged PR [#188](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/188) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🎉 Merged PR [#13](https://github.com/electrocucaracha/lint-devstack/pull/13) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+3. 🎉 Merged PR [#209](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/209) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+4. 🎉 Merged PR [#28](https://github.com/electrocucaracha/multicluster/pull/28) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+5. ❗ Opened issue [#5](https://github.com/OPENAIRINTERFACE/oai-packages/issues/5) in [OPENAIRINTERFACE/oai-packages](https://github.com/OPENAIRINTERFACE/oai-packages)
 <!--END_SECTION:activity-->
