@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#188](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/188) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🎉 Merged PR [#13](https://github.com/electrocucaracha/lint-devstack/pull/13) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
-3. 🎉 Merged PR [#209](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/209) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-4. 🎉 Merged PR [#28](https://github.com/electrocucaracha/multicluster/pull/28) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
-5. ❗ Opened issue [#5](https://github.com/OPENAIRINTERFACE/oai-packages/issues/5) in [OPENAIRINTERFACE/oai-packages](https://github.com/OPENAIRINTERFACE/oai-packages)
+1. 🎉 Merged PR [#93](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/93) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🎉 Merged PR [#3](https://github.com/electrocucaracha/k8s-KPT-demo/pull/3) in [electrocucaracha/k8s-KPT-demo](https://github.com/electrocucaracha/k8s-KPT-demo)
+3. 🎉 Merged PR [#18](https://github.com/electrocucaracha/nephioadm/pull/18) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
+4. 🎉 Merged PR [#188](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/188) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🎉 Merged PR [#13](https://github.com/electrocucaracha/lint-devstack/pull/13) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
 <!--END_SECTION:activity-->
