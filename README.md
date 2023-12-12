@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/93) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-2. 🎉 Merged PR [#3](https://github.com/electrocucaracha/k8s-KPT-demo/pull/3) in [electrocucaracha/k8s-KPT-demo](https://github.com/electrocucaracha/k8s-KPT-demo)
-3. 🎉 Merged PR [#18](https://github.com/electrocucaracha/nephioadm/pull/18) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
-4. 🎉 Merged PR [#188](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/188) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🎉 Merged PR [#13](https://github.com/electrocucaracha/lint-devstack/pull/13) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+1. 🗣 Commented on [#215](https://github.com/nephio-project/test-infra/pull/215#issuecomment-1850762277) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#4](https://github.com/OPENAIRINTERFACE/oai-packages/pull/4#issuecomment-1850437900) in [OPENAIRINTERFACE/oai-packages](https://github.com/OPENAIRINTERFACE/oai-packages)
+3. ❌ Closed PR [#4](https://github.com/OPENAIRINTERFACE/oai-packages/pull/4) in [OPENAIRINTERFACE/oai-packages](https://github.com/OPENAIRINTERFACE/oai-packages)
+4. 🎉 Merged PR [#43](https://github.com/electrocucaracha/nephio-lab/pull/43) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+5. 🎉 Merged PR [#155](https://github.com/electrocucaracha/openstack-multinode/pull/155) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
