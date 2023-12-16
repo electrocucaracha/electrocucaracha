@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#224](https://github.com/nephio-project/test-infra/pull/224) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🎉 Merged PR [#29](https://github.com/electrocucaracha/multicluster/pull/29) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
-3. 🗣 Commented on [#44339](https://github.com/kubernetes/website/pull/44339#issuecomment-1854895036) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#223](https://github.com/nephio-project/test-infra/pull/223#issuecomment-1854493238) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🗣 Commented on [#223](https://github.com/nephio-project/test-infra/pull/223#issuecomment-1854464088) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🗣 Commented on [#10](https://github.com/nephio-project/catalog/pull/10#issuecomment-1858308026) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+2. 🗣 Commented on [#44339](https://github.com/kubernetes/website/pull/44339#issuecomment-1858248249) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#41877](https://github.com/kubernetes/website/issues/41877#issuecomment-1858247049) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🔒 Closed issue [#41877](https://github.com/kubernetes/website/issues/41877) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#41877](https://github.com/kubernetes/website/issues/41877#issuecomment-1858246577) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
