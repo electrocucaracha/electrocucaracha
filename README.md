@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/josephthaliath/test-infra/pull/1) in [josephthaliath/test-infra](https://github.com/josephthaliath/test-infra)
-2. 🗣 Commented on [#11](https://github.com/nephio-project/catalog/pull/11#issuecomment-1861286675) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
-3. 🗣 Commented on [#226](https://github.com/nephio-project/test-infra/pull/226#issuecomment-1859523826) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. ❌ Closed PR [#226](https://github.com/nephio-project/test-infra/pull/226) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 💪 Opened PR [#226](https://github.com/nephio-project/test-infra/pull/226) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🎉 Merged PR [#303](https://github.com/cncf/cnf-wg/pull/303) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+2. 🎉 Merged PR [#12](https://github.com/electrocucaracha/free5gc-poc/pull/12) in [electrocucaracha/free5gc-poc](https://github.com/electrocucaracha/free5gc-poc)
+3. 🎉 Merged PR [#4](https://github.com/electrocucaracha/k8s-KPT-demo/pull/4) in [electrocucaracha/k8s-KPT-demo](https://github.com/electrocucaracha/k8s-KPT-demo)
+4. 🎉 Merged PR [#20](https://github.com/electrocucaracha/nephioadm/pull/20) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
+5. 🎉 Merged PR [#94](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/94) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
 <!--END_SECTION:activity-->
