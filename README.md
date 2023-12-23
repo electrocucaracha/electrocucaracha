@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#303](https://github.com/cncf/cnf-wg/pull/303) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
-2. 🎉 Merged PR [#12](https://github.com/electrocucaracha/free5gc-poc/pull/12) in [electrocucaracha/free5gc-poc](https://github.com/electrocucaracha/free5gc-poc)
-3. 🎉 Merged PR [#4](https://github.com/electrocucaracha/k8s-KPT-demo/pull/4) in [electrocucaracha/k8s-KPT-demo](https://github.com/electrocucaracha/k8s-KPT-demo)
-4. 🎉 Merged PR [#20](https://github.com/electrocucaracha/nephioadm/pull/20) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
-5. 🎉 Merged PR [#94](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/94) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+1. 🗣 Commented on [#41872](https://github.com/kubernetes/website/issues/41872#issuecomment-1868108378) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🔒 Closed issue [#41872](https://github.com/kubernetes/website/issues/41872) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🎉 Merged PR [#303](https://github.com/cncf/cnf-wg/pull/303) in [cncf/cnf-wg](https://github.com/cncf/cnf-wg)
+4. 🎉 Merged PR [#12](https://github.com/electrocucaracha/free5gc-poc/pull/12) in [electrocucaracha/free5gc-poc](https://github.com/electrocucaracha/free5gc-poc)
+5. 🎉 Merged PR [#4](https://github.com/electrocucaracha/k8s-KPT-demo/pull/4) in [electrocucaracha/k8s-KPT-demo](https://github.com/electrocucaracha/k8s-KPT-demo)
 <!--END_SECTION:activity-->
