@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1868338284) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1868325642) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1868313506) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. 🗣 Commented on [#41872](https://github.com/kubernetes/website/issues/41872#issuecomment-1868108378) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🔒 Closed issue [#41872](https://github.com/kubernetes/website/issues/41872) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#8](https://github.com/fhcn-io/community-accelerator/pull/8#issuecomment-1869944194) in [fhcn-io/community-accelerator](https://github.com/fhcn-io/community-accelerator)
+2. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1868338284) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1868325642) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1868313506) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🗣 Commented on [#41872](https://github.com/kubernetes/website/issues/41872#issuecomment-1868108378) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
