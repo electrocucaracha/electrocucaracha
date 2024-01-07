@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/nephio-project/test-infra/pull/227#issuecomment-1877449292) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#45](https://github.com/nephio-project/free5gc/pull/45#issuecomment-1877335855) in [nephio-project/free5gc](https://github.com/nephio-project/free5gc)
-3. 🗣 Commented on [#45](https://github.com/nephio-project/free5gc/pull/45#issuecomment-1876574851) in [nephio-project/free5gc](https://github.com/nephio-project/free5gc)
-4. 🗣 Commented on [#8](https://github.com/fhcn-io/community-accelerator/pull/8#issuecomment-1869944194) in [fhcn-io/community-accelerator](https://github.com/fhcn-io/community-accelerator)
-5. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1868338284) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1879494027) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. 🔒 Closed issue [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🗣 Commented on [#227](https://github.com/nephio-project/test-infra/pull/227#issuecomment-1877449292) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+4. 🗣 Commented on [#45](https://github.com/nephio-project/free5gc/pull/45#issuecomment-1877335855) in [nephio-project/free5gc](https://github.com/nephio-project/free5gc)
+5. 🗣 Commented on [#45](https://github.com/nephio-project/free5gc/pull/45#issuecomment-1876574851) in [nephio-project/free5gc](https://github.com/nephio-project/free5gc)
 <!--END_SECTION:activity-->
