@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1879494027) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. 🔒 Closed issue [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🗣 Commented on [#227](https://github.com/nephio-project/test-infra/pull/227#issuecomment-1877449292) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#45](https://github.com/nephio-project/free5gc/pull/45#issuecomment-1877335855) in [nephio-project/free5gc](https://github.com/nephio-project/free5gc)
-5. 🗣 Commented on [#45](https://github.com/nephio-project/free5gc/pull/45#issuecomment-1876574851) in [nephio-project/free5gc](https://github.com/nephio-project/free5gc)
+1. 🗣 Commented on [#13](https://github.com/nephio-project/catalog/pull/13#issuecomment-1881874095) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+2. 🗣 Commented on [#10](https://github.com/nephio-project/catalog/pull/10#issuecomment-1881828949) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+3. 🗣 Commented on [#10](https://github.com/nephio-project/catalog/pull/10#issuecomment-1881637064) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+4. 🗣 Commented on [#10](https://github.com/nephio-project/catalog/pull/10#issuecomment-1881074003) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+5. 🗣 Commented on [#163](https://github.com/electrocucaracha/openstack-multinode/issues/163#issuecomment-1879494027) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
