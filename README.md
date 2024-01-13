@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/nephio-project/catalog/pull/19) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
-2. 🎉 Merged PR [#95](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/95) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-3. 🗣 Commented on [#18](https://github.com/nephio-project/catalog/pull/18#issuecomment-1888038060) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
-4. 🗣 Commented on [#230](https://github.com/nephio-project/test-infra/pull/230#issuecomment-1887861916) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🎉 Merged PR [#31](https://github.com/electrocucaracha/multicluster/pull/31) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+1. 💪 Opened PR [#22](https://github.com/nephio-project/catalog/pull/22) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+2. 💪 Opened PR [#21](https://github.com/nephio-project/catalog/pull/21) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+3. 🎉 Merged PR [#44](https://github.com/electrocucaracha/bmaas/pull/44) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+4. 🎉 Merged PR [#173](https://github.com/electrocucaracha/openstack-multinode/pull/173) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🎉 Merged PR [#190](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/190) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
