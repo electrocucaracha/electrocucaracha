@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/electrocucaracha/multicluster/pull/32) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
-2. 🎉 Merged PR [#22](https://github.com/electrocucaracha/nephioadm/pull/22) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
-3. 💪 Opened PR [#22](https://github.com/nephio-project/catalog/pull/22) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
-4. 💪 Opened PR [#21](https://github.com/nephio-project/catalog/pull/21) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
-5. 🎉 Merged PR [#44](https://github.com/electrocucaracha/bmaas/pull/44) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+1. 🗣 Commented on [#229](https://github.com/nephio-project/test-infra/pull/229#issuecomment-1891051743) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🎉 Merged PR [#32](https://github.com/electrocucaracha/multicluster/pull/32) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+3. 🎉 Merged PR [#22](https://github.com/electrocucaracha/nephioadm/pull/22) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
+4. 💪 Opened PR [#22](https://github.com/nephio-project/catalog/pull/22) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+5. 💪 Opened PR [#21](https://github.com/nephio-project/catalog/pull/21) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
 <!--END_SECTION:activity-->
