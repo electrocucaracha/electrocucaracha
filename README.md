@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#229](https://github.com/nephio-project/test-infra/pull/229#issuecomment-1894702381) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#229](https://github.com/nephio-project/test-infra/pull/229#issuecomment-1894690604) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#54](https://github.com/nephio-project/free5gc-packages/pull/54#issuecomment-1894410695) in [nephio-project/free5gc-packages](https://github.com/nephio-project/free5gc-packages)
-4. 🗣 Commented on [#83](https://github.com/nephio-project/docs/pull/83#issuecomment-1893969690) in [nephio-project/docs](https://github.com/nephio-project/docs)
-5. 🗣 Commented on [#22](https://github.com/nephio-project/catalog/pull/22#issuecomment-1892753454) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+1. 🗣 Commented on [#227](https://github.com/nephio-project/test-infra/pull/227#issuecomment-1896778784) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#475](https://github.com/nephio-project/nephio/issues/475#issuecomment-1896301102) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+3. 🔒 Closed issue [#475](https://github.com/nephio-project/nephio/issues/475) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+4. 🗣 Commented on [#227](https://github.com/nephio-project/test-infra/pull/227#issuecomment-1896289867) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🎉 Merged PR [#174](https://github.com/electrocucaracha/openstack-multinode/pull/174) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
