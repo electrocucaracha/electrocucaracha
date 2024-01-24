@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/nephio-project/test-infra/pull/215#issuecomment-1904974372) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#230](https://github.com/nephio-project/test-infra/pull/230#issuecomment-1904912172) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#227](https://github.com/nephio-project/test-infra/pull/227#issuecomment-1904825229) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#227](https://github.com/nephio-project/test-infra/pull/227#issuecomment-1904795867) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 💪 Opened PR [#27](https://github.com/nephio-project/catalog/pull/27) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+1. 🎉 Merged PR [#35](https://github.com/electrocucaracha/multicluster/pull/35) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+2. 🗣 Commented on [#86](https://github.com/nephio-project/docs/pull/86#issuecomment-1906625883) in [nephio-project/docs](https://github.com/nephio-project/docs)
+3. 🎉 Merged PR [#192](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/192) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🗣 Commented on [#75](https://github.com/nephio-project/docs/pull/75#issuecomment-1906616648) in [nephio-project/docs](https://github.com/nephio-project/docs)
+5. ❌ Closed PR [#75](https://github.com/nephio-project/docs/pull/75) in [nephio-project/docs](https://github.com/nephio-project/docs)
 <!--END_SECTION:activity-->
