@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/nephio-project/porch/pull/18#issuecomment-1912409497) in [nephio-project/porch](https://github.com/nephio-project/porch)
-2. 🗣 Commented on [#493](https://github.com/nephio-project/nephio/issues/493#issuecomment-1912406202) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-3. 🗣 Commented on [#18](https://github.com/nephio-project/porch/pull/18#issuecomment-1912324462) in [nephio-project/porch](https://github.com/nephio-project/porch)
-4. 🎉 Merged PR [#194](https://github.com/electrocucaracha/krd/pull/194) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🎉 Merged PR [#71](https://github.com/electrocucaracha/bootstrap-vagrant/pull/71) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+1. 💪 Opened PR [#98](https://github.com/nephio-project/docs/pull/98) in [nephio-project/docs](https://github.com/nephio-project/docs)
+2. 💪 Opened PR [#97](https://github.com/nephio-project/docs/pull/97) in [nephio-project/docs](https://github.com/nephio-project/docs)
+3. 🗣 Commented on [#18](https://github.com/nephio-project/porch/pull/18#issuecomment-1912409497) in [nephio-project/porch](https://github.com/nephio-project/porch)
+4. 🗣 Commented on [#493](https://github.com/nephio-project/nephio/issues/493#issuecomment-1912406202) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+5. 🗣 Commented on [#18](https://github.com/nephio-project/porch/pull/18#issuecomment-1912324462) in [nephio-project/porch](https://github.com/nephio-project/porch)
 <!--END_SECTION:activity-->
