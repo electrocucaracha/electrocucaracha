@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/nephio-project/test-infra/pull/232#issuecomment-1917861130) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 💪 Opened PR [#232](https://github.com/nephio-project/test-infra/pull/232) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#44735](https://github.com/kubernetes/website/pull/44735#issuecomment-1917487798) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#99](https://github.com/nephio-project/docs/pull/99#issuecomment-1917409744) in [nephio-project/docs](https://github.com/nephio-project/docs)
-5. 💪 Opened PR [#98](https://github.com/nephio-project/docs/pull/98) in [nephio-project/docs](https://github.com/nephio-project/docs)
+1. 🗣 Commented on [#84](https://github.com/nephio-project/docs/pull/84#issuecomment-1920247943) in [nephio-project/docs](https://github.com/nephio-project/docs)
+2. 🗣 Commented on [#232](https://github.com/nephio-project/test-infra/pull/232#issuecomment-1920198234) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. ❌ Closed PR [#189](https://github.com/electrocucaracha/krd/pull/189) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. ❌ Closed PR [#180](https://github.com/electrocucaracha/krd/pull/180) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. ❌ Closed PR [#183](https://github.com/electrocucaracha/krd/pull/183) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
