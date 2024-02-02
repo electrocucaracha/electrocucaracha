@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/nephio-project/docs/pull/84#issuecomment-1920247943) in [nephio-project/docs](https://github.com/nephio-project/docs)
-2. 🗣 Commented on [#232](https://github.com/nephio-project/test-infra/pull/232#issuecomment-1920198234) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. ❌ Closed PR [#189](https://github.com/electrocucaracha/krd/pull/189) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. ❌ Closed PR [#180](https://github.com/electrocucaracha/krd/pull/180) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. ❌ Closed PR [#183](https://github.com/electrocucaracha/krd/pull/183) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🗣 Commented on [#235](https://github.com/nephio-project/test-infra/pull/235#issuecomment-1922551970) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#29](https://github.com/nephio-project/catalog/pull/29#issuecomment-1922537742) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+3. 🗣 Commented on [#48](https://github.com/nephio-project/free5gc/pull/48#issuecomment-1922410812) in [nephio-project/free5gc](https://github.com/nephio-project/free5gc)
+4. 💪 Opened PR [#234](https://github.com/nephio-project/test-infra/pull/234) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 💪 Opened PR [#102](https://github.com/nephio-project/docs/pull/102) in [nephio-project/docs](https://github.com/nephio-project/docs)
 <!--END_SECTION:activity-->
