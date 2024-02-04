@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/nephio-project/test-infra/pull/235#issuecomment-1924674888) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 💪 Opened PR [#237](https://github.com/nephio-project/test-infra/pull/237) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#498](https://github.com/nephio-project/nephio/pull/498#issuecomment-1924427564) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-4. 🗣 Commented on [#496](https://github.com/nephio-project/nephio/pull/496#issuecomment-1924426938) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-5. 💪 Opened PR [#30](https://github.com/nephio-project/catalog/pull/30) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+1. 🎉 Merged PR [#161](https://github.com/electrocucaracha/openstack-multinode/pull/161) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. ❌ Closed PR [#232](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/232) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+3. 🗣 Commented on [#232](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/232#issuecomment-1925011142) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+4. 🗣 Commented on [#235](https://github.com/nephio-project/test-infra/pull/235#issuecomment-1924674888) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 💪 Opened PR [#237](https://github.com/nephio-project/test-infra/pull/237) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
