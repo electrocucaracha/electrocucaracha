@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#161](https://github.com/electrocucaracha/openstack-multinode/pull/161) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. ❌ Closed PR [#232](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/232) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-3. 🗣 Commented on [#232](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/232#issuecomment-1925011142) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-4. 🗣 Commented on [#235](https://github.com/nephio-project/test-infra/pull/235#issuecomment-1924674888) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 💪 Opened PR [#237](https://github.com/nephio-project/test-infra/pull/237) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🗣 Commented on [#240](https://github.com/nephio-project/test-infra/pull/240#issuecomment-1928171788) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#107](https://github.com/nephio-project/docs/pull/107#issuecomment-1928061183) in [nephio-project/docs](https://github.com/nephio-project/docs)
+3. 💪 Opened PR [#240](https://github.com/nephio-project/test-infra/pull/240) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+4. 🎉 Merged PR [#161](https://github.com/electrocucaracha/openstack-multinode/pull/161) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. ❌ Closed PR [#232](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/232) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
 <!--END_SECTION:activity-->
