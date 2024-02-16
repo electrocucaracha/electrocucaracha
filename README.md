@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/nephio-project/docs/pull/111#issuecomment-1944194808) in [nephio-project/docs](https://github.com/nephio-project/docs)
-2. 🎉 Merged PR [#76](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/76) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-3. 🗣 Commented on [#508](https://github.com/nephio-project/nephio/pull/508#issuecomment-1942937414) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
-4. 🗣 Commented on [#111](https://github.com/nephio-project/docs/pull/111#issuecomment-1942934261) in [nephio-project/docs](https://github.com/nephio-project/docs)
-5. 🗣 Commented on [#247](https://github.com/nephio-project/test-infra/pull/247#issuecomment-1942403579) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+1. 🗣 Commented on [#115](https://github.com/nephio-project/docs/pull/115#issuecomment-1947511229) in [nephio-project/docs](https://github.com/nephio-project/docs)
+2. 🎉 Merged PR [#39](https://github.com/electrocucaracha/multicluster/pull/39) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+3. 🎉 Merged PR [#30](https://github.com/electrocucaracha/nephioadm/pull/30) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
+4. 🗣 Commented on [#110](https://github.com/nephio-project/docs/pull/110#issuecomment-1947207071) in [nephio-project/docs](https://github.com/nephio-project/docs)
+5. 🗣 Commented on [#527](https://github.com/nephio-project/nephio/issues/527#issuecomment-1947136939) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
 <!--END_SECTION:activity-->
