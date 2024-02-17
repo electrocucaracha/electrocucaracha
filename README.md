@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/nephio-project/docs/pull/115#issuecomment-1947511229) in [nephio-project/docs](https://github.com/nephio-project/docs)
-2. 🎉 Merged PR [#39](https://github.com/electrocucaracha/multicluster/pull/39) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
-3. 🎉 Merged PR [#30](https://github.com/electrocucaracha/nephioadm/pull/30) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
-4. 🗣 Commented on [#110](https://github.com/nephio-project/docs/pull/110#issuecomment-1947207071) in [nephio-project/docs](https://github.com/nephio-project/docs)
-5. 🗣 Commented on [#527](https://github.com/nephio-project/nephio/issues/527#issuecomment-1947136939) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+1. 🎉 Merged PR [#195](https://github.com/electrocucaracha/krd/pull/195) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#72](https://github.com/electrocucaracha/bootstrap-vagrant/pull/72) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+3. 🎉 Merged PR [#48](https://github.com/electrocucaracha/bmaas/pull/48) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+4. 🗣 Commented on [#114](https://github.com/nephio-project/docs/pull/114#issuecomment-1949134545) in [nephio-project/docs](https://github.com/nephio-project/docs)
+5. 🎉 Merged PR [#195](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/195) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
