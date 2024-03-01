@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Nordix/nephio-test-infra/pull/1) in [Nordix/nephio-test-infra](https://github.com/Nordix/nephio-test-infra)
-2. 🗣 Commented on [#45347](https://github.com/kubernetes/website/pull/45347#issuecomment-1967970261) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#248](https://github.com/nephio-project/test-infra/pull/248#issuecomment-1964821000) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🗣 Commented on [#45332](https://github.com/kubernetes/website/pull/45332#issuecomment-1964295142) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#44735](https://github.com/kubernetes/website/pull/44735#issuecomment-1964282389) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 💪 Opened PR [#34](https://github.com/nephio-project/catalog/pull/34) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+2. 💪 Opened PR [#1](https://github.com/Nordix/nephio-test-infra/pull/1) in [Nordix/nephio-test-infra](https://github.com/Nordix/nephio-test-infra)
+3. 🗣 Commented on [#45347](https://github.com/kubernetes/website/pull/45347#issuecomment-1967970261) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#248](https://github.com/nephio-project/test-infra/pull/248#issuecomment-1964821000) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#45332](https://github.com/kubernetes/website/pull/45332#issuecomment-1964295142) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
