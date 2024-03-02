@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/nephio-project/catalog/pull/34) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
-2. 💪 Opened PR [#1](https://github.com/Nordix/nephio-test-infra/pull/1) in [Nordix/nephio-test-infra](https://github.com/Nordix/nephio-test-infra)
-3. 🗣 Commented on [#45347](https://github.com/kubernetes/website/pull/45347#issuecomment-1967970261) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#248](https://github.com/nephio-project/test-infra/pull/248#issuecomment-1964821000) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-5. 🗣 Commented on [#45332](https://github.com/kubernetes/website/pull/45332#issuecomment-1964295142) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#249](https://github.com/nephio-project/test-infra/pull/249#issuecomment-1974035839) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#45368](https://github.com/kubernetes/website/pull/45368#issuecomment-1973802761) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#117](https://github.com/nephio-project/docs/pull/117#issuecomment-1973801411) in [nephio-project/docs](https://github.com/nephio-project/docs)
+4. 🗣 Commented on [#45367](https://github.com/kubernetes/website/pull/45367#issuecomment-1973789738) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🎉 Merged PR [#196](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/196) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
