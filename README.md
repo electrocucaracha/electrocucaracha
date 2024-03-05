@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com/nephio-project/test-infra/pull/249#issuecomment-1974035839) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-2. 🗣 Commented on [#45368](https://github.com/kubernetes/website/pull/45368#issuecomment-1973802761) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#117](https://github.com/nephio-project/docs/pull/117#issuecomment-1973801411) in [nephio-project/docs](https://github.com/nephio-project/docs)
-4. 🗣 Commented on [#45367](https://github.com/kubernetes/website/pull/45367#issuecomment-1973789738) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🎉 Merged PR [#196](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/196) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🎉 Merged PR [#41](https://github.com/electrocucaracha/multicluster/pull/41) in [electrocucaracha/multicluster](https://github.com/electrocucaracha/multicluster)
+2. 🗣 Commented on [#45402](https://github.com/kubernetes/website/pull/45402#issuecomment-1976952781) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🎉 Merged PR [#198](https://github.com/electrocucaracha/krd/pull/198) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🎉 Merged PR [#74](https://github.com/electrocucaracha/bootstrap-vagrant/pull/74) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+5. 🎉 Merged PR [#50](https://github.com/electrocucaracha/bmaas/pull/50) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
 <!--END_SECTION:activity-->
