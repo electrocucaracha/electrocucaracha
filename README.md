@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44956](https://github.com/kubernetes/website/pull/44956#issuecomment-1997775020) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#252](https://github.com/nephio-project/test-infra/pull/252#issuecomment-1997774008) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-3. 🗣 Commented on [#253](https://github.com/nephio-project/test-infra/pull/253#issuecomment-1994564426) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
-4. 🎉 Merged PR [#46](https://github.com/electrocucaracha/nephio-lab/pull/46) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
-5. 🎉 Merged PR [#199](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/199) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. ❌ Closed PR [#41](https://github.com/electrocucaracha/bootstrap-vagrant/pull/41) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+2. 🎉 Merged PR [#184](https://github.com/electrocucaracha/openstack-multinode/pull/184) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🗣 Commented on [#44956](https://github.com/kubernetes/website/pull/44956#issuecomment-1997775020) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#252](https://github.com/nephio-project/test-infra/pull/252#issuecomment-1997774008) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+5. 🗣 Commented on [#253](https://github.com/nephio-project/test-infra/pull/253#issuecomment-1994564426) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
 <!--END_SECTION:activity-->
