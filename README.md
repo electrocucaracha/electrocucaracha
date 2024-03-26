@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#201](https://github.com/electrocucaracha/krd/pull/201) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🎉 Merged PR [#191](https://github.com/electrocucaracha/openstack-multinode/pull/191) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🎉 Merged PR [#200](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/200) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. ❌ Closed PR [#78](https://github.com/electrocucaracha/bootstrap-vagrant/pull/78) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-5. 🎉 Merged PR [#202](https://github.com/electrocucaracha/krd/pull/202) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🗣 Commented on [#45642](https://github.com/kubernetes/website/pull/45642#issuecomment-2018723240) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🎉 Merged PR [#246](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/246) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+3. 🎉 Merged PR [#201](https://github.com/electrocucaracha/krd/pull/201) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🎉 Merged PR [#191](https://github.com/electrocucaracha/openstack-multinode/pull/191) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🎉 Merged PR [#200](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/200) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
