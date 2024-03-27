@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45642](https://github.com/kubernetes/website/pull/45642#issuecomment-2018723240) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🎉 Merged PR [#246](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/246) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-3. 🎉 Merged PR [#201](https://github.com/electrocucaracha/krd/pull/201) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🎉 Merged PR [#191](https://github.com/electrocucaracha/openstack-multinode/pull/191) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🎉 Merged PR [#200](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/200) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#34](https://github.com/nephio-project/catalog/pull/34#issuecomment-2021634819) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+2. 🗣 Commented on [#34](https://github.com/nephio-project/catalog/pull/34#issuecomment-2021559231) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+3. 🗣 Commented on [#45642](https://github.com/kubernetes/website/pull/45642#issuecomment-2018723240) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🎉 Merged PR [#246](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/246) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+5. 🎉 Merged PR [#201](https://github.com/electrocucaracha/krd/pull/201) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
