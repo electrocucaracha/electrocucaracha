@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#205](https://github.com/electrocucaracha/krd/pull/205) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. 🎉 Merged PR [#79](https://github.com/electrocucaracha/bootstrap-vagrant/pull/79) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-3. 🎉 Merged PR [#55](https://github.com/electrocucaracha/bmaas/pull/55) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-4. 🎉 Merged PR [#201](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/201) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. 🎉 Merged PR [#192](https://github.com/electrocucaracha/openstack-multinode/pull/192) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🎉 Merged PR [#13](https://github.com/electrocucaracha/electrocucaracha/pull/13) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+2. 🎉 Merged PR [#205](https://github.com/electrocucaracha/krd/pull/205) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🎉 Merged PR [#79](https://github.com/electrocucaracha/bootstrap-vagrant/pull/79) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+4. 🎉 Merged PR [#55](https://github.com/electrocucaracha/bmaas/pull/55) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+5. 🎉 Merged PR [#201](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/201) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
