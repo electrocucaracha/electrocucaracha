@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/electrocucaracha/electrocucaracha/pull/13) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-2. 🎉 Merged PR [#205](https://github.com/electrocucaracha/krd/pull/205) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🎉 Merged PR [#79](https://github.com/electrocucaracha/bootstrap-vagrant/pull/79) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-4. 🎉 Merged PR [#55](https://github.com/electrocucaracha/bmaas/pull/55) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
-5. 🎉 Merged PR [#201](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/201) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#251](https://github.com/nephio-project/test-infra/pull/251#issuecomment-2043663999) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+2. 🗣 Commented on [#251](https://github.com/nephio-project/test-infra/pull/251#issuecomment-2043639824) in [nephio-project/test-infra](https://github.com/nephio-project/test-infra)
+3. 🗣 Commented on [#589](https://github.com/nephio-project/nephio/issues/589#issuecomment-2043626758) in [nephio-project/nephio](https://github.com/nephio-project/nephio)
+4. 🗣 Commented on [#123](https://github.com/nephio-project/docs/pull/123#issuecomment-2043598722) in [nephio-project/docs](https://github.com/nephio-project/docs)
+5. 🗣 Commented on [#45609](https://github.com/kubernetes/website/pull/45609#issuecomment-2043596003) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
