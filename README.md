@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45726](https://github.com/kubernetes/website/pull/45726#issuecomment-2045908524) in [kubernetes/website](https://github.com/kubernetes/website)
-2. ❌ Closed PR [#52](https://github.com/electrocucaracha/releng/pull/52) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-3. 🎉 Merged PR [#51](https://github.com/electrocucaracha/releng/pull/51) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-4. 🗣 Commented on [#3014](https://github.com/cncf/glossary/pull/3014#issuecomment-2045705709) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#45585](https://github.com/kubernetes/website/pull/45585#issuecomment-2045543557) in [kubernetes/website](https://github.com/kubernetes/website)
+1. ❌ Closed PR [#4](https://github.com/electrocucaracha/lint-devstack/pull/4) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+2. 🗣 Commented on [#45585](https://github.com/kubernetes/website/pull/45585#issuecomment-2048604866) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#34](https://github.com/nephio-project/catalog/pull/34#issuecomment-2047773830) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+4. 🗣 Commented on [#45726](https://github.com/kubernetes/website/pull/45726#issuecomment-2045908524) in [kubernetes/website](https://github.com/kubernetes/website)
+5. ❌ Closed PR [#52](https://github.com/electrocucaracha/releng/pull/52) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
 <!--END_SECTION:activity-->
