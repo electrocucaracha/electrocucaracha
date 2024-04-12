@@ -26,7 +26,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.8.7
         with:
           feed_list: https://electrocucaracha.com/feed/
-      - uses: lowlighter/metrics@v3.34
+      - uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: electrocucaracha
