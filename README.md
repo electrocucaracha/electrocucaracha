@@ -41,9 +41,9 @@ nickname came from.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/electrocucaracha/lint-devstack/pull/4) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
-2. 🗣 Commented on [#45585](https://github.com/kubernetes/website/pull/45585#issuecomment-2048604866) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#34](https://github.com/nephio-project/catalog/pull/34#issuecomment-2047773830) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
-4. 🗣 Commented on [#45726](https://github.com/kubernetes/website/pull/45726#issuecomment-2045908524) in [kubernetes/website](https://github.com/kubernetes/website)
-5. ❌ Closed PR [#52](https://github.com/electrocucaracha/releng/pull/52) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
+1. 🗣 Commented on [#7](https://github.com/lfn-cnti/cnti/issues/7#issuecomment-2050147785) in [lfn-cnti/cnti](https://github.com/lfn-cnti/cnti)
+2. 🎉 Merged PR [#253](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/253) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
+3. ❌ Closed PR [#4](https://github.com/electrocucaracha/lint-devstack/pull/4) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+4. 🗣 Commented on [#45585](https://github.com/kubernetes/website/pull/45585#issuecomment-2048604866) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#34](https://github.com/nephio-project/catalog/pull/34#issuecomment-2047773830) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
 <!--END_SECTION:activity-->
