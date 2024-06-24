@@ -5,16 +5,19 @@
 [![GitHub electrocucaracha](https://img.shields.io/github/followers/electrocucaracha?label=follow&style=social)](https://github.com/electrocucaracha)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=electrocucaracha.electrocucaracha)
 
-I’m a passionate Software Engineer with an interest in automated
-software development. I enjoy building solutions that are easy to use,
-scale and adapt. I’m a fervent supporter of the Open Source and have
-successfully lead teams using Agile methodologies.
+I am a passionate Senior Staff Software Engineer with over 20 years of experience,
+specializing in automated software solutions and driving strategic initiatives to foster collaboration.
+My expertise lies in Cloud Computing, where I have made significant contributions to open-source projects
+with prominent organizations such as OpenInfra, CNCF, and LFN.
+Recognized for my technical prowess and leadership, I excel in cultivating high-performance teams
+that deliver scalable solutions to enhance efficiency and reduce costs.
+As a respected speaker at global tech conferences and an active community member in LATAM,
+I am dedicated to advancing industry standards and fostering growth.
 
-- 🔭 I’m currently working on Samsung as Senior Staff Software
-Engineer.
 - 💬 Ask me about [OpenStack](https://www.openstack.org/),
-[OPNFV](https://www.opnfv.org/), [ONAP](https://www.onap.org/) and
-[Kubernetes](https://kubernetes.io/).
+[OPNFV](https://www.opnfv.org/), [ONAP](https://www.onap.org/),
+[Kubernetes](https://kubernetes.io/) and
+[Nephio](https://docs.nephio.org/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: During my university studies I worked on a TV repair
 shop. We cleaned them up before fixing and usually we discovered many
