@@ -19,7 +19,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.2.1
+      - uses: actions/checkout@v4.2.2
       - uses: jamesgeorge007/github-activity-readme@v0.4.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
