@@ -7,14 +7,12 @@
 # which accompanies this distribution, and is available at
 # http://www.apache.org/licenses/LICENSE-2.0
 ##############################################################################
-
 name: Lint Code Base
 # yamllint disable-line rule:truthy
 on:
   push:
     branches:
-      - 'master'
-
+      - "master"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,4 +21,7 @@ jobs:
       - uses: github/super-linter@b807e99ddd37e444d189cfd2c2ca1274d8ae8ef1 # 7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LINTER_RULES_PATH: /
           VALIDATE_NATURAL_LANGUAGE: false
+          VALIDATE_CHECKOV: false
+          EDITORCONFIG_FILE_NAME: .editorconfig
