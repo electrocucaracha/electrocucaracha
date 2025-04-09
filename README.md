@@ -73,9 +73,9 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/lfn-cnti/cnti/issues/7#issuecomment-2050147785) in [lfn-cnti/cnti](https://github.com/lfn-cnti/cnti)
-2. 🎉 Merged PR [#253](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo/pull/253) in [electrocucaracha/k8s-NetworkingDeepDive-demo](https://github.com/electrocucaracha/k8s-NetworkingDeepDive-demo)
-3. ❌ Closed PR [#4](https://github.com/electrocucaracha/lint-devstack/pull/4) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
-4. 🗣 Commented on [#45585](https://github.com/kubernetes/website/pull/45585#issuecomment-2048604866) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#34](https://github.com/nephio-project/catalog/pull/34#issuecomment-2047773830) in [nephio-project/catalog](https://github.com/nephio-project/catalog)
+1. 🎉 Merged PR [#37](https://github.com/electrocucaracha/free5gc-poc/pull/37) in [electrocucaracha/free5gc-poc](https://github.com/electrocucaracha/free5gc-poc)
+2. 🗣 Commented on [#50325](https://github.com/kubernetes/website/pull/50325#issuecomment-2767745184) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🎉 Merged PR [#79](https://github.com/electrocucaracha/nephioadm/pull/79) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
+4. 🎉 Merged PR [#30](https://github.com/electrocucaracha/k8s-KPT-demo/pull/30) in [electrocucaracha/k8s-KPT-demo](https://github.com/electrocucaracha/k8s-KPT-demo)
+5. 🎉 Merged PR [#26](https://github.com/electrocucaracha/nephio-pocs/pull/26) in [electrocucaracha/nephio-pocs](https://github.com/electrocucaracha/nephio-pocs)
 <!--END_SECTION:activity-->
