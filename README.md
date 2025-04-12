@@ -73,11 +73,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/electrocucaracha/free5gc-poc/pull/37) in [electrocucaracha/free5gc-poc](https://github.com/electrocucaracha/free5gc-poc)
-2. 🗣 Commented on [#50325](https://github.com/kubernetes/website/pull/50325#issuecomment-2767745184) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#79](https://github.com/electrocucaracha/nephioadm/pull/79) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
-4. 🎉 Merged PR [#30](https://github.com/electrocucaracha/k8s-KPT-demo/pull/30) in [electrocucaracha/k8s-KPT-demo](https://github.com/electrocucaracha/k8s-KPT-demo)
-5. 🎉 Merged PR [#26](https://github.com/electrocucaracha/nephio-pocs/pull/26) in [electrocucaracha/nephio-pocs](https://github.com/electrocucaracha/nephio-pocs)
+1. 🗣 Commented on [#3437](https://github.com/cncf/glossary/issues/3437#issuecomment-2797347279) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#212](https://github.com/cncf/tag-runtime/issues/212#issuecomment-2797306399) in [cncf/tag-runtime](https://github.com/cncf/tag-runtime)
+3. 🎉 Merged PR [#37](https://github.com/electrocucaracha/free5gc-poc/pull/37) in [electrocucaracha/free5gc-poc](https://github.com/electrocucaracha/free5gc-poc)
+4. 🗣 Commented on [#50325](https://github.com/kubernetes/website/pull/50325#issuecomment-2767745184) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🎉 Merged PR [#79](https://github.com/electrocucaracha/nephioadm/pull/79) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
