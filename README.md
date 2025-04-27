@@ -73,11 +73,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5561](https://github.com/kubernetes/org/issues/5561#issuecomment-2829091944) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 🗣 Commented on [#3450](https://github.com/cncf/glossary/pull/3450#issuecomment-2821838305) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#3454](https://github.com/cncf/glossary/pull/3454#issuecomment-2800186727) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#3450](https://github.com/cncf/glossary/pull/3450#issuecomment-2800163688) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🎉 Merged PR [#143](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/143) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+1. 🎉 Merged PR [#3450](https://github.com/cncf/glossary/pull/3450) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#5561](https://github.com/kubernetes/org/issues/5561#issuecomment-2829091944) in [kubernetes/org](https://github.com/kubernetes/org)
+3. 🗣 Commented on [#3450](https://github.com/cncf/glossary/pull/3450#issuecomment-2821838305) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#3454](https://github.com/cncf/glossary/pull/3454#issuecomment-2800186727) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#3450](https://github.com/cncf/glossary/pull/3450#issuecomment-2800163688) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
