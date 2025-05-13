@@ -73,11 +73,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/146) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-2. 🎉 Merged PR [#145](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/145) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-3. 🗣 Commented on [#50757](https://github.com/kubernetes/website/pull/50757#issuecomment-2848349879) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#5561](https://github.com/kubernetes/org/issues/5561#issuecomment-2846006440) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🎉 Merged PR [#62](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/62) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+1. 🎉 Merged PR [#30](https://github.com/electrocucaracha/electrocucaracha/pull/30) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+2. 🎉 Merged PR [#146](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/146) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+3. 🎉 Merged PR [#145](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/145) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+4. 🗣 Commented on [#50757](https://github.com/kubernetes/website/pull/50757#issuecomment-2848349879) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#5561](https://github.com/kubernetes/org/issues/5561#issuecomment-2846006440) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
