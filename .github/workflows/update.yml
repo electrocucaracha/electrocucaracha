@@ -39,7 +39,7 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: gautamkrishnar/blog-post-workflow@0ef2f05b14c0c428eb2b3c03e32e812e9775f8b6 # 1.9.2
+      - uses: gautamkrishnar/blog-post-workflow@eba05ad46e6bac02165b77289978caf47699a41f # 1.9.3
         with:
           feed_list: https://electrocucaracha.com/feed/
       - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # 3.34
