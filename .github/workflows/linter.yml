@@ -24,4 +24,4 @@ jobs:
           LINTER_RULES_PATH: /
           VALIDATE_NATURAL_LANGUAGE: false
           VALIDATE_CHECKOV: false
-          EDITORCONFIG_FILE_NAME: .editorconfig
+          EDITORCONFIG_FILE_NAME: .editorconfig-checker.json
