@@ -73,11 +73,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/grll/mcpadapt/pull/53) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
-2. 🗣 Commented on [#50703](https://github.com/kubernetes/website/pull/50703#issuecomment-2937827899) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#233](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/233) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🎉 Merged PR [#31](https://github.com/electrocucaracha/electrocucaracha/pull/31) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-5. 🎉 Merged PR [#147](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/147) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+1. 💪 Opened PR [#56](https://github.com/grll/mcpadapt/pull/56) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
+2. 🗣 Commented on [#54](https://github.com/grll/mcpadapt/pull/54#issuecomment-2972818738) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
+3. 🗣 Commented on [#53](https://github.com/grll/mcpadapt/pull/53#issuecomment-2971970415) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
+4. ❌ Closed PR [#53](https://github.com/grll/mcpadapt/pull/53) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
+5. 💪 Opened PR [#54](https://github.com/grll/mcpadapt/pull/54) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
