@@ -73,11 +73,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/grll/mcpadapt/pull/56) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
-2. 🗣 Commented on [#54](https://github.com/grll/mcpadapt/pull/54#issuecomment-2972818738) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
-3. 🗣 Commented on [#53](https://github.com/grll/mcpadapt/pull/53#issuecomment-2971970415) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
-4. ❌ Closed PR [#53](https://github.com/grll/mcpadapt/pull/53) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
-5. 💪 Opened PR [#54](https://github.com/grll/mcpadapt/pull/54) in [grll/mcpadapt](https://github.com/grll/mcpadapt)
+1. ❌ Closed PR [#230](https://github.com/electrocucaracha/krd/pull/230) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. ❌ Closed PR [#254](https://github.com/electrocucaracha/openstack-multinode/pull/254) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. ❌ Closed PR [#253](https://github.com/electrocucaracha/openstack-multinode/pull/253) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. ❌ Closed PR [#252](https://github.com/electrocucaracha/openstack-multinode/pull/252) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. ❌ Closed PR [#250](https://github.com/electrocucaracha/openstack-multinode/pull/250) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
