@@ -16,8 +16,9 @@ I am dedicated to advancing industry standards and fostering growth.
 
 - 💬 Ask me about [OpenStack](https://www.openstack.org/),
   [OPNFV](https://www.opnfv.org/), [ONAP](https://www.onap.org/),
-  [Kubernetes](https://kubernetes.io/) and
-  [Nephio](https://docs.nephio.org/)
+  [Kubernetes](https://kubernetes.io/),
+  [Nephio](https://docs.nephio.org/) and
+  [MCP](https://modelcontextprotocol.io/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: During my university studies I worked on a TV repair
   shop. We cleaned them up before fixing and usually we discovered many
