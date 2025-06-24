@@ -24,6 +24,8 @@ I am dedicated to advancing industry standards and fostering growth.
   interesting things along the disassembly process. That's where this
   nickname came from.
 
+---
+
 ## 💻Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -51,12 +53,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
----
+## 📊 GitHub Stats
 
-![Metrics](https://github.com/electrocucaracha/electrocucaracha/blob/master/github-metrics.svg)
 [![Victor's GitHub statistics](https://github-readme-stats.vercel.app/api?username=electrocucaracha)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
-
----
+<a href="https://gitroll.io/profile/udlkk0YGqUrTxotWUXrVxGYHHBwM2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/udlkk0YGqUrTxotWUXrVxGYHHBwM2?theme=light" alt="GitRoll Profile Badge" width="345px"/></a>
+![Metrics](https://github.com/electrocucaracha/electrocucaracha/blob/master/github-metrics.svg)
 
 ## 📘 Latest Blog posts
 
