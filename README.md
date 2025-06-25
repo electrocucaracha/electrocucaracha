@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#230](https://github.com/electrocucaracha/krd/pull/230) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-2. ❌ Closed PR [#254](https://github.com/electrocucaracha/openstack-multinode/pull/254) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. ❌ Closed PR [#253](https://github.com/electrocucaracha/openstack-multinode/pull/253) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. ❌ Closed PR [#252](https://github.com/electrocucaracha/openstack-multinode/pull/252) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. ❌ Closed PR [#250](https://github.com/electrocucaracha/openstack-multinode/pull/250) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🗣 Commented on [#212](https://github.com/cncf/tag-runtime/issues/212#issuecomment-2998706864) in [cncf/tag-runtime](https://github.com/cncf/tag-runtime)
+2. ❌ Closed PR [#230](https://github.com/electrocucaracha/krd/pull/230) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. ❌ Closed PR [#254](https://github.com/electrocucaracha/openstack-multinode/pull/254) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. ❌ Closed PR [#253](https://github.com/electrocucaracha/openstack-multinode/pull/253) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. ❌ Closed PR [#252](https://github.com/electrocucaracha/openstack-multinode/pull/252) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
