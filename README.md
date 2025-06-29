@@ -65,11 +65,11 @@ I am dedicated to advancing industry standards and fostering growth.
 <!-- prettier-ignore-start -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Patrón Singleton en Go: Implementación fácil con sync.Once](https://electrocucaracha.com/2025/06/28/patron-singleton-en-go-como-implementar-sync-once/)
 - [Entendiendo los Namespaces en Python de manera práctica](https://electrocucaracha.com/2025/06/21/entendiendo-namespaces-en-python/)
 - [Creando MCP tools dinámicamente con compile&lpar;&rpar; y exec&lpar;&rpar;](https://electrocucaracha.com/2025/06/15/generacion-dinamica-mcp-tools-python/)
 - [Python Type Hints: Qué son, para qué sirven y cómo usarlos](https://electrocucaracha.com/2025/06/08/python-type-hints/)
 - [Gestión de proyectos de Python con `uv`](https://electrocucaracha.com/2025/05/26/gestion-de-proyectos-de-python-con-uv/)
-- [Container Networks – CNI &lpar;Kubernetes&rpar;](https://electrocucaracha.com/2021/07/05/container-networks-cni/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
