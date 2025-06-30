@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#600](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/600#issuecomment-3006508552) in [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
-2. 🗣 Commented on [#51369](https://github.com/kubernetes/website/pull/51369#issuecomment-3002290448) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#236](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/236) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🗣 Commented on [#212](https://github.com/cncf/tag-runtime/issues/212#issuecomment-2998706864) in [cncf/tag-runtime](https://github.com/cncf/tag-runtime)
-5. ❌ Closed PR [#230](https://github.com/electrocucaracha/krd/pull/230) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🎉 Merged PR [#148](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/148) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🗣 Commented on [#600](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/600#issuecomment-3006508552) in [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
+3. 🗣 Commented on [#51369](https://github.com/kubernetes/website/pull/51369#issuecomment-3002290448) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🎉 Merged PR [#236](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/236) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🗣 Commented on [#212](https://github.com/cncf/tag-runtime/issues/212#issuecomment-2998706864) in [cncf/tag-runtime](https://github.com/cncf/tag-runtime)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
