@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/63) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
-2. 🎉 Merged PR [#256](https://github.com/electrocucaracha/openstack-multinode/pull/256) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🎉 Merged PR [#31](https://github.com/electrocucaracha/k8s-KPT-demo/pull/31) in [electrocucaracha/k8s-KPT-demo](https://github.com/electrocucaracha/k8s-KPT-demo)
-4. 🎉 Merged PR [#80](https://github.com/electrocucaracha/nephioadm/pull/80) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
-5. 🎉 Merged PR [#38](https://github.com/electrocucaracha/free5gc-poc/pull/38) in [electrocucaracha/free5gc-poc](https://github.com/electrocucaracha/free5gc-poc)
+1. 🎉 Merged PR [#231](https://github.com/electrocucaracha/krd/pull/231) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🎉 Merged PR [#63](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/63) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+3. 🎉 Merged PR [#256](https://github.com/electrocucaracha/openstack-multinode/pull/256) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. 🎉 Merged PR [#31](https://github.com/electrocucaracha/k8s-KPT-demo/pull/31) in [electrocucaracha/k8s-KPT-demo](https://github.com/electrocucaracha/k8s-KPT-demo)
+5. 🎉 Merged PR [#80](https://github.com/electrocucaracha/nephioadm/pull/80) in [electrocucaracha/nephioadm](https://github.com/electrocucaracha/nephioadm)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
