@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/electrocucaracha/lint-devstack/pull/51) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
-2. 🎉 Merged PR [#258](https://github.com/electrocucaracha/openstack-multinode/pull/258) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🎉 Merged PR [#149](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/149) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-4. 🎉 Merged PR [#32](https://github.com/electrocucaracha/electrocucaracha/pull/32) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-5. 🎉 Merged PR [#231](https://github.com/electrocucaracha/krd/pull/231) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. ❌ Closed PR [#27](https://github.com/electrocucaracha/k8s-WASM-demo/pull/27) in [electrocucaracha/k8s-WASM-demo](https://github.com/electrocucaracha/k8s-WASM-demo)
+2. ❌ Closed PR [#150](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/150) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+3. 🎉 Merged PR [#51](https://github.com/electrocucaracha/lint-devstack/pull/51) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+4. 🎉 Merged PR [#258](https://github.com/electrocucaracha/openstack-multinode/pull/258) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. 🎉 Merged PR [#149](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/149) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
