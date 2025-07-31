@@ -65,11 +65,11 @@ I am dedicated to advancing industry standards and fostering growth.
 <!-- prettier-ignore-start -->
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo utilizar el operador Walrus?](https://electrocucaracha.com/2025/07/30/operador-walrus-python/)
 - [Distribución de paquetes Python con build y twine](https://electrocucaracha.com/2025/07/11/distribucion-paquetes-python-build-twine/)
 - [¿Cómo crear aplicaciones Python portables con PEX?](https://electrocucaracha.com/2025/07/05/crear-aplicaciones-python-portables-pex/)
 - [Patrón Singleton en Go: Implementación fácil con sync.Once](https://electrocucaracha.com/2025/06/28/patron-singleton-en-go-como-implementar-sync-once/)
 - [Entendiendo los Namespaces en Python de manera práctica](https://electrocucaracha.com/2025/06/21/entendiendo-namespaces-en-python/)
-- [Creando MCP tools dinámicamente con compile&lpar;&rpar; y exec&lpar;&rpar;](https://electrocucaracha.com/2025/06/15/generacion-dinamica-mcp-tools-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
