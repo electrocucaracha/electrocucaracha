@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/electrocucaracha/vFW-demo/pull/36) in [electrocucaracha/vFW-demo](https://github.com/electrocucaracha/vFW-demo)
-2. 🗣 Commented on [#51767](https://github.com/kubernetes/website/pull/51767#issuecomment-3152212828) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🎉 Merged PR [#1](https://github.com/electrocucaracha/mcp-website-fetcher/pull/1) in [electrocucaracha/mcp-website-fetcher](https://github.com/electrocucaracha/mcp-website-fetcher)
-4. ❌ Closed PR [#259](https://github.com/electrocucaracha/openstack-multinode/pull/259) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. 🗣 Commented on [#259](https://github.com/electrocucaracha/openstack-multinode/pull/259#issuecomment-3113515885) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🎉 Merged PR [#26](https://github.com/electrocucaracha/cFW-demo/pull/26) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
+2. 🎉 Merged PR [#32](https://github.com/electrocucaracha/electrocucaracha.github.io/pull/32) in [electrocucaracha/electrocucaracha.github.io](https://github.com/electrocucaracha/electrocucaracha.github.io)
+3. 🎉 Merged PR [#36](https://github.com/electrocucaracha/vFW-demo/pull/36) in [electrocucaracha/vFW-demo](https://github.com/electrocucaracha/vFW-demo)
+4. 🗣 Commented on [#51767](https://github.com/kubernetes/website/pull/51767#issuecomment-3152212828) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🎉 Merged PR [#1](https://github.com/electrocucaracha/mcp-website-fetcher/pull/1) in [electrocucaracha/mcp-website-fetcher](https://github.com/electrocucaracha/mcp-website-fetcher)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
