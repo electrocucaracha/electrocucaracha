@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/electrocucaracha/cFW-demo/pull/26) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
-2. 🎉 Merged PR [#32](https://github.com/electrocucaracha/electrocucaracha.github.io/pull/32) in [electrocucaracha/electrocucaracha.github.io](https://github.com/electrocucaracha/electrocucaracha.github.io)
-3. 🎉 Merged PR [#36](https://github.com/electrocucaracha/vFW-demo/pull/36) in [electrocucaracha/vFW-demo](https://github.com/electrocucaracha/vFW-demo)
-4. 🗣 Commented on [#51767](https://github.com/kubernetes/website/pull/51767#issuecomment-3152212828) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🎉 Merged PR [#1](https://github.com/electrocucaracha/mcp-website-fetcher/pull/1) in [electrocucaracha/mcp-website-fetcher](https://github.com/electrocucaracha/mcp-website-fetcher)
+1. ❌ Closed PR [#238](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/238) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. ❌ Closed PR [#237](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/237) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. 🎉 Merged PR [#233](https://github.com/electrocucaracha/krd/pull/233) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. ❌ Closed PR [#232](https://github.com/electrocucaracha/krd/pull/232) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🗣 Commented on [#232](https://github.com/electrocucaracha/krd/pull/232#issuecomment-3182049866) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
