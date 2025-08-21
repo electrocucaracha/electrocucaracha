@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#149](https://github.com/cncf/memorials/pull/149) in [cncf/memorials](https://github.com/cncf/memorials)
-2. ❌ Closed PR [#238](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/238) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. ❌ Closed PR [#237](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/237) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🎉 Merged PR [#233](https://github.com/electrocucaracha/krd/pull/233) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. ❌ Closed PR [#232](https://github.com/electrocucaracha/krd/pull/232) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. ❌ Closed PR [#264](https://github.com/electrocucaracha/openstack-multinode/pull/264) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. 💪 Opened PR [#149](https://github.com/cncf/memorials/pull/149) in [cncf/memorials](https://github.com/cncf/memorials)
+3. ❌ Closed PR [#238](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/238) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. ❌ Closed PR [#237](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/237) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. 🎉 Merged PR [#233](https://github.com/electrocucaracha/krd/pull/233) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
