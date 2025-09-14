@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/electrocucaracha/electrocucaracha/pull/34) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-2. ❌ Closed PR [#264](https://github.com/electrocucaracha/openstack-multinode/pull/264) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 💪 Opened PR [#149](https://github.com/cncf/memorials/pull/149) in [cncf/memorials](https://github.com/cncf/memorials)
-4. ❌ Closed PR [#238](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/238) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. ❌ Closed PR [#237](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/237) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 🗣 Commented on [#52337](https://github.com/kubernetes/website/pull/52337#issuecomment-3287402311) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#52195](https://github.com/kubernetes/website/pull/52195#issuecomment-3263893995) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🎉 Merged PR [#239](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/239) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🎉 Merged PR [#79](https://github.com/electrocucaracha/nephio-lab/pull/79) in [electrocucaracha/nephio-lab](https://github.com/electrocucaracha/nephio-lab)
+5. 💪 Opened PR [#82](https://github.com/continuedev/amplified.dev/pull/82) in [continuedev/amplified.dev](https://github.com/continuedev/amplified.dev)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
