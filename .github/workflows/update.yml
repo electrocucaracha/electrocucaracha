@@ -24,7 +24,7 @@ jobs:
         with:
           # Fine-grained PAT with contents:write and workflows:write scopes
           token: ${{ secrets.WORKFLOW_TOKEN }}
-          persist-credentials: false
+          persist-credentials: true
       - uses: technote-space/create-pr-action@91114507cf92349bec0a9a501c2edf1635427bc5 # 2.1.4
         with:
           EXECUTE_COMMANDS: |
