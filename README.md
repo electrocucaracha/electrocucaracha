@@ -75,9 +75,9 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/electrocucaracha/bootstrap-vagrant/pull/116) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-2. 🎉 Merged PR [#35](https://github.com/electrocucaracha/electrocucaracha/pull/35) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-3. 🎉 Merged PR [#64](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo/pull/64) in [electrocucaracha/k8s-HorizontalPodAutoscaler-demo](https://github.com/electrocucaracha/k8s-HorizontalPodAutoscaler-demo)
+1. ❌ Closed PR [#115](undefined) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+2. ❌ Closed PR [#268](undefined) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🔒 Closed issue [#4](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/4) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 4. ❌ Closed PR [#115](https://github.com/electrocucaracha/bootstrap-vagrant/pull/115) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
 5. 🎉 Merged PR [#271](https://github.com/electrocucaracha/openstack-multinode/pull/271) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
