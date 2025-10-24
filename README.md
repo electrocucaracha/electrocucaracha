@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1649](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/1649#issuecomment-3433951221) in [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
-2. ❌ Closed PR [#274](undefined) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🗣 Commented on [#274](https://github.com/electrocucaracha/openstack-multinode/pull/274#issuecomment-3419158160) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. ❌ Closed PR [#34](undefined) in [electrocucaracha/k8s-WASM-demo](https://github.com/electrocucaracha/k8s-WASM-demo)
-5. ❌ Closed PR [#36](undefined) in [electrocucaracha/k8s-WASM-demo](https://github.com/electrocucaracha/k8s-WASM-demo)
+1. 🗣 Commented on [#52729](https://github.com/kubernetes/website/pull/52729#issuecomment-3438329078) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#52737](https://github.com/kubernetes/website/pull/52737#issuecomment-3438308053) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#52870](https://github.com/kubernetes/website/pull/52870#issuecomment-3438300988) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#1649](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/1649#issuecomment-3438154454) in [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
+5. 🗣 Commented on [#1649](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/1649#issuecomment-3433951221) in [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
