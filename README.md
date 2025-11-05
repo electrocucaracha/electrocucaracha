@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52597](https://github.com/kubernetes/website/pull/52597#issuecomment-3469649979) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🔒 Closed issue [#9](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/9) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🔒 Closed issue [#8](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/8) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. ❌ Closed PR [#7](undefined) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🔒 Closed issue [#6](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/6) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🗣 Commented on [#3](https://github.com/Agent-Card/ai-card/issues/3#issuecomment-3488760491) in [Agent-Card/ai-card](https://github.com/Agent-Card/ai-card)
+2. 🗣 Commented on [#52597](https://github.com/kubernetes/website/pull/52597#issuecomment-3469649979) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🔒 Closed issue [#9](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/9) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🔒 Closed issue [#8](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/8) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. ❌ Closed PR [#7](undefined) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
