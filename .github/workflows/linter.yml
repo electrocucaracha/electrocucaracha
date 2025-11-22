@@ -19,7 +19,7 @@ jobs:
     permissions:
       contents: read
     steps:
-      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # 5.0.1
+      - uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # 6.0.0
         with:
           persist-credentials: false
       - uses: super-linter/super-linter@2bdd90ed3262e023ac84bf8fe35dc480721fc1f2 # 8.2.1
