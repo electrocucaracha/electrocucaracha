@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#55](undefined) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
-2. ❌ Closed PR [#54](undefined) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
-3. ❌ Closed PR [#238](undefined) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-4. 🗣 Commented on [#238](https://github.com/electrocucaracha/krd/pull/238#issuecomment-3578766824) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🗣 Commented on [#662](https://github.com/cncf/kubernetes-community-days/issues/662#issuecomment-3576498565) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+1. 🗣 Commented on [#53479](https://github.com/kubernetes/website/pull/53479#issuecomment-3590124790) in [kubernetes/website](https://github.com/kubernetes/website)
+2. ❌ Closed PR [#55](undefined) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+3. ❌ Closed PR [#54](undefined) in [electrocucaracha/lint-devstack](https://github.com/electrocucaracha/lint-devstack)
+4. ❌ Closed PR [#238](undefined) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. 🗣 Commented on [#238](https://github.com/electrocucaracha/krd/pull/238#issuecomment-3578766824) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
