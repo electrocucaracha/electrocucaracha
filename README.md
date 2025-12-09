@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/13) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. ❌ Closed PR [#11](undefined) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🔒 Closed issue [#12](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/12) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🔒 Closed issue [#10](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/10) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🗣 Commented on [#53479](https://github.com/kubernetes/website/pull/53479#issuecomment-3590124790) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 💪 Opened PR [#2](undefined) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+2. 🔒 Closed issue [#13](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/13) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3. ❌ Closed PR [#11](undefined) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🔒 Closed issue [#12](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/12) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🔒 Closed issue [#10](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/10) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
