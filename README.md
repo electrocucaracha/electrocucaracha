@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#662](https://github.com/cncf/kubernetes-community-days/issues/662#issuecomment-3633372632) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
-2. 💪 Opened PR [#2](undefined) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-3. 🔒 Closed issue [#13](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/13) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. ❌ Closed PR [#11](undefined) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🔒 Closed issue [#12](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/12) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🔒 Closed issue [#1](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/1) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+2. ❌ Merged PR [#2](undefined) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+3. 🗣 Commented on [#662](https://github.com/cncf/kubernetes-community-days/issues/662#issuecomment-3633372632) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+4. 💪 Opened PR [#2](undefined) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+5. 🔒 Closed issue [#13](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/13) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
