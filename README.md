@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53622](https://github.com/kubernetes/website/pull/53622#issuecomment-3652398606) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🔒 Closed issue [#1](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/1) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-3. ❌ Merged PR [#2](undefined) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-4. 🗣 Commented on [#662](https://github.com/cncf/kubernetes-community-days/issues/662#issuecomment-3633372632) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
-5. 💪 Opened PR [#2](undefined) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+1.  Assigned issue [#662](https://github.com/cncf/kubernetes-community-days/issues/662) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+2. 🗣 Commented on [#53622](https://github.com/kubernetes/website/pull/53622#issuecomment-3652398606) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🔒 Closed issue [#1](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/1) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+4. ❌ Merged PR [#2](undefined) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+5. 🗣 Commented on [#662](https://github.com/cncf/kubernetes-community-days/issues/662#issuecomment-3633372632) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
