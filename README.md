@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/15) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2.  Assigned issue [#662](https://github.com/cncf/kubernetes-community-days/issues/662) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
-3. 🗣 Commented on [#53622](https://github.com/kubernetes/website/pull/53622#issuecomment-3652398606) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🔒 Closed issue [#1](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/1) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-5. ❌ Merged PR [#2](undefined) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+1. 🔒 Closed issue [#16](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/16) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+2. 🔒 Closed issue [#15](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/15) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3.  Assigned issue [#662](https://github.com/cncf/kubernetes-community-days/issues/662) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+4. 🗣 Commented on [#53622](https://github.com/kubernetes/website/pull/53622#issuecomment-3652398606) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🔒 Closed issue [#1](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/1) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
