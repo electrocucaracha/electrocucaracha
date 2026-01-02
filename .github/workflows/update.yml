@@ -41,7 +41,7 @@ jobs:
       - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # 6.0.1
         with:
           persist-credentials: true
-      - uses: jamesgeorge007/github-activity-readme@76c2edb75b4730534560edcd520b020c74203c22 # 0.4.5
+      - uses: jamesgeorge007/github-activity-readme@942b487072ebc6bd2121aaa2f94bbe36b1371c1f # 0.4.6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: gautamkrishnar/blog-post-workflow@6a6e64abd1f651445da8e59611d0ca0110979aa5 # 1.9.4
