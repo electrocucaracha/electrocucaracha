@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52729](https://github.com/kubernetes/website/pull/52729) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🔒 Closed issue [#25](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/25) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🔒 Closed issue [#24](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/24) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🔒 Closed issue [#23](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/23) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🔒 Closed issue [#22](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/22) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 💪 Opened PR [#1](https://github.com/eduardoSalazarCarrillo/KCD_Mexico_Universidades/pull/1) in [eduardoSalazarCarrillo/KCD_Mexico_Universidades](https://github.com/eduardoSalazarCarrillo/KCD_Mexico_Universidades)
+2. 🗣 Commented on [#662](https://github.com/cncf/kubernetes-community-days/issues/662#issuecomment-3770318255) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+3. 🎉 Merged PR [#52729](https://github.com/kubernetes/website/pull/52729) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🔒 Closed issue [#25](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/25) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🔒 Closed issue [#24](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/24) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
