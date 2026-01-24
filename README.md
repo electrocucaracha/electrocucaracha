@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#29](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/29) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. 🔒 Closed issue [#27](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/27) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🎉 Merged PR [#1](https://github.com/eduardoSalazarCarrillo/KCD_Mexico_Universidades/pull/1) in [eduardoSalazarCarrillo/KCD_Mexico_Universidades](https://github.com/eduardoSalazarCarrillo/KCD_Mexico_Universidades)
-4. 💪 Opened PR [#1](https://github.com/eduardoSalazarCarrillo/KCD_Mexico_Universidades/pull/1) in [eduardoSalazarCarrillo/KCD_Mexico_Universidades](https://github.com/eduardoSalazarCarrillo/KCD_Mexico_Universidades)
-5. 🗣 Commented on [#662](https://github.com/cncf/kubernetes-community-days/issues/662#issuecomment-3770318255) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+1. ❌ Closed PR [#245](https://github.com/electrocucaracha/krd/pull/245) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🔒 Closed issue [#33](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/33) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3. 🔒 Closed issue [#32](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/32) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🔒 Closed issue [#30](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/30) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🔒 Closed issue [#31](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/31) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
