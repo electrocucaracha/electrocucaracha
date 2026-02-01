@@ -65,11 +65,11 @@ I am dedicated to advancing industry standards and fostering growth.
 <!-- prettier-ignore-start -->
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps: el siguiente cuello de botella](https://electrocucaracha.com/2026/01/31/ia-en-devops/)
 - [Creación de un repositorio remoto de Vagrant Boxes privados](https://electrocucaracha.com/2025/10/12/repositorio-local-vagrant-boxes/)
 - [MCP: De SSE a Streamable HTTP — Limitaciones y beneficios](https://electrocucaracha.com/2025/09/27/mcp-streamable-http-vs-sse/)
 - [¿Cómo asegurar builds determinísticos, rápidos y seguros en Go?](https://electrocucaracha.com/2025/08/17/builds-deterministicos-go-goproxy/)
 - [¿Cómo funciona vars&lpar;&rpar; en Python? Explicación y ejemplos prácticos](https://electrocucaracha.com/2025/08/09/como-funciona-vars-en-python/)
-- [¿Cómo utilizar el operador Walrus?](https://electrocucaracha.com/2025/07/30/operador-walrus-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
