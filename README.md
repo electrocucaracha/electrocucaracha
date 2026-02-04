@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/cncf/communitygroups/issues/593#issuecomment-3836163260) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-2. ❌ Closed PR [#245](https://github.com/electrocucaracha/krd/pull/245) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-3. 🔒 Closed issue [#33](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/33) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🔒 Closed issue [#32](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/32) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🔒 Closed issue [#30](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/30) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🔒 Closed issue [#34](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/34) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+2. 🗣 Commented on [#593](https://github.com/cncf/communitygroups/issues/593#issuecomment-3836163260) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+3. ❌ Closed PR [#245](https://github.com/electrocucaracha/krd/pull/245) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. 🔒 Closed issue [#33](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/33) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🔒 Closed issue [#32](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/32) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
