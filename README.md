@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#155](https://github.com/electrocucaracha/k8s-Ingress-demo/issues/155) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
-2. 🔒 Closed issue [#34](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/34) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🗣 Commented on [#593](https://github.com/cncf/communitygroups/issues/593#issuecomment-3836163260) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-4. ❌ Closed PR [#245](https://github.com/electrocucaracha/krd/pull/245) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🔒 Closed issue [#33](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/33) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🔒 Closed issue [#158](https://github.com/electrocucaracha/k8s-Ingress-demo/issues/158) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+2. 🔒 Closed issue [#157](https://github.com/electrocucaracha/k8s-Ingress-demo/issues/157) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+3. 🔒 Closed issue [#156](https://github.com/electrocucaracha/k8s-Ingress-demo/issues/156) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+4. 🔒 Closed issue [#155](https://github.com/electrocucaracha/k8s-Ingress-demo/issues/155) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+5. 🔒 Closed issue [#34](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/34) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
