@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/39) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. 🔒 Closed issue [#1](https://github.com/electrocucaracha/yt-summarizer/issues/1) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-3. 🔒 Closed issue [#38](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/38) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🔒 Closed issue [#36](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/36) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🗣 Commented on [#37](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/37#issuecomment-3895319096) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🗣 Commented on [#54464](https://github.com/kubernetes/website/pull/54464#issuecomment-3973834876) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#54464](https://github.com/kubernetes/website/pull/54464#issuecomment-3973765960) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❌ Closed PR [#39](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/39) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🔒 Closed issue [#1](https://github.com/electrocucaracha/yt-summarizer/issues/1) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+5. 🔒 Closed issue [#38](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/38) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
