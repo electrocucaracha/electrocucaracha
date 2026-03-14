@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#285](https://github.com/electrocucaracha/openstack-multinode/pull/285) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. ❌ Closed PR [#286](https://github.com/electrocucaracha/openstack-multinode/pull/286) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. ❌ Closed PR [#284](https://github.com/electrocucaracha/openstack-multinode/pull/284) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. 🔒 Closed issue [#4](https://github.com/electrocucaracha/yt-summarizer/issues/4) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-5. ℹ️ Assigned issue [#4](https://github.com/electrocucaracha/yt-summarizer/issues/4) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+1. ℹ️ Assigned issue [#49](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/49) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+2. ℹ️ Assigned issue [#49](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/49) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3. 🔒 Closed issue [#46](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/46) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. ❌ Closed PR [#43](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/43) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🗣 Commented on [#43](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/43#issuecomment-4059090580) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
