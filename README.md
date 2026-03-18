@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#68](https://github.com/electrocucaracha/releng/pull/68) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-2. ❌ Closed PR [#82](https://github.com/electrocucaracha/releng/pull/82) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-3. ❌ Closed PR [#84](https://github.com/electrocucaracha/releng/pull/84) in [electrocucaracha/releng](https://github.com/electrocucaracha/releng)
-4. 🔒 Closed issue [#49](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/49) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🗣 Commented on [#50](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/50#issuecomment-4059383834) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🔒 Closed issue [#6](https://github.com/electrocucaracha/yt-summarizer/issues/6) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+2. 🗣 Commented on [#7](https://github.com/electrocucaracha/yt-summarizer/pull/7#issuecomment-4075982697) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+3. 🗣 Commented on [#7](https://github.com/electrocucaracha/yt-summarizer/pull/7#issuecomment-4075757871) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+4. ℹ️ Assigned issue [#6](https://github.com/electrocucaracha/yt-summarizer/issues/6) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+5. ℹ️ Assigned issue [#6](https://github.com/electrocucaracha/yt-summarizer/issues/6) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
