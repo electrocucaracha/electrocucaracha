@@ -75,10 +75,10 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/electrocucaracha/yt-summarizer/issues/6) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-2. 🗣 Commented on [#7](https://github.com/electrocucaracha/yt-summarizer/pull/7#issuecomment-4075982697) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-3. 🗣 Commented on [#7](https://github.com/electrocucaracha/yt-summarizer/pull/7#issuecomment-4075757871) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-4. ℹ️ Assigned issue [#6](https://github.com/electrocucaracha/yt-summarizer/issues/6) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+1. ❌ Closed PR [#245](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/245) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🔒 Closed issue [#6](https://github.com/electrocucaracha/yt-summarizer/issues/6) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+3. 🗣 Commented on [#7](https://github.com/electrocucaracha/yt-summarizer/pull/7#issuecomment-4075982697) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+4. 🗣 Commented on [#7](https://github.com/electrocucaracha/yt-summarizer/pull/7#issuecomment-4075757871) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
 5. ℹ️ Assigned issue [#6](https://github.com/electrocucaracha/yt-summarizer/issues/6) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
 <!--END_SECTION:activity-->
 
