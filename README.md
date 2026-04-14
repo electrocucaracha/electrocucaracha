@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#62](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/62) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. 🔒 Closed issue [#61](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/61) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🔒 Closed issue [#14](https://github.com/electrocucaracha/yt-summarizer/issues/14) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-4. 🔒 Closed issue [#6](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/6) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-5. 🗣 Commented on [#159](https://github.com/electrocucaracha/k8s-Ingress-demo/pull/159#issuecomment-4190091124) in [electrocucaracha/k8s-Ingress-demo](https://github.com/electrocucaracha/k8s-Ingress-demo)
+1. 🔒 Closed issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+2. ℹ️ Assigned issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+3. ℹ️ Assigned issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+4. 🔒 Closed issue [#16](https://github.com/electrocucaracha/yt-summarizer/issues/16) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+5. ℹ️ Assigned issue [#16](https://github.com/electrocucaracha/yt-summarizer/issues/16) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
