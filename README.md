@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-2. ℹ️ Assigned issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+1. 🔒 Closed issue [#20](https://github.com/electrocucaracha/yt-summarizer/issues/20) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+2. 🔒 Closed issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
 3. ℹ️ Assigned issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-4. 🔒 Closed issue [#16](https://github.com/electrocucaracha/yt-summarizer/issues/16) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-5. ℹ️ Assigned issue [#16](https://github.com/electrocucaracha/yt-summarizer/issues/16) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+4. ℹ️ Assigned issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+5. 🔒 Closed issue [#16](https://github.com/electrocucaracha/yt-summarizer/issues/16) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
