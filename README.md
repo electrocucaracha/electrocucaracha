@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#252](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/252) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🔒 Closed issue [#20](https://github.com/electrocucaracha/yt-summarizer/issues/20) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-3. 🔒 Closed issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-4. ℹ️ Assigned issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-5. ℹ️ Assigned issue [#18](https://github.com/electrocucaracha/yt-summarizer/issues/18) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+1. 🗣 Commented on [#38](https://github.com/electrocucaracha/cFW-demo/pull/38#issuecomment-4317524611) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
+2. 🔒 Closed issue [#130](https://github.com/electrocucaracha/bootstrap-vagrant/issues/130) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+3. 🎉 Merged PR [#129](https://github.com/electrocucaracha/bootstrap-vagrant/pull/129) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+4. 🗣 Commented on [#129](https://github.com/electrocucaracha/bootstrap-vagrant/pull/129#issuecomment-4317333704) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
+5. 🎉 Merged PR [#87](https://github.com/electrocucaracha/bmaas/pull/87) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
