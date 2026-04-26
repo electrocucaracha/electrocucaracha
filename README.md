@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/electrocucaracha/cFW-demo/pull/38#issuecomment-4317524611) in [electrocucaracha/cFW-demo](https://github.com/electrocucaracha/cFW-demo)
-2. 🔒 Closed issue [#130](https://github.com/electrocucaracha/bootstrap-vagrant/issues/130) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-3. 🎉 Merged PR [#129](https://github.com/electrocucaracha/bootstrap-vagrant/pull/129) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-4. 🗣 Commented on [#129](https://github.com/electrocucaracha/bootstrap-vagrant/pull/129#issuecomment-4317333704) in [electrocucaracha/bootstrap-vagrant](https://github.com/electrocucaracha/bootstrap-vagrant)
-5. 🎉 Merged PR [#87](https://github.com/electrocucaracha/bmaas/pull/87) in [electrocucaracha/bmaas](https://github.com/electrocucaracha/bmaas)
+1. 🎉 Merged PR [#258](https://github.com/electrocucaracha/krd/pull/258) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. 🗣 Commented on [#258](https://github.com/electrocucaracha/krd/pull/258#issuecomment-4321078001) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 🗣 Commented on [#258](https://github.com/electrocucaracha/krd/pull/258#issuecomment-4320851348) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+4. ❌ Closed PR [#257](https://github.com/electrocucaracha/krd/pull/257) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. ❌ Closed PR [#256](https://github.com/electrocucaracha/krd/pull/256) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
