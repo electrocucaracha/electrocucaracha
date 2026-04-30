@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.0.3](https://github.com/electrocucaracha/packer-plugin-utm/releases/tag/v4.0.3) in [electrocucaracha/packer-plugin-utm](https://github.com/electrocucaracha/packer-plugin-utm)
-2. 🚀 Published release [v4.0.2](https://github.com/electrocucaracha/packer-plugin-utm/releases/tag/v4.0.2) in [electrocucaracha/packer-plugin-utm](https://github.com/electrocucaracha/packer-plugin-utm)
-3. 🚀 Published release [v4.0.1](https://github.com/electrocucaracha/packer-plugin-utm/releases/tag/v4.0.1) in [electrocucaracha/packer-plugin-utm](https://github.com/electrocucaracha/packer-plugin-utm)
-4. 🎉 Merged PR [#258](https://github.com/electrocucaracha/krd/pull/258) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🗣 Commented on [#258](https://github.com/electrocucaracha/krd/pull/258#issuecomment-4321078001) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. 🔒 Closed issue [#3](https://github.com/electrocucaracha/vagrant-boxes/issues/3) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+2. 🔒 Closed issue [#2](https://github.com/electrocucaracha/vagrant-boxes/issues/2) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+3. 🔒 Closed issue [#1](https://github.com/electrocucaracha/vagrant-boxes/issues/1) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+4. 🚀 Published release [v4.0.3](https://github.com/electrocucaracha/packer-plugin-utm/releases/tag/v4.0.3) in [electrocucaracha/packer-plugin-utm](https://github.com/electrocucaracha/packer-plugin-utm)
+5. 🚀 Published release [v4.0.2](https://github.com/electrocucaracha/packer-plugin-utm/releases/tag/v4.0.2) in [electrocucaracha/packer-plugin-utm](https://github.com/electrocucaracha/packer-plugin-utm)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
