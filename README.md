@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/electrocucaracha/ai-changelog/pull/7) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-2. 🗣 Commented on [#7](https://github.com/electrocucaracha/ai-changelog/pull/7#issuecomment-4364318670) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-3. 🔒 Closed issue [#10](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/10) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-4. ℹ️ Assigned issue [#10](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/10) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-5. ℹ️ Assigned issue [#10](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/10) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+1. 🗣 Commented on [#24](https://github.com/electrocucaracha/yt-summarizer/pull/24#issuecomment-4393272799) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+2. 🔒 Closed issue [#25](https://github.com/electrocucaracha/yt-summarizer/issues/25) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+3. 🗣 Commented on [#26](https://github.com/electrocucaracha/yt-summarizer/pull/26#issuecomment-4393137659) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+4. ℹ️ Assigned issue [#25](https://github.com/electrocucaracha/yt-summarizer/issues/25) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+5. ℹ️ Assigned issue [#25](https://github.com/electrocucaracha/yt-summarizer/issues/25) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
