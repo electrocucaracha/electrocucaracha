@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/electrocucaracha/vagrant-boxes/issues/12) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
-2. 🔒 Closed issue [#67](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/67) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🔒 Closed issue [#70](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/70) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🔒 Closed issue [#69](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/69) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🔒 Closed issue [#10](https://github.com/electrocucaracha/vagrant-boxes/issues/10) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+1. 🔒 Closed issue [#15](https://github.com/electrocucaracha/vagrant-boxes/issues/15) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+2. ℹ️ Assigned issue [#15](https://github.com/electrocucaracha/vagrant-boxes/issues/15) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+3. ℹ️ Assigned issue [#15](https://github.com/electrocucaracha/vagrant-boxes/issues/15) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+4. 🔒 Closed issue [#14](https://github.com/electrocucaracha/vagrant-boxes/issues/14) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+5. 🔒 Closed issue [#13](https://github.com/electrocucaracha/vagrant-boxes/issues/13) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
