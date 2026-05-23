@@ -75,11 +75,11 @@ I am dedicated to advancing industry standards and fostering growth.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/15) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-2. 🔒 Closed issue [#19](https://github.com/electrocucaracha/vagrant-boxes/issues/19) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
-3. 🔒 Closed issue [#17](https://github.com/electrocucaracha/vagrant-boxes/issues/17) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
-4. ℹ️ Assigned issue [#17](https://github.com/electrocucaracha/vagrant-boxes/issues/17) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
-5. ℹ️ Assigned issue [#17](https://github.com/electrocucaracha/vagrant-boxes/issues/17) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+1. 🎉 Merged PR [#1](https://github.com/opensource-latinamerica/k8s-learn/pull/1) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+2. 💪 Opened PR [#1](https://github.com/opensource-latinamerica/k8s-learn/pull/1) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+3. 🔒 Closed issue [#77](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/77) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🔒 Closed issue [#75](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/75) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🔒 Closed issue [#20](https://github.com/electrocucaracha/vagrant-boxes/issues/20) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
