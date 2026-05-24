@@ -8,6 +8,11 @@
 ##############################################################################
 
 DOCKER_CMD ?= $(shell which docker 2> /dev/null || which podman 2> /dev/null || echo docker)
+LOCAL_BIN ?= $(HOME)/.local/bin
+SHFMT_VERSION ?= v3.13.1
+YAMLFMT_VERSION ?= v0.21.0
+
+export PATH := $(LOCAL_BIN):$(PATH)
 
 .PHONY: lint
 lint:
@@ -21,9 +26,10 @@ lint:
 
 .PHONY: fmt
 fmt:
-	command -v shfmt > /dev/null || curl -s "https://i.jpillora.com/mvdan/sh!!?as=shfmt" | bash
+	mkdir -p $(LOCAL_BIN)
+	command -v shfmt > /dev/null || GOBIN=$(LOCAL_BIN) go install mvdan.cc/sh/v3/cmd/shfmt@$(SHFMT_VERSION)
 	shfmt -l -w -s  -i 4 .
-	command -v yamlfmt > /dev/null || curl -s "https://i.jpillora.com/google/yamlfmt!!" | bash
+	command -v yamlfmt > /dev/null || GOBIN=$(LOCAL_BIN) go install github.com/google/yamlfmt/cmd/yamlfmt@$(YAMLFMT_VERSION)
 	yamlfmt -dstar **/*.{yaml,yml}
 	npm list | grep -e prettier > /dev/null || npm install prettier
 	npx prettier . --write
