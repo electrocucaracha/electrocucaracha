@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54840](https://github.com/kubernetes/website/pull/54840#issuecomment-4526606283) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🎉 Merged PR [#1](https://github.com/opensource-latinamerica/k8s-learn/pull/1) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-3. 💪 Opened PR [#1](https://github.com/opensource-latinamerica/k8s-learn/pull/1) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-4. 🔒 Closed issue [#77](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/77) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🔒 Closed issue [#75](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/75) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🗣 Commented on [#55883](https://github.com/kubernetes/website/pull/55883#issuecomment-4530904594) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🔒 Closed issue [#45](https://github.com/electrocucaracha/electrocucaracha/issues/45) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+3. ℹ️ Assigned issue [#45](https://github.com/electrocucaracha/electrocucaracha/issues/45) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+4. ℹ️ Assigned issue [#45](https://github.com/electrocucaracha/electrocucaracha/issues/45) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+5. ❌ Closed PR [#44](https://github.com/electrocucaracha/electrocucaracha/pull/44) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
