@@ -64,6 +64,7 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- prettier-ignore-start -->
 
+<!-- textlint-disable terminology -->
 <!-- BLOG-POST-LIST:START -->
 - [¿Y si los servidores MCP pensaran como Sócrates?](https://electrocucaracha.com/2026/05/02/mcp-sampling-agentes-ia/)
 - [¿Cómo usar git-notes en git? Guía completa para desarrolladores](https://electrocucaracha.com/2026/03/15/como-usar-git-notes-en-git/)
@@ -71,9 +72,11 @@ I am dedicated to advancing industry standards and fostering growth.
 - [IA aplicada al linting: del reporte de problemas a las acciones ejecutables](https://electrocucaracha.com/2026/02/15/ia-para-transformar-resultados-linter/)
 - [DevOps: el siguiente cuello de botella](https://electrocucaracha.com/2026/01/31/ia-en-devops/)
 <!-- BLOG-POST-LIST:END -->
+<!-- textlint-enable terminology -->
 
 ## :zap: Recent Activity
 
+<!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#54840](https://github.com/kubernetes/website/pull/54840#issuecomment-4526606283) in [kubernetes/website](https://github.com/kubernetes/website)
 2. 🎉 Merged PR [#1](https://github.com/opensource-latinamerica/k8s-learn/pull/1) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
@@ -81,5 +84,6 @@ I am dedicated to advancing industry standards and fostering growth.
 4. 🔒 Closed issue [#77](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/77) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 5. 🔒 Closed issue [#75](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/75) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
+<!-- textlint-enable terminology -->
 
 <!-- prettier-ignore-end -->
