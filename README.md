@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55907](https://github.com/kubernetes/website/pull/55907#issuecomment-4587686100) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#55906](https://github.com/kubernetes/website/pull/55906#issuecomment-4585149581) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🔒 Closed issue [#81](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/81) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🔒 Closed issue [#78](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/78) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🗣 Commented on [#80](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/80#issuecomment-4568028503) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🔒 Closed issue [#86](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/86) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+2. 🔒 Closed issue [#84](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/84) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3. ❌ Closed PR [#83](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/83) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🗣 Commented on [#55907](https://github.com/kubernetes/website/pull/55907#issuecomment-4587686100) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#55906](https://github.com/kubernetes/website/pull/55906#issuecomment-4585149581) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
