@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/19) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-2. 🔒 Closed issue [#88](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/88) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. ℹ️ Assigned issue [#19](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/19) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-4. ℹ️ Assigned issue [#19](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/19) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-5. 🔒 Closed issue [#86](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/86) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 💪 Opened PR [#2](https://github.com/opensource-latinamerica/k8s-learn/pull/2) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+2. 🔒 Closed issue [#48](https://github.com/electrocucaracha/electrocucaracha/issues/48) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+3. ❌ Closed PR [#47](https://github.com/electrocucaracha/electrocucaracha/pull/47) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+4. 🔒 Closed issue [#19](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/19) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+5. 🔒 Closed issue [#88](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/88) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
