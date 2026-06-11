@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/opensource-latinamerica/k8s-learn/pull/2) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-2. 🔒 Closed issue [#48](https://github.com/electrocucaracha/electrocucaracha/issues/48) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-3. ❌ Closed PR [#47](https://github.com/electrocucaracha/electrocucaracha/pull/47) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-4. 🔒 Closed issue [#19](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/19) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-5. 🔒 Closed issue [#88](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/88) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🔒 Closed issue [#260](https://github.com/electrocucaracha/krd/issues/260) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+2. ❌ Closed PR [#259](https://github.com/electrocucaracha/krd/pull/259) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+3. 💪 Opened PR [#2](https://github.com/opensource-latinamerica/k8s-learn/pull/2) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+4. 🔒 Closed issue [#48](https://github.com/electrocucaracha/electrocucaracha/issues/48) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+5. ❌ Closed PR [#47](https://github.com/electrocucaracha/electrocucaracha/pull/47) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
