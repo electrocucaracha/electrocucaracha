@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#93](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/93) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. 🔒 Closed issue [#97](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/97) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🔒 Closed issue [#96](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/96) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🗣 Commented on [#56182](https://github.com/kubernetes/website/pull/56182#issuecomment-4752719862) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 💪 Opened PR [#5](https://github.com/opensource-latinamerica/k8s-learn/pull/5) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+1. 💪 Opened PR [#6](https://github.com/opensource-latinamerica/k8s-learn/pull/6) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+2. ❌ Closed PR [#93](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/93) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3. 🔒 Closed issue [#97](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/97) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🔒 Closed issue [#96](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/96) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🗣 Commented on [#56182](https://github.com/kubernetes/website/pull/56182#issuecomment-4752719862) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
