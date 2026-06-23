@@ -24,14 +24,14 @@ jobs:
       pull-requests: write
       statuses: write
     steps:
-      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # 6.0.3
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         with:
           fetch-depth: 0
           persist-credentials: false
       - name: Run super-linter validation
         id: linter-validation
         # yamllint disable rule:line-length
-        uses: super-linter/super-linter@4ce20838b8ab83717e78138c5b3a1407148e0918 # 8.7.0
+        uses: super-linter/super-linter@4ce20838b8ab83717e78138c5b3a1407148e0918 # v8.7.0
         # yamllint enable rule:line-length
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
@@ -42,7 +42,7 @@ jobs:
       - name: Upload linter logs
         if: failure()
         id: upload-linter-logs
-        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # 7.0.1
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         with:
           name: super-linter-logs
           path: ./super-linter-output/
@@ -178,7 +178,7 @@ jobs:
           } >> "$GITHUB_OUTPUT"
       - name: AI Linter Analysis
         if: failure()
-        uses: actions/ai-inference@a7805884c80886efc241e94a5351df715968a0ad # 2.1.1
+        uses: actions/ai-inference@a7805884c80886efc241e94a5351df715968a0ad # v2.1.1
         id: ai-linter-analysis
         with:
           enable-github-mcp: true
@@ -261,7 +261,7 @@ jobs:
           } >> "$GITHUB_OUTPUT"
         # jscpd:ignore-end
       # yamllint disable rule:line-length
-      - uses: jayqi/failed-build-issue-action@1a893bbf43ef1c2a8705e2b115cd4f0fe3c5649b # 1.2.0
+      - uses: jayqi/failed-build-issue-action@1a893bbf43ef1c2a8705e2b115cd4f0fe3c5649b # v1.2.0
         # yamllint enable rule:line-length
         if: failure()
         with:
