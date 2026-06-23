@@ -1,4 +1,7 @@
 {
+  "files": {
+    "includes": ["**", "!github-metrics.svg"]
+  },
   "formatter": {
     "indentStyle": "space"
   }
