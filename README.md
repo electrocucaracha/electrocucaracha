@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#307](https://github.com/electrocucaracha/openstack-multinode/pull/307) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. ❌ Closed PR [#313](https://github.com/electrocucaracha/openstack-multinode/pull/313) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. ❌ Closed PR [#310](https://github.com/electrocucaracha/openstack-multinode/pull/310) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. ❌ Closed PR [#306](https://github.com/electrocucaracha/openstack-multinode/pull/306) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. ❌ Closed PR [#305](https://github.com/electrocucaracha/openstack-multinode/pull/305) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. 🔒 Closed issue [#51](https://github.com/electrocucaracha/electrocucaracha/issues/51) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+2. 🔒 Closed issue [#288](https://github.com/electrocucaracha/openstack-multinode/issues/288) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. 🔒 Closed issue [#100](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/100) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🔒 Closed issue [#98](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/98) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. ❌ Closed PR [#317](https://github.com/electrocucaracha/openstack-multinode/pull/317) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
