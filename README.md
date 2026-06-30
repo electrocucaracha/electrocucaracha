@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#309](https://github.com/electrocucaracha/openstack-multinode/pull/309) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-2. ❌ Closed PR [#312](https://github.com/electrocucaracha/openstack-multinode/pull/312) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. ❌ Closed PR [#304](https://github.com/electrocucaracha/openstack-multinode/pull/304) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-4. ❌ Closed PR [#301](https://github.com/electrocucaracha/openstack-multinode/pull/301) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. ❌ Closed PR [#49](https://github.com/electrocucaracha/electrocucaracha/pull/49) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+1. 🔒 Closed issue [#314](https://github.com/electrocucaracha/openstack-multinode/issues/314) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+2. ❌ Closed PR [#309](https://github.com/electrocucaracha/openstack-multinode/pull/309) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+3. ❌ Closed PR [#312](https://github.com/electrocucaracha/openstack-multinode/pull/312) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+4. ❌ Closed PR [#304](https://github.com/electrocucaracha/openstack-multinode/pull/304) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+5. ❌ Closed PR [#301](https://github.com/electrocucaracha/openstack-multinode/pull/301) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
