@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#106](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/106) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. ❌ Closed PR [#101](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/101) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. ℹ️ Labeled PR [#8](https://github.com/opensource-latinamerica/k8s-learn/pull/8) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-4. 💪 Opened PR [#8](https://github.com/opensource-latinamerica/k8s-learn/pull/8) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-5. 🔒 Closed issue [#105](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/105) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🔒 Closed issue [#7](https://github.com/opensource-latinamerica/k8s-learn/issues/7) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+2. 🎉 Merged PR [#8](https://github.com/opensource-latinamerica/k8s-learn/pull/8) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+3. 🔒 Closed issue [#106](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/106) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. ❌ Closed PR [#101](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/101) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. ℹ️ Labeled PR [#8](https://github.com/opensource-latinamerica/k8s-learn/pull/8) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
