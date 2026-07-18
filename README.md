@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#56](https://github.com/electrocucaracha/electrocucaracha/issues/56) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-2. 🔒 Closed issue [#54](https://github.com/electrocucaracha/electrocucaracha/issues/54) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-3. 🔒 Closed issue [#7](https://github.com/opensource-latinamerica/k8s-learn/issues/7) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-4. 🎉 Merged PR [#8](https://github.com/opensource-latinamerica/k8s-learn/pull/8) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-5. 🔒 Closed issue [#106](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/106) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. ❌ Closed PR [#107](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/107) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+2. 🔒 Closed issue [#56](https://github.com/electrocucaracha/electrocucaracha/issues/56) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+3. 🔒 Closed issue [#54](https://github.com/electrocucaracha/electrocucaracha/issues/54) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+4. 🔒 Closed issue [#7](https://github.com/opensource-latinamerica/k8s-learn/issues/7) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+5. 🎉 Merged PR [#8](https://github.com/opensource-latinamerica/k8s-learn/pull/8) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
