@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#107](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/107) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. 🔒 Closed issue [#56](https://github.com/electrocucaracha/electrocucaracha/issues/56) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-3. 🔒 Closed issue [#54](https://github.com/electrocucaracha/electrocucaracha/issues/54) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-4. 🔒 Closed issue [#7](https://github.com/opensource-latinamerica/k8s-learn/issues/7) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-5. 🎉 Merged PR [#8](https://github.com/opensource-latinamerica/k8s-learn/pull/8) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+1. 💪 Opened PR [#10](https://github.com/opensource-latinamerica/k8s-learn/pull/10) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+2. 💪 Opened PR [#9](https://github.com/opensource-latinamerica/k8s-learn/pull/9) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+3. ❌ Closed PR [#107](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/107) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🔒 Closed issue [#56](https://github.com/electrocucaracha/electrocucaracha/issues/56) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+5. 🔒 Closed issue [#54](https://github.com/electrocucaracha/electrocucaracha/issues/54) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
