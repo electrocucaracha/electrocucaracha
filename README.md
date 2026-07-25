@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#57](https://github.com/electrocucaracha/electrocucaracha/issues/57) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-2. 💪 Opened PR [#10](https://github.com/opensource-latinamerica/k8s-learn/pull/10) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-3. 💪 Opened PR [#9](https://github.com/opensource-latinamerica/k8s-learn/pull/9) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-4. ❌ Closed PR [#107](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/107) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🔒 Closed issue [#56](https://github.com/electrocucaracha/electrocucaracha/issues/56) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+1. ❗ Opened issue [#11](https://github.com/opensource-latinamerica/k8s-learn/issues/11) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+2. 🔒 Closed issue [#21](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/21) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+3. 🔒 Closed issue [#58](https://github.com/electrocucaracha/electrocucaracha/issues/58) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+4. ❌ Closed PR [#108](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/108) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🔒 Closed issue [#111](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/111) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
