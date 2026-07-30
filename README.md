@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#9087](https://github.com/kubernetes/community/issues/9087) in [kubernetes/community](https://github.com/kubernetes/community)
-2. ℹ️ Labeled issue [#9087](https://github.com/kubernetes/community/issues/9087) in [kubernetes/community](https://github.com/kubernetes/community)
-3. ℹ️ Labeled issue [#9087](https://github.com/kubernetes/community/issues/9087) in [kubernetes/community](https://github.com/kubernetes/community)
-4. ❗ Opened issue [#9087](https://github.com/kubernetes/community/issues/9087) in [kubernetes/community](https://github.com/kubernetes/community)
-5. ❗ Opened issue [#11](https://github.com/opensource-latinamerica/k8s-learn/issues/11) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+1. ❗ Opened issue [#56667](https://github.com/kubernetes/website/issues/56667) in [kubernetes/website](https://github.com/kubernetes/website)
+2. ❗ Opened issue [#56666](https://github.com/kubernetes/website/issues/56666) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❗ Opened issue [#56665](https://github.com/kubernetes/website/issues/56665) in [kubernetes/website](https://github.com/kubernetes/website)
+4. ❗ Opened issue [#56664](https://github.com/kubernetes/website/issues/56664) in [kubernetes/website](https://github.com/kubernetes/website)
+5. ❗ Opened issue [#56663](https://github.com/kubernetes/website/issues/56663) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
