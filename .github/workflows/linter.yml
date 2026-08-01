@@ -38,7 +38,7 @@ jobs:
           LINTER_RULES_PATH: "/"
           SAVE_SUPER_LINTER_OUTPUT: "true"
           DEFAULT_BRANCH: "${{ github.head_ref || github.ref_name }}"
-          IGNORE_GITIGNORED_FILES: "true"
+          IGNORE_GITIGNORED_FILES: "false"
           VALIDATE_NATURAL_LANGUAGE: "false"
           VALIDATE_CHECKOV: "false"
           VALIDATE_PRE_COMMIT: "false"
@@ -263,21 +263,35 @@ jobs:
             printf "\n%s\n" "$DELIM"
           } >> "$GITHUB_OUTPUT"
         # jscpd:ignore-end
-      # yamllint disable rule:line-length
-      - uses: jayqi/failed-build-issue-action@1a893bbf43ef1c2a8705e2b115cd4f0fe3c5649b # v1.2.0
-        # yamllint enable rule:line-length
+      - name: Create failure issue
         if: failure()
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          title-template: >-
-            super-linter GitHub action has failed
-          label-name: super-linter-issue
-          body-template: |
-            The linter step has failed. Please check for new major versions
-            and update manually.
+        env:
+          API_URL: ${{ github.api_url }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+          AI_ANALYSIS: ${{ steps.get-analysis-output.outputs.response }}
+        run: |
+          issue_title="super-linter GitHub action has failed"
 
-            Please check workflow run `${{ github.run_id }}` for more
-            details.
+          issue_body=$(cat <<EOF
+          The linter step has failed. Please check for new major versions
+          and update manually.
 
-            ## AI Analysis of Linter Failures
-            ${{ steps.get-analysis-output.outputs.response }}
+          Please check workflow run \
+          \`${RUN_ID}\` for more details.
+
+          ## AI Analysis of Linter Failures
+          ${AI_ANALYSIS}
+          EOF
+          )
+
+          curl -fsSL -X POST \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            "${API_URL}/repos/${REPOSITORY}/issues" \
+            -d "$(jq -n \
+              --arg title "${issue_title}" \
+              --arg body "${issue_body}" \
+              --arg label "super-linter-issue" \
+              '{title: $title, body: $body, labels: [$label]}')"
