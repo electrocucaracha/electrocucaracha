@@ -21,6 +21,7 @@ lint:
 	-e LINTER_RULES_PATH=/ \
 	-e EDITORCONFIG_FILE_NAME=.editorconfig-checker.json \
 	-e VALIDATE_NATURAL_LANGUAGE=false \
+	-e VALIDATE_PRE_COMMIT=false \
 	-e VALIDATE_CHECKOV=false \
 	ghcr.io/super-linter/super-linter
 
