@@ -38,7 +38,6 @@ jobs:
           LINTER_RULES_PATH: "/"
           SAVE_SUPER_LINTER_OUTPUT: "true"
           DEFAULT_BRANCH: "${{ github.head_ref || github.ref_name }}"
-          IGNORE_GITIGNORED_FILES: "false"
           VALIDATE_NATURAL_LANGUAGE: "false"
           VALIDATE_CHECKOV: "false"
           VALIDATE_PRE_COMMIT: "false"
