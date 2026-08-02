@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#117](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/117) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. ❌ Closed PR [#112](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/112) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🔒 Closed issue [#116](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/116) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🔒 Closed issue [#115](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/115) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. ❌ Closed PR [#265](https://github.com/electrocucaracha/krd/pull/265) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+1. ❌ Closed PR [#257](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/257) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🔒 Closed issue [#60](https://github.com/electrocucaracha/electrocucaracha/issues/60) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+3. ❌ Closed PR [#59](https://github.com/electrocucaracha/electrocucaracha/pull/59) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+4. 🔒 Closed issue [#117](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/117) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. ❌ Closed PR [#112](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/112) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
