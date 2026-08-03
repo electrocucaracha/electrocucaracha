@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#257](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/257) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. 🔒 Closed issue [#60](https://github.com/electrocucaracha/electrocucaracha/issues/60) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-3. ❌ Closed PR [#59](https://github.com/electrocucaracha/electrocucaracha/pull/59) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-4. 🔒 Closed issue [#117](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/117) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. ❌ Closed PR [#112](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/112) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. ❌ Closed PR [#259](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/259) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. ❌ Closed PR [#258](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/258) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. ❌ Closed PR [#257](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/257) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🔒 Closed issue [#60](https://github.com/electrocucaracha/electrocucaracha/issues/60) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+5. ❌ Closed PR [#59](https://github.com/electrocucaracha/electrocucaracha/pull/59) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
