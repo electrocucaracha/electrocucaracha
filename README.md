@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#259](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/259) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-2. ❌ Closed PR [#258](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/258) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-3. ❌ Closed PR [#257](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/257) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-4. 🔒 Closed issue [#60](https://github.com/electrocucaracha/electrocucaracha/issues/60) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
-5. ❌ Closed PR [#59](https://github.com/electrocucaracha/electrocucaracha/pull/59) in [electrocucaracha/electrocucaracha](https://github.com/electrocucaracha/electrocucaracha)
+1. 🗣 Commented on [#55917](https://github.com/kubernetes/website/pull/55917#issuecomment-5171234478) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#56711](https://github.com/kubernetes/website/pull/56711#issuecomment-5171157708) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#56711](https://github.com/kubernetes/website/pull/56711#issuecomment-5169500854) in [kubernetes/website](https://github.com/kubernetes/website)
+4. ❌ Closed PR [#259](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/259) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+5. ❌ Closed PR [#258](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/258) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
