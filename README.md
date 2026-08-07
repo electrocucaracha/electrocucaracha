@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/electrocucaracha/ai-changelog/issues/10) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-2. ❌ Closed PR [#9](https://github.com/electrocucaracha/ai-changelog/pull/9) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-3. 🔒 Closed issue [#8](https://github.com/electrocucaracha/ai-changelog/issues/8) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-4. 🗣 Commented on [#56812](https://github.com/kubernetes/website/pull/56812#issuecomment-5193530020) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#56812](https://github.com/kubernetes/website/pull/56812#issuecomment-5193300406) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#56659](https://github.com/kubernetes/website/issues/56659#issuecomment-5208081751) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🔒 Closed issue [#25](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/25) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+3. 🔒 Closed issue [#24](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/24) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+4. 🔒 Closed issue [#23](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/23) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+5. 🔒 Closed issue [#56667](https://github.com/kubernetes/website/issues/56667) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
