@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56659](https://github.com/kubernetes/website/issues/56659#issuecomment-5208081751) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🔒 Closed issue [#25](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/25) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-3. 🔒 Closed issue [#24](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/24) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-4. 🔒 Closed issue [#23](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/23) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-5. 🔒 Closed issue [#56667](https://github.com/kubernetes/website/issues/56667) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🔒 Closed issue [#22](https://github.com/electrocucaracha/vagrant-boxes/issues/22) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+2. ❌ Closed PR [#24](https://github.com/electrocucaracha/vagrant-boxes/pull/24) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+3. ❌ Closed PR [#118](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/118) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. ❌ Closed PR [#23](https://github.com/electrocucaracha/vagrant-boxes/pull/23) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+5. 🔒 Closed issue [#121](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/121) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
