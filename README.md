@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/electrocucaracha/ai-changelog/issues/12) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-2. ❌ Closed PR [#13](https://github.com/electrocucaracha/ai-changelog/pull/13) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-3. 🔒 Closed issue [#122](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/122) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🔒 Closed issue [#22](https://github.com/electrocucaracha/vagrant-boxes/issues/22) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
-5. ❌ Closed PR [#24](https://github.com/electrocucaracha/vagrant-boxes/pull/24) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+1. 🔒 Closed issue [#15](https://github.com/electrocucaracha/ai-changelog/issues/15) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+2. 🔒 Closed issue [#14](https://github.com/electrocucaracha/ai-changelog/issues/14) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+3. 🔒 Closed issue [#12](https://github.com/electrocucaracha/ai-changelog/issues/12) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+4. ❌ Closed PR [#13](https://github.com/electrocucaracha/ai-changelog/pull/13) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+5. 🔒 Closed issue [#122](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/122) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
