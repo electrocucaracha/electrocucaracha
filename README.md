@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#123](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/123) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. 🔒 Closed issue [#26](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/26) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-3. 🔒 Closed issue [#18](https://github.com/electrocucaracha/ai-changelog/issues/18) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-4. ❌ Closed PR [#266](https://github.com/electrocucaracha/krd/pull/266) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
-5. 🔒 Closed issue [#17](https://github.com/electrocucaracha/ai-changelog/issues/17) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+1. ❌ Closed PR [#263](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/263) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+2. 🔒 Closed issue [#123](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/123) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3. 🔒 Closed issue [#26](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/26) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+4. 🔒 Closed issue [#18](https://github.com/electrocucaracha/ai-changelog/issues/18) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+5. ❌ Closed PR [#266](https://github.com/electrocucaracha/krd/pull/266) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
