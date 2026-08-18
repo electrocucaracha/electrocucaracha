@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56911](https://github.com/kubernetes/website/pull/56911#issuecomment-5300773176) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#56841](https://github.com/kubernetes/website/pull/56841#issuecomment-5300632006) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#56844](https://github.com/kubernetes/website/pull/56844#issuecomment-5300288980) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#56842](https://github.com/kubernetes/website/pull/56842#issuecomment-5300283320) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#56841](https://github.com/kubernetes/website/pull/56841#issuecomment-5300220442) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🔒 Closed issue [#129](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/129) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+2. 💪 Opened PR [#13](https://github.com/opensource-latinamerica/k8s-learn/pull/13) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+3. 🎉 Merged PR [#12](https://github.com/opensource-latinamerica/k8s-learn/pull/12) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+4. 🎉 Merged PR [#9](https://github.com/opensource-latinamerica/k8s-learn/pull/9) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+5. 🎉 Merged PR [#10](https://github.com/opensource-latinamerica/k8s-learn/pull/10) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
