@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#129](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/129) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-2. 💪 Opened PR [#13](https://github.com/opensource-latinamerica/k8s-learn/pull/13) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-3. 🎉 Merged PR [#12](https://github.com/opensource-latinamerica/k8s-learn/pull/12) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-4. 🎉 Merged PR [#9](https://github.com/opensource-latinamerica/k8s-learn/pull/9) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-5. 🎉 Merged PR [#10](https://github.com/opensource-latinamerica/k8s-learn/pull/10) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+1. ❌ Closed PR [#124](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/124) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+2. 🔒 Closed issue [#134](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/134) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3. 💪 Opened PR [#14](https://github.com/opensource-latinamerica/k8s-learn/pull/14) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+4. 🔒 Closed issue [#129](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/129) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 💪 Opened PR [#13](https://github.com/opensource-latinamerica/k8s-learn/pull/13) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
