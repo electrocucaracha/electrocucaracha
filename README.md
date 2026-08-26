@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#20](https://github.com/electrocucaracha/ai-changelog/issues/20) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-2. 🔒 Closed issue [#30](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/30) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-3. ❌ Closed PR [#29](https://github.com/electrocucaracha/ai-prepare-commit-msg/pull/29) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-4. 🔒 Closed issue [#28](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/28) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-5. 🔒 Closed issue [#19](https://github.com/electrocucaracha/ai-changelog/issues/19) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+1. 🔒 Closed issue [#21](https://github.com/electrocucaracha/ai-changelog/issues/21) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+2. 🔒 Closed issue [#20](https://github.com/electrocucaracha/ai-changelog/issues/20) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+3. 🔒 Closed issue [#30](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/30) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+4. ❌ Closed PR [#29](https://github.com/electrocucaracha/ai-prepare-commit-msg/pull/29) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+5. 🔒 Closed issue [#28](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/28) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
