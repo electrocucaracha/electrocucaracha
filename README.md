@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/electrocucaracha/vagrant-boxes/issues/25) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
-2. 🔒 Closed issue [#32](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/32) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-3. ❌ Closed PR [#137](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/137) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🗣 Commented on [#56918](https://github.com/kubernetes/website/pull/56918#issuecomment-5434030849) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🔒 Closed issue [#139](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/139) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🎉 Merged PR [#16](https://github.com/opensource-latinamerica/k8s-learn/pull/16) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+2. 🔒 Closed issue [#25](https://github.com/electrocucaracha/vagrant-boxes/issues/25) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+3. 🔒 Closed issue [#32](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/32) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+4. ❌ Closed PR [#137](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/137) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🗣 Commented on [#56918](https://github.com/kubernetes/website/pull/56918#issuecomment-5434030849) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
