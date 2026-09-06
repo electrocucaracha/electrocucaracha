@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/electrocucaracha/gh-workflows/issues/3) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
-2. 🔒 Closed issue [#2](https://github.com/electrocucaracha/gh-workflows/issues/2) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
-3. 🔒 Closed issue [#145](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/145) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🔒 Closed issue [#37](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/37) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
-5. 🔒 Closed issue [#36](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/36) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+1. 🔒 Closed issue [#5](https://github.com/electrocucaracha/gh-workflows/issues/5) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+2. 🔒 Closed issue [#4](https://github.com/electrocucaracha/gh-workflows/issues/4) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+3. 🔒 Closed issue [#40](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/40) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+4. 🔒 Closed issue [#38](https://github.com/electrocucaracha/ai-prepare-commit-msg/issues/38) in [electrocucaracha/ai-prepare-commit-msg](https://github.com/electrocucaracha/ai-prepare-commit-msg)
+5. 🔒 Closed issue [#3](https://github.com/electrocucaracha/gh-workflows/issues/3) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
