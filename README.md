@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57442](https://github.com/kubernetes/website/pull/57442#issuecomment-5642115856) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#57031](https://github.com/kubernetes/website/pull/57031#issuecomment-5642109168) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🔒 Closed issue [#22](https://github.com/electrocucaracha/ai-changelog/issues/22) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-4. 🗣 Commented on [#858](https://github.com/kubernetes/contributor-site/pull/858#issuecomment-5604869612) in [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site)
-5. 🗣 Commented on [#858](https://github.com/kubernetes/contributor-site/pull/858#issuecomment-5604732598) in [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site)
+1. 🔒 Closed issue [#30](https://github.com/electrocucaracha/yt-summarizer/issues/30) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+2. ❌ Closed PR [#265](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/265) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+3. ❌ Closed PR [#267](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/267) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+4. 🗣 Commented on [#57442](https://github.com/kubernetes/website/pull/57442#issuecomment-5642115856) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#57031](https://github.com/kubernetes/website/pull/57031#issuecomment-5642109168) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
