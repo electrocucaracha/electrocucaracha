@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/containers/buildah.io/issues/131#issuecomment-5667873315) in [containers/buildah.io](https://github.com/containers/buildah.io)
-2. 🗣 Commented on [#57442](https://github.com/kubernetes/website/pull/57442#issuecomment-5666651937) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🔒 Closed issue [#30](https://github.com/electrocucaracha/yt-summarizer/issues/30) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-4. ❌ Closed PR [#265](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/265) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
-5. ❌ Closed PR [#267](https://github.com/electrocucaracha/pkg-mgr_scripts/pull/267) in [electrocucaracha/pkg-mgr_scripts](https://github.com/electrocucaracha/pkg-mgr_scripts)
+1. 💪 Opened PR [#18](https://github.com/opensource-latinamerica/k8s-learn/pull/18) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+2. 🔒 Closed issue [#10](https://github.com/electrocucaracha/gh-workflows/issues/10) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+3. 🔒 Closed issue [#31](https://github.com/electrocucaracha/yt-summarizer/issues/31) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+4. ❌ Closed PR [#1](https://github.com/electrocucaracha/yt-conferences/pull/1) in [electrocucaracha/yt-conferences](https://github.com/electrocucaracha/yt-conferences)
+5. 🗣 Commented on [#131](https://github.com/containers/buildah.io/issues/131#issuecomment-5667873315) in [containers/buildah.io](https://github.com/containers/buildah.io)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
