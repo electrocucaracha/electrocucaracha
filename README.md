@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/opensource-latinamerica/k8s-learn/pull/18) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-2. 🔒 Closed issue [#10](https://github.com/electrocucaracha/gh-workflows/issues/10) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
-3. 🔒 Closed issue [#31](https://github.com/electrocucaracha/yt-summarizer/issues/31) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-4. ❌ Closed PR [#1](https://github.com/electrocucaracha/yt-conferences/pull/1) in [electrocucaracha/yt-conferences](https://github.com/electrocucaracha/yt-conferences)
-5. 🗣 Commented on [#131](https://github.com/containers/buildah.io/issues/131#issuecomment-5667873315) in [containers/buildah.io](https://github.com/containers/buildah.io)
+1. 🔒 Closed issue [#24](https://github.com/electrocucaracha/ai-changelog/issues/24) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+2. ❌ Closed PR [#25](https://github.com/electrocucaracha/ai-changelog/pull/25) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+3. ❌ Closed PR [#11](https://github.com/electrocucaracha/gh-workflows/pull/11) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+4. 💪 Opened PR [#18](https://github.com/opensource-latinamerica/k8s-learn/pull/18) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
+5. 🔒 Closed issue [#10](https://github.com/electrocucaracha/gh-workflows/issues/10) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
