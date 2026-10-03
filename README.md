@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#24](https://github.com/electrocucaracha/ai-changelog/issues/24) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-2. ❌ Closed PR [#25](https://github.com/electrocucaracha/ai-changelog/pull/25) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-3. ❌ Closed PR [#11](https://github.com/electrocucaracha/gh-workflows/pull/11) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
-4. 💪 Opened PR [#18](https://github.com/opensource-latinamerica/k8s-learn/pull/18) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
-5. 🔒 Closed issue [#10](https://github.com/electrocucaracha/gh-workflows/issues/10) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+1. ❌ Closed PR [#150](https://github.com/electrocucaracha/kubevirt-actions-runner/pull/150) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+2. 🔒 Closed issue [#24](https://github.com/electrocucaracha/ai-changelog/issues/24) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+3. ❌ Closed PR [#25](https://github.com/electrocucaracha/ai-changelog/pull/25) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+4. ❌ Closed PR [#11](https://github.com/electrocucaracha/gh-workflows/pull/11) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+5. 💪 Opened PR [#18](https://github.com/opensource-latinamerica/k8s-learn/pull/18) in [opensource-latinamerica/k8s-learn](https://github.com/opensource-latinamerica/k8s-learn)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
