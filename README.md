@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#26](https://github.com/electrocucaracha/vagrant-boxes/issues/26) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
-2. ❌ Closed PR [#336](https://github.com/electrocucaracha/openstack-multinode/pull/336) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-3. 🔒 Closed issue [#28](https://github.com/electrocucaracha/ai-changelog/issues/28) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-4. 🔒 Closed issue [#334](https://github.com/electrocucaracha/openstack-multinode/issues/334) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
-5. ❌ Closed PR [#335](https://github.com/electrocucaracha/openstack-multinode/pull/335) in [electrocucaracha/openstack-multinode](https://github.com/electrocucaracha/openstack-multinode)
+1. ❗ Opened issue [#58112](https://github.com/kubernetes/website/issues/58112) in [kubernetes/website](https://github.com/kubernetes/website)
+2. ❗ Opened issue [#58111](https://github.com/kubernetes/website/issues/58111) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❗ Opened issue [#58110](https://github.com/kubernetes/website/issues/58110) in [kubernetes/website](https://github.com/kubernetes/website)
+4. ❗ Opened issue [#58109](https://github.com/kubernetes/website/issues/58109) in [kubernetes/website](https://github.com/kubernetes/website)
+5. ❗ Opened issue [#58108](https://github.com/kubernetes/website/issues/58108) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
