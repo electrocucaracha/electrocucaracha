@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58109](https://github.com/kubernetes/website/issues/58109#issuecomment-6270530178) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#57529](https://github.com/kubernetes/website/pull/57529#issuecomment-6271185454) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#57529](https://github.com/kubernetes/website/pull/57529#issuecomment-6254790892) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#58111](https://github.com/kubernetes/website/issues/58111#issuecomment-6254739960) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#58114](https://github.com/kubernetes/website/pull/58114#issuecomment-6253735503) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#58154](https://github.com/kubernetes/website/pull/58154#issuecomment-6296705063) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#58122](https://github.com/kubernetes/website/pull/58122#issuecomment-6296458216) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#58121](https://github.com/kubernetes/website/pull/58121#issuecomment-6296449555) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#58175](https://github.com/kubernetes/website/pull/58175#issuecomment-6296336454) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#58130](https://github.com/kubernetes/website/pull/58130#issuecomment-6296636920) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
