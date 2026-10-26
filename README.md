@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58205](https://github.com/kubernetes/website/pull/58205#issuecomment-6391925737) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#58176](https://github.com/kubernetes/website/pull/58176#issuecomment-6350482681) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🔒 Closed issue [#29](https://github.com/electrocucaracha/ai-changelog/issues/29) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-4. 🗣 Commented on [#58245](https://github.com/kubernetes/website/pull/58245#issuecomment-6350411593) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#58154](https://github.com/kubernetes/website/pull/58154#issuecomment-6296705063) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#58343](https://github.com/kubernetes/website/pull/58343#issuecomment-6405055498) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#56016](https://github.com/kubernetes/website/pull/56016#issuecomment-6393991285) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#58205](https://github.com/kubernetes/website/pull/58205#issuecomment-6393781589) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🔒 Closed issue [#269](https://github.com/electrocucaracha/krd/issues/269) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
+5. ❌ Closed PR [#274](https://github.com/electrocucaracha/krd/pull/274) in [electrocucaracha/krd](https://github.com/electrocucaracha/krd)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
