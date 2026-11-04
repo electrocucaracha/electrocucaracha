@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#30](https://github.com/electrocucaracha/ai-changelog/issues/30) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-2. ❌ Closed PR [#31](https://github.com/electrocucaracha/ai-changelog/pull/31) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-3. ❌ Closed PR [#33](https://github.com/electrocucaracha/yt-summarizer/pull/33) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-4. 🗣 Commented on [#58375](https://github.com/kubernetes/website/pull/58375#issuecomment-6486166757) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#58342](https://github.com/kubernetes/website/pull/58342#issuecomment-6473101787) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🔒 Closed issue [#21](https://github.com/electrocucaracha/gh-workflows/issues/21) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+2. 🔒 Closed issue [#20](https://github.com/electrocucaracha/gh-workflows/issues/20) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+3. 🔒 Closed issue [#30](https://github.com/electrocucaracha/ai-changelog/issues/30) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+4. ❌ Closed PR [#31](https://github.com/electrocucaracha/ai-changelog/pull/31) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+5. ❌ Closed PR [#33](https://github.com/electrocucaracha/yt-summarizer/pull/33) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
