@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#21](https://github.com/electrocucaracha/gh-workflows/issues/21) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
-2. 🔒 Closed issue [#20](https://github.com/electrocucaracha/gh-workflows/issues/20) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
-3. 🔒 Closed issue [#30](https://github.com/electrocucaracha/ai-changelog/issues/30) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-4. ❌ Closed PR [#31](https://github.com/electrocucaracha/ai-changelog/pull/31) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
-5. ❌ Closed PR [#33](https://github.com/electrocucaracha/yt-summarizer/pull/33) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+1. 🔒 Closed issue [#155](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/155) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+2. 🔒 Closed issue [#154](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/154) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3. 🗣 Commented on [#155](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/155#issuecomment-6637081712) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+4. 🗣 Commented on [#154](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/154#issuecomment-6636427664) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+5. 🔒 Closed issue [#21](https://github.com/electrocucaracha/gh-workflows/issues/21) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
