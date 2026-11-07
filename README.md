@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/electrocucaracha/infra-lab/pull/1) in [electrocucaracha/infra-lab](https://github.com/electrocucaracha/infra-lab)
-2. 🔒 Closed issue [#155](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/155) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🔒 Closed issue [#154](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/154) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-4. 🗣 Commented on [#155](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/155#issuecomment-6637081712) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-5. 🗣 Commented on [#154](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/154#issuecomment-6636427664) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+1. 🔒 Closed issue [#6](https://github.com/electrocucaracha/yt-conferences/issues/6) in [electrocucaracha/yt-conferences](https://github.com/electrocucaracha/yt-conferences)
+2. 🔒 Closed issue [#32](https://github.com/electrocucaracha/yt-summarizer/issues/32) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+3. ❌ Closed PR [#4](https://github.com/electrocucaracha/gh-updater/pull/4) in [electrocucaracha/gh-updater](https://github.com/electrocucaracha/gh-updater)
+4. 🔒 Closed issue [#3](https://github.com/electrocucaracha/gh-updater/issues/3) in [electrocucaracha/gh-updater](https://github.com/electrocucaracha/gh-updater)
+5. ❌ Closed PR [#2](https://github.com/electrocucaracha/gh-updater/pull/2) in [electrocucaracha/gh-updater](https://github.com/electrocucaracha/gh-updater)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
