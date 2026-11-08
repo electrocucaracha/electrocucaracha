@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/electrocucaracha/yt-conferences/issues/6) in [electrocucaracha/yt-conferences](https://github.com/electrocucaracha/yt-conferences)
-2. 🔒 Closed issue [#32](https://github.com/electrocucaracha/yt-summarizer/issues/32) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-3. ❌ Closed PR [#4](https://github.com/electrocucaracha/gh-updater/pull/4) in [electrocucaracha/gh-updater](https://github.com/electrocucaracha/gh-updater)
-4. 🔒 Closed issue [#3](https://github.com/electrocucaracha/gh-updater/issues/3) in [electrocucaracha/gh-updater](https://github.com/electrocucaracha/gh-updater)
-5. ❌ Closed PR [#2](https://github.com/electrocucaracha/gh-updater/pull/2) in [electrocucaracha/gh-updater](https://github.com/electrocucaracha/gh-updater)
+1. 🔒 Closed issue [#36](https://github.com/electrocucaracha/yt-summarizer/issues/36) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+2. 🔒 Closed issue [#35](https://github.com/electrocucaracha/yt-summarizer/issues/35) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+3. 🔒 Closed issue [#6](https://github.com/electrocucaracha/yt-conferences/issues/6) in [electrocucaracha/yt-conferences](https://github.com/electrocucaracha/yt-conferences)
+4. 🔒 Closed issue [#32](https://github.com/electrocucaracha/yt-summarizer/issues/32) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+5. ❌ Closed PR [#4](https://github.com/electrocucaracha/gh-updater/pull/4) in [electrocucaracha/gh-updater](https://github.com/electrocucaracha/gh-updater)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
