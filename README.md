@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#37](https://github.com/electrocucaracha/yt-summarizer/issues/37) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-2. 💪 Opened PR [#3739](https://github.com/NVIDIA/aicr/pull/3739) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
-3. ℹ️ Labeled issue [#3737](https://github.com/NVIDIA/aicr/issues/3737) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
-4. ❗ Opened issue [#3737](https://github.com/NVIDIA/aicr/issues/3737) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
-5. 🗣 Commented on [#59119](https://github.com/kubernetes/website/pull/59119#issuecomment-6744955774) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#3739](https://github.com/NVIDIA/aicr/pull/3739#issuecomment-6815572400) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
+2. 🗣 Commented on [#3739](https://github.com/NVIDIA/aicr/pull/3739#issuecomment-6812253728) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
+3. 🔒 Closed issue [#38](https://github.com/electrocucaracha/yt-summarizer/issues/38) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
+4. 🗣 Commented on [#3737](https://github.com/NVIDIA/aicr/issues/3737#issuecomment-6801209654) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
+5. 🔒 Closed issue [#37](https://github.com/electrocucaracha/yt-summarizer/issues/37) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
