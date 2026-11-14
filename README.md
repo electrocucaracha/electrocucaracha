@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3801](https://github.com/NVIDIA/aicr/pull/3801) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
-2. 🗣 Commented on [#3796](https://github.com/NVIDIA/aicr/issues/3796#issuecomment-6835276174) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
-3. 🎉 Merged PR [#3739](https://github.com/NVIDIA/aicr/pull/3739) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
-4. 🗣 Commented on [#3739](https://github.com/NVIDIA/aicr/pull/3739#issuecomment-6830706853) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
-5. 🗣 Commented on [#3739](https://github.com/NVIDIA/aicr/pull/3739#issuecomment-6815572400) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
+1. 🎉 Merged PR [#3801](https://github.com/NVIDIA/aicr/pull/3801) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
+2. 🔒 Closed issue [#158](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/158) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
+3. 🔒 Closed issue [#23](https://github.com/electrocucaracha/gh-workflows/issues/23) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+4. 💪 Opened PR [#3801](https://github.com/NVIDIA/aicr/pull/3801) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
+5. 🗣 Commented on [#3796](https://github.com/NVIDIA/aicr/issues/3796#issuecomment-6835276174) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
