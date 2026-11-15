@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3801](https://github.com/NVIDIA/aicr/pull/3801) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
-2. 🔒 Closed issue [#158](https://github.com/electrocucaracha/kubevirt-actions-runner/issues/158) in [electrocucaracha/kubevirt-actions-runner](https://github.com/electrocucaracha/kubevirt-actions-runner)
-3. 🔒 Closed issue [#23](https://github.com/electrocucaracha/gh-workflows/issues/23) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
-4. 💪 Opened PR [#3801](https://github.com/NVIDIA/aicr/pull/3801) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
-5. 🗣 Commented on [#3796](https://github.com/NVIDIA/aicr/issues/3796#issuecomment-6835276174) in [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
+1. 🔒 Closed issue [#25](https://github.com/electrocucaracha/gh-workflows/issues/25) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+2. 🔒 Closed issue [#4](https://github.com/electrocucaracha/skills/issues/4) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
+3. 🔒 Closed issue [#3](https://github.com/electrocucaracha/skills/issues/3) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
+4. 🔒 Closed issue [#2](https://github.com/electrocucaracha/skills/issues/2) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
+5. 🔒 Closed issue [#1](https://github.com/electrocucaracha/skills/issues/1) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
