@@ -78,11 +78,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/electrocucaracha/gh-workflows/issues/25) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
-2. 🔒 Closed issue [#4](https://github.com/electrocucaracha/skills/issues/4) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
-3. 🔒 Closed issue [#3](https://github.com/electrocucaracha/skills/issues/3) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
-4. 🔒 Closed issue [#2](https://github.com/electrocucaracha/skills/issues/2) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
-5. 🔒 Closed issue [#1](https://github.com/electrocucaracha/skills/issues/1) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
+1. 🔒 Closed issue [#35](https://github.com/electrocucaracha/ai-changelog/issues/35) in [electrocucaracha/ai-changelog](https://github.com/electrocucaracha/ai-changelog)
+2. 🔒 Closed issue [#25](https://github.com/electrocucaracha/gh-workflows/issues/25) in [electrocucaracha/gh-workflows](https://github.com/electrocucaracha/gh-workflows)
+3. 🔒 Closed issue [#4](https://github.com/electrocucaracha/skills/issues/4) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
+4. 🔒 Closed issue [#3](https://github.com/electrocucaracha/skills/issues/3) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
+5. 🔒 Closed issue [#2](https://github.com/electrocucaracha/skills/issues/2) in [electrocucaracha/skills](https://github.com/electrocucaracha/skills)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
