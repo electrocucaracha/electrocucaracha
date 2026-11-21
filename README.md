@@ -5,6 +5,13 @@
 [![GitHub electrocucaracha](https://img.shields.io/github/followers/electrocucaracha?label=follow&style=social)](https://github.com/electrocucaracha)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=electrocucaracha.electrocucaracha)
 
+<a href="https://certdirectory.io/profile/victor-morales?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/victor-morales.svg?style=card&theme=dark">
+    <img alt="Victor Morales on CertDirectory" src="https://certdirectory.io/badge/victor-morales.svg?style=card">
+  </picture>
+</a>
+
 I am a passionate Senior Staff Software Engineer with over 20 years of experience,
 specializing in automated software solutions and driving strategic initiatives to foster collaboration.
 My expertise lies in Cloud Computing, where I have made significant contributions to open-source projects
