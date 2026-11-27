@@ -85,11 +85,11 @@ I am dedicated to advancing industry standards and fostering growth.
 
 <!-- textlint-disable terminology -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59268](https://github.com/kubernetes/website/pull/59268) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#59206](https://github.com/kubernetes/website/pull/59206#issuecomment-7179254362) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#59264](https://github.com/kubernetes/website/pull/59264#issuecomment-7173906043) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🔒 Closed issue [#41](https://github.com/electrocucaracha/yt-summarizer/issues/41) in [electrocucaracha/yt-summarizer](https://github.com/electrocucaracha/yt-summarizer)
-5. 🔒 Closed issue [#27](https://github.com/electrocucaracha/vagrant-boxes/issues/27) in [electrocucaracha/vagrant-boxes](https://github.com/electrocucaracha/vagrant-boxes)
+1. 🗣 Commented on [#59019](https://github.com/kubernetes/website/pull/59019#issuecomment-7199246797) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#59203](https://github.com/kubernetes/website/pull/59203#issuecomment-7199221808) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 💪 Opened PR [#59268](https://github.com/kubernetes/website/pull/59268) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#59206](https://github.com/kubernetes/website/pull/59206#issuecomment-7179254362) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#59264](https://github.com/kubernetes/website/pull/59264#issuecomment-7173906043) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 <!-- textlint-enable terminology -->
 
